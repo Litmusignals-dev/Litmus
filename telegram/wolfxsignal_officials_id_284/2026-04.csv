@@ -71,3 +71,45 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 📈 Market Context
 • ...% per trade
 • Rule: Move SL to breakeven after TP2",1e8bcdd0aaee11a486e94a6162b4afac,2026-04-11T04:11:25+00:00,2026-05-01T06:40:28.231414+00:00,284,wolfxsignal_officials
+244115,39102,"TRADE: $RESOLV/USDT
+🟩 LONG
+
+📈 Market Context
+• Str...% per trade
+• Rule: Move SL to breakeven after TP2",73b758b8585bd56a591831c8d7c3b2a9,2026-04-30T06:08:55+00:00,2026-05-04T17:12:12.099931+00:00,284,wolfxsignal_officials
+244100,39093,"TRADE: $BIO/USDT
+🟩 LONG
+
+📈 Market Context
+• Struct...% per trade
+• Rule: Move SL to breakeven after TP2",f39ee97bb3d9045955c6a01ba4192fbd,2026-04-29T05:23:47+00:00,2026-05-04T17:12:11.889703+00:00,284,wolfxsignal_officials
+244178,39084,"TRADE: $FET/USDT
+🟥 SHORT
+
+📈 Market Context
+• Struc...% per trade
+• Rule: Move SL to breakeven after TP2",15601afbbd92c3a56463256c14ed8ba9,2026-04-27T11:09:33+00:00,2026-05-04T17:12:33.406043+00:00,284,wolfxsignal_officials
+244179,39083,"TRADE: $NAORIS/USDT
+🟩 LONG
+
+📈 Market Context
+• Str...% per trade
+• Rule: Move SL to breakeven after TP2",95304ad1a1f70d3a070ce12a78c43410,2026-04-27T07:03:24+00:00,2026-05-04T17:12:33.551437+00:00,284,wolfxsignal_officials
+244236,39076,"TRADE: $AXS/USDT
+🟩 LONG
+
+📈 Market Context
+• Struct...% per trade
+• Rule: Move SL to breakeven after TP2",481f1d6f1d487175d162167bd3d8ad11,2026-04-25T04:41:53+00:00,2026-05-04T17:12:35.010057+00:00,284,wolfxsignal_officials
+244185,39062,"TRADE: $ENJ/USDT
+🟩 LONG
+
+📈 Market Context
+• Struct...% per trade
+• Rule: Move SL to breakeven after TP2",813b34e15dd816f428923109b8e5f424,2026-04-24T05:15:02+00:00,2026-05-04T17:12:33.848968+00:00,284,wolfxsignal_officials
+244187,39061,"TRADE: $KAT/USDT
+🟥 SHORT
+
+📈 Market Context
+• Struc...% per trade
+• Rule: Move SL to breakeven after TP2",bcb06404dac5994e9ba3e22212dafb53,2026-04-24T05:10:58+00:00,2026-05-04T17:12:33.845271+00:00,284,wolfxsignal_officials
