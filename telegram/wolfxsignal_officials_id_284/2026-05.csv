@@ -167,3 +167,9 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 📈 Market Context
 • Struct...% per trade
 • Rule: Move SL to breakeven after TP2",3317de01d09c034d63cfbb632e14cc8c,2026-05-30T05:41:28+00:00,2026-05-30T18:58:27.759306+00:00,284,wolfxsignal_officials
+286810,39316,"TRADE: $ZRO/USDT
+🟩 LONG
+
+📈 Market Context
+• Struct...% per trade
+• Rule: Move SL to breakeven after TP2",99bc98631774523422faafff866a63ca,2026-05-31T08:19:47+00:00,2026-05-31T18:46:50.205127+00:00,284,wolfxsignal_officials
