@@ -9,3 +9,24 @@ Leverage: 5 - 25x
 0.04195
 
 Stoploss: 0.04550",3118ebf547fa9a99f80c5cccb7867e8f,2026-03-04T12:37:16+00:00,2026-03-20T18:51:48.153571+00:00,38,@myc_signals_crypto
+292092,12541,"#SIREN/USDT
+Signal Type: Long 
+Leverage: 5x
+
+Entry...ts:
+2.754
+2.799
+2.819
+2.835
+2.888
+
+Stoploss: 2.600",7a90be27c6392448877301aed0adb7a1,2026-03-22T16:46:11+00:00,2026-06-01T18:48:13.663159+00:00,38,@myc_signals_crypto
+292094,12540,"#PIPPIN/USDT
+Signal Type: Long 
+Leverage: 5 - 10x
+...0.10101
+0.10119
+0.10145
+0.10189
+
+Stoploss: 0.09970",ec8e51ee5cc1f5f25a32d252edc67c3c,2026-03-22T16:28:06+00:00,2026-06-01T18:48:13.691685+00:00,38,@myc_signals_crypto
