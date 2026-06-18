@@ -9,3 +9,63 @@ Leverage: Cross 100X
 Entry zone: 0....ation:
 Stop: Moving Target -
   Trigger: Target (1)",88d04d123a33c6936702c47cc5ae5d35,2026-06-09T19:07:41+00:00,2026-06-10T07:39:42.153877+00:00,257,altsignal_vip
+320002,9330,"RLCUSDT SHORT
+Leverage: Cross 10X
+Entry zone: 0.34...ation:
+Stop: Moving Target -
+  Trigger: Target (1)",de5b9601e2a5a4439db64a0dcf7631f2,2026-06-17T12:34:50+00:00,2026-06-18T19:47:08.788722+00:00,257,altsignal_vip
+320010,9327,"MANTAUSDT SHORT
+Leverage: Cross 5X
+Entry zone: 0.0...ation:
+Stop: Moving Target -
+  Trigger: Target (1)",cf74668e6c698ed566d84699fadd57e8,2026-06-17T11:32:34+00:00,2026-06-18T19:47:09.886199+00:00,257,altsignal_vip
+320013,9319,"IOTAUSDT LONG
+Leverage: Cross 20X
+Entry zone: 0.04...ation:
+Stop: Moving Target -
+  Trigger: Target (1)",8c8e8ed70f9fb45e267c667c050698ec,2026-06-15T11:28:15+00:00,2026-06-18T19:47:10.038566+00:00,257,altsignal_vip
+320041,9315,"ARUSDT LONG
+Leverage: Cross 5X
+Entry zone: 2.108 -...ation:
+Stop: Moving Target -
+  Trigger: Target (1)",2dd23621e77a15cfe6f2c3214c4cf2b8,2026-06-15T10:32:28+00:00,2026-06-18T19:47:10.601651+00:00,257,altsignal_vip
+320016,9312,"LINKUSDT LONG
+Leverage: Cross 10X
+Entry zone: 8.23...ation:
+Stop: Moving Target -
+  Trigger: Target (1)",c7a7197b14adb02f665b2c1f62ade94e,2026-06-15T10:29:15+00:00,2026-06-18T19:47:10.053944+00:00,257,altsignal_vip
+320038,9304,"XLMUSDT SHORT
+Leverage: Cross 10X
+Entry zone: 0.18...ation:
+Stop: Moving Target -
+  Trigger: Target (1)",8c8633f6206831a8a1c05cc5ee4ade67,2026-06-14T18:39:02+00:00,2026-06-18T19:47:10.580965+00:00,257,altsignal_vip
+320021,9301,"SNXUSDT SHORT
+Leverage: Cross 10X
+Entry zone: 0.23...ation:
+Stop: Moving Target -
+  Trigger: Target (1)",7ca6b81cb06c11d1fe6f8384bac5c01f,2026-06-14T18:13:03+00:00,2026-06-18T19:47:10.217411+00:00,257,altsignal_vip
+320042,9296,"VIRTUALUSDT LONG
+Leverage: Cross 10X
+Entry zone: 0...ation:
+Stop: Moving Target -
+  Trigger: Target (1)",725438f6fb8c77050199375b15628730,2026-06-13T21:32:08+00:00,2026-06-18T19:47:10.606148+00:00,257,altsignal_vip
+320019,9293,"SSVUSDT LONG
+Leverage: Cross 10X
+Entry zone: 2.300...ation:
+Stop: Moving Target -
+  Trigger: Target (1)",63442cc4530168f59948ec02a2ad808c,2026-06-13T21:08:35+00:00,2026-06-18T19:47:10.170976+00:00,257,altsignal_vip
+320033,9287,"ZROUSDT LONG
+Leverage: Cross 10X
+Entry zone: 0.943...ation:
+Stop: Moving Target -
+  Trigger: Target (1)",dc8863e29d4b18b6c764917996d90c7d,2026-06-13T12:03:25+00:00,2026-06-18T19:47:10.534708+00:00,257,altsignal_vip
+320030,9284,"BBUSDT LONG
+Leverage: Cross 10X
+Entry zone: 0.0217...ation:
+Stop: Moving Target -
+  Trigger: Target (1)",49148f4f730c18e997460889325e941f,2026-06-13T08:17:06+00:00,2026-06-18T19:47:10.421316+00:00,257,altsignal_vip
+320035,9279,"BTCUSDT LONG
+Leverage: Cross 20X
+Entry zone: 62920...ation:
+Stop: Moving Target -
+  Trigger: Target (1)",25387fd7577b5d87e52350a61b4d9de3,2026-06-11T06:44:07+00:00,2026-06-18T19:47:10.560420+00:00,257,altsignal_vip
