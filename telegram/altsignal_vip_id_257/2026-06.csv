@@ -99,3 +99,28 @@ Leverage: Cross 5X
 Entry zone: 2.725 ...ation:
 Stop: Moving Target -
   Trigger: Target (1)",56e5e8b8565005cf3914c3ee6e08e1e7,2026-06-20T03:42:32+00:00,2026-06-21T19:59:04.640402+00:00,257,altsignal_vip
+340961,9384,"GRIFFAINUSDT SHORT
+Leverage: Cross 10X
+Entry zone:...ation:
+Stop: Moving Target -
+  Trigger: Target (1)",4f3b438862652d24e87a49a18c975e74,2026-06-24T10:47:45+00:00,2026-06-25T00:45:28.466306+00:00,257,altsignal_vip
+340950,9378,"VIRTUALUSDT SHORT
+Leverage: Cross 10X
+Entry zone: ...ation:
+Stop: Moving Target -
+  Trigger: Target (1)",4f74d66faee04bbf3326dbc34dba6cc2,2026-06-23T11:13:53+00:00,2026-06-25T00:45:28.228289+00:00,257,altsignal_vip
+340974,9373,"AVAUSDT SHORT
+Leverage: Cross 5X
+Entry zone: 0.182...ation:
+Stop: Moving Target -
+  Trigger: Target (1)",17458c3b9642d276f6d1337333216e50,2026-06-23T07:18:15+00:00,2026-06-25T00:45:28.606349+00:00,257,altsignal_vip
+340984,9368,"AVAUSDT SHORT
+Leverage: Cross 50X
+Entry zone: 0.18...ation:
+Stop: Moving Target -
+  Trigger: Target (1)",208781163a7edbb92ad774eaf4d1f899,2026-06-23T07:17:46+00:00,2026-06-25T00:45:28.671818+00:00,257,altsignal_vip
+340991,9363,"ICPUSDT LONG
+Leverage: Cross 10X
+Entry zone: 2.290...ation:
+Stop: Moving Target -
+  Trigger: Target (1)",23f18fd8f5dcb2e8131f11f968a2cd0c,2026-06-22T14:42:26+00:00,2026-06-25T00:45:28.762913+00:00,257,altsignal_vip
