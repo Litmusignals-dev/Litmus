@@ -124,3 +124,13 @@ Leverage: Cross 10X
 Entry zone: 2.290...ation:
 Stop: Moving Target -
   Trigger: Target (1)",23f18fd8f5dcb2e8131f11f968a2cd0c,2026-06-22T14:42:26+00:00,2026-06-25T00:45:28.762913+00:00,257,altsignal_vip
+355691,9399,"SEIUSDT SHORT
+Leverage: Cross 5X
+Entry zone: 0.050...ation:
+Stop: Moving Target -
+  Trigger: Target (1)",363cc56a4c507d95cfb36a56951a6fa9,2026-06-27T19:18:55+00:00,2026-06-29T07:24:16.970713+00:00,257,altsignal_vip
+355690,9395,"ENAUSDT SHORT
+Leverage: Cross 5X
+Entry zone: 0.077...ation:
+Stop: Moving Target -
+  Trigger: Target (1)",d497db0902109772ee8bfd4b7793117d,2026-06-26T12:01:05+00:00,2026-06-29T07:24:16.928987+00:00,257,altsignal_vip
