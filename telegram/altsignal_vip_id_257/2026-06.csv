@@ -134,3 +134,23 @@ Leverage: Cross 5X
 Entry zone: 0.077...ation:
 Stop: Moving Target -
   Trigger: Target (1)",d497db0902109772ee8bfd4b7793117d,2026-06-26T12:01:05+00:00,2026-06-29T07:24:16.928987+00:00,257,altsignal_vip
+362798,9413,"1000CATUSDT SHORT
+Leverage: Cross 10X
+Entry zone: ...ation:
+Stop: Moving Target -
+  Trigger: Target (1)",8b976e4f622329229ccbd44543cdcd04,2026-06-30T13:33:29+00:00,2026-07-02T08:24:41.049916+00:00,257,altsignal_vip
+362808,9411,"ENJUSDT SHORT
+Leverage: Cross 10X
+Entry zone: 0.02...ation:
+Stop: Moving Target -
+  Trigger: Target (1)",072fac97273ef3ab0c7235b5f7b51659,2026-06-30T12:24:03+00:00,2026-07-02T08:24:41.202071+00:00,257,altsignal_vip
+362805,9404,"MOVEUSDT SHORT
+Leverage: Cross 20X
+Entry zone: 0.0...ation:
+Stop: Moving Target -
+  Trigger: Target (1)",16043946948cdfb5b01d37dbfccbe6ab,2026-06-29T15:09:14+00:00,2026-07-02T08:24:41.135691+00:00,257,altsignal_vip
+362800,9403,"PHAUSDT SHORT
+Leverage: Cross 10X
+Entry zone: 0.02...ation:
+Stop: Moving Target -
+  Trigger: Target (1)",fc6fe40ff19e09025d1e14049b10da3a,2026-06-29T14:09:51+00:00,2026-07-02T08:24:41.090640+00:00,257,altsignal_vip
