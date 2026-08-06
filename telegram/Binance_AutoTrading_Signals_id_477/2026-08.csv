@@ -1,0 +1,23 @@
+id,external_id,message_preview,hash,published_at,created_at,source_id,source_name
+516984,11258,"EIGENUSDT SHORT
+Leverage: Cross 20x
+Entry: 0.1837
+Target 1: 0.1819
+Target 2: 0.1800
+Stoploss: 0.1870",b6d6b3891740327b946f961a44d14064,2026-08-05T22:00:20+00:00,2026-08-05T22:38:34.177434+00:00,477,Binance_AutoTrading_Signals
+516982,11256,"EIGENUSDT SHORT
+Leverage: Cross 20x
+Entry: 0.1837
+Target 1: 0.1819
+Target 2: 0.1800
+Stoploss: 0.1870",b6d6b3891740327b946f961a44d14064,2026-08-05T22:00:20+00:00,2026-08-05T22:38:34.159292+00:00,477,Binance_AutoTrading_Signals
+512654,11252,"PEPEUSDT SHORT
+Leverage: Cross 11x
+Entry: 0.000002...8184
+Target 2: 0.0000027900
+Stoploss: 0.0000029266",3e9b5a6c5e6f0b423c891a30732fb272,2026-08-05T16:00:18+00:00,2026-08-05T16:21:27.272527+00:00,477,Binance_AutoTrading_Signals
+512653,11251,"PEPEUSDT SHORT
+Leverage: Cross 11x
+Entry: 0.000002...8184
+Target 2: 0.0000027900
+Stoploss: 0.0000029266",3e9b5a6c5e6f0b423c891a30732fb272,2026-08-05T16:00:17+00:00,2026-08-05T16:21:27.265304+00:00,477,Binance_AutoTrading_Signals
