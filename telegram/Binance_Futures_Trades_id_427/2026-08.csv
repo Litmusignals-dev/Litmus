@@ -111,3 +111,26 @@ Stop Loss: 0.0...Target 4: 0.00358
 Target 5: 0.00347
 
 Leverage: x32",4704443ebb65864be54ec9bfa4c00d3e,2026-08-04T01:00:28+00:00,2026-08-04T01:43:34.943478+00:00,427,Binance_Futures_Trades
+493377,46536,"#LSK/USDT - Long🟢
+
+Entry: 0.0763
+Stop Loss: 0.04581
+
+Target 1: 0.08402
+
+Leverage: x27",84c31344434613fa95425a1b47499a14,2026-08-03T13:52:56+00:00,2026-08-03T13:54:49.632977+00:00,427,Binance_Futures_Trades
+493368,46528,"#EUL/USDT - Long🟢
+
+Entry: 1.445
+Stop Loss: 1.34983...Target 1: 1.55229
+Target 2: 1.68054
+
+Leverage: x37",826e7fb7a06e420dc33b8f9c4d5a3bea,2026-08-03T12:19:46+00:00,2026-08-03T13:54:49.352531+00:00,427,Binance_Futures_Trades
+489266,46516,"#ROSE/USDT - Short🔴
+
+Entry: 0.0053
+Stop Loss: 0.00748
+
+Target 1: 0.00481
+
+Leverage: x14",2e7c1a5c3a7c58ea28b6a5591754d07a,2026-08-03T02:16:50+00:00,2026-08-03T02:48:46.772662+00:00,427,Binance_Futures_Trades
