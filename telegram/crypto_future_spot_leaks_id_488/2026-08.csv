@@ -119,3 +119,7 @@ Position: LONG
 Leverage:  C...rgets: 🎯 0.0566, 0.0586, 0.0606
 
 Stop Loss: 0.0506",d9d5d578ebce9715b164957ff79cb13a,2026-08-01T04:48:49+00:00,2026-08-01T04:53:30.769244+00:00,488,crypto_future_spot_leaks
+606816,28092,"COIN: #OPUSDT
+Leverage: 10x
+Direction: SHORT | Typ...5 - 0.08478 - 0.08216 - 0.07691
+STOP LOSS: 0.09439",7fefe6623b111c6e0ff0536f1821431e,2026-08-15T04:35:56+00:00,2026-08-15T04:54:07.673886+00:00,488,crypto_future_spot_leaks
