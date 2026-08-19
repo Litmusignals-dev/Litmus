@@ -262,3 +262,15 @@ Entry: 4.241
 Target 1: 4.283
 Target 2: 4.326
 Stoploss: 4.135",48cc9d2c20e26cf48b9498e50dd06ba9,2026-08-19T07:00:21+00:00,2026-08-19T07:18:45.891790+00:00,477,Binance_AutoTrading_Signals
+641374,11522,"EIGENUSDT SHORT
+Leverage: Cross 20x
+Entry: 0.1655
+Target 1: 0.1638
+Target 2: 0.1622
+Stoploss: 0.1685",ed5332de43b9f5826a598d4bbf8f6d80,2026-08-18T03:00:36+00:00,2026-08-18T03:17:22.261295+00:00,477,Binance_AutoTrading_Signals
+641373,11521,"EIGENUSDT SHORT
+Leverage: Cross 20x
+Entry: 0.1655
+Target 1: 0.1638
+Target 2: 0.1622
+Stoploss: 0.1685",ed5332de43b9f5826a598d4bbf8f6d80,2026-08-18T03:00:19+00:00,2026-08-18T03:17:22.253934+00:00,477,Binance_AutoTrading_Signals
