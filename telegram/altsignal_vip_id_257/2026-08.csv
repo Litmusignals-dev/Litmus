@@ -4,3 +4,23 @@ Leverage: Cross 20X
 Entry zone: 0.10...ation:
 Stop: Moving Target -
   Trigger: Target (1)",7316d0a623db15e54f41fd2134515660,2026-08-11T14:26:23+00:00,2026-08-11T14:46:42.166206+00:00,257,altsignal_vip
+563131,9610,"LDOUSDT LONG
+Leverage: Cross 20X
+Entry zone: 0.296...ation:
+Stop: Moving Target -
+  Trigger: Target (1)",cb6ba8a6345c975caa2a0a10b05d3671,2026-08-10T19:20:22+00:00,2026-08-10T20:00:58.584307+00:00,257,altsignal_vip
+563130,9609,"ALCHUSDT SHORT
+Leverage: Cross 10X
+Entry zone: 0.0...ation:
+Stop: Moving Target -
+  Trigger: Target (1)",4ff795ac8fd2310cdc666174ead0f556,2026-08-10T18:15:29+00:00,2026-08-10T20:00:58.583393+00:00,257,altsignal_vip
+553869,9604,"THETAUSDT LONG
+Leverage: Cross 5X
+Entry zone: 0.14...ation:
+Stop: Moving Target -
+  Trigger: Target (1)",29ae2c078ddeb4bae991ee010d3064f1,2026-08-09T20:46:12+00:00,2026-08-09T21:02:45.474043+00:00,257,altsignal_vip
+553000,9601,"SANTOSUSDT LONG
+Leverage: Cross 5X
+Entry zone: 0.4...ation:
+Stop: Moving Target -
+  Trigger: Target (1)",759cc84097f77d51e956295f3240fd05,2026-08-09T18:25:02+00:00,2026-08-09T18:58:10.193275+00:00,257,altsignal_vip
