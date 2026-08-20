@@ -104,3 +104,8 @@ Leverage: Cross 5X
 Entry zone: 1.75...ation:
 Stop: Moving Target -
   Trigger: Target (1)",1f23e2adfe7be0a3e337834535337849,2026-07-03T11:59:59+00:00,2026-07-26T17:44:35.622098+00:00,257,altsignal_vip
+466090,9567,"ROSEUSDT SHORT
+Leverage: Cross 10X
+Entry zone: 0.0...ation:
+Stop: Moving Target -
+  Trigger: Target (1)",7f787d6a70aa7e44d09569261c3d9260,2026-07-31T12:48:36+00:00,2026-07-31T12:53:36.780088+00:00,257,altsignal_vip
