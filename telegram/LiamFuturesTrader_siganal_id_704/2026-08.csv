@@ -22,3 +22,17 @@ Pair: #ETH/USDT
 Stop Loss: 2253.02
 
 Leverage: 10x-20x",9e16248ccbb301694b3a8905a1ab41dc,2026-08-22T10:17:28+00:00,2026-08-22T10:34:54.720845+00:00,704,LiamFuturesTrader_siganal
+831174,6525,"Short
+
+#HYPEUSDT
+
+Entry : 81.90 - 83.50
+
+Targets:
+...
+Stop Targets:
+5-10%
+
+Leverage Cross 50x
+
+Use #DCA",4f3434f345428777611662559db18432,2026-08-25T09:52:18+00:00,2026-08-25T09:57:56.210718+00:00,704,LiamFuturesTrader_siganal
