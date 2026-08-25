@@ -36,3 +36,34 @@ Stop Targets:
 Leverage Cross 50x
 
 Use #DCA",4f3434f345428777611662559db18432,2026-08-25T09:52:18+00:00,2026-08-25T09:57:56.210718+00:00,704,LiamFuturesTrader_siganal
+810284,6520,"Short
+
+#BTCUSDT
+
+Entry : 79000 - 80800
+
+Targets:
+
+...
+Stop Targets:
+5-10%
+
+Leverage Cross 70x
+
+Use #DCA",a1a68603e949a31996d1fbf3414bb6ab,2026-08-24T13:15:52+00:00,2026-08-24T13:41:17.646180+00:00,704,LiamFuturesTrader_siganal
+799733,6516,"Long
+
+#DOT/USDT
+
+Entry : 0.899 - 0.868
+
+Targets:
+
+...15
+
+Stop Targets:
+5-10%
+
+Leverage Cross 20x 
+
+Spot",84171a442057950247024db8a078a856,2026-08-24T04:04:36+00:00,2026-08-24T04:18:46.497877+00:00,704,LiamFuturesTrader_siganal
