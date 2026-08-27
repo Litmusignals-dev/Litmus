@@ -83,3 +83,16 @@ Pair: #IOST/USDT
 Stop Loss: 0.00062663
 
 Leverage: 10x-20x",d63c3ce0e38ed0640c66a5f8fd952b21,2026-08-26T14:46:30+00:00,2026-08-26T16:46:33.456248+00:00,704,LiamFuturesTrader_siganal
+898557,6536,"Short
+
+#SOLUSDT
+
+Entry : 106.90 - 110.20
+
+Targets:...
+Stop Targets:
+5-10%
+
+Leverage Cross 50x
+
+Use #DCA",fbd3ca31740abc9152fd90f3db0f0ba2,2026-08-27T15:42:24+00:00,2026-08-27T15:57:37.874465+00:00,704,LiamFuturesTrader_siganal
