@@ -154,3 +154,29 @@ Pair: #XLM/USDT
 Stop Loss: 0.19113
 
 Leverage: 10x-20x",0212671b707b78e8dfd238e822966ab7,2026-08-29T15:01:44+00:00,2026-08-29T17:22:32.894118+00:00,704,LiamFuturesTrader_siganal
+954119,6585,"Short 
+
+#PIEVERSEUSDT 
+
+Entry: 1.141 - 1.250
+
+Targ...
+Stop Targets:
+5-10%
+
+Leverage Cross 20x
+
+Use #DCA",05264537d69a5d2f5ab12744188fe363,2026-08-29T19:18:55+00:00,2026-08-29T21:43:53.293109+00:00,704,LiamFuturesTrader_siganal
+954118,6582,"Short
+
+#ZECUSDT
+
+Entry : 837.00 - 852.00
+
+Targets:...50
+780.90
+
+Stop Targets:
+5-10%
+
+Leverage Cross 50x",36d800eed31368156df1b0cba80caecd,2026-08-29T19:07:55+00:00,2026-08-29T21:43:53.237305+00:00,704,LiamFuturesTrader_siganal
