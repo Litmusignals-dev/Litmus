@@ -395,3 +395,12 @@ L... 6.087
 
 ✖️ Stop-Loss: 5.465
 🟰 After TP1 → SL to BE",5e28f8e88b471ff786ae661518b3ec14,2026-09-01T21:29:46+00:00,2026-09-01T23:34:44.290339+00:00,786,signal_peak
+1025337,10233,"🔴 SHORT
+
+👉 Strategy :   Breakout Strategy
+
+#IOST/U...174
+
+ Stop : 0.00064152
+
+Leverage : 10x (isolated)",537b1bd89ff3619471ef327297ba11aa,2026-09-02T00:08:05+00:00,2026-09-02T01:08:13.659856+00:00,786,signal_peak
