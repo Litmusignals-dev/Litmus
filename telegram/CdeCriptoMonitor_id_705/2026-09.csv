@@ -8,3 +8,6 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 1046872,5709,"🔴 VWAP SHORT ETH (5m) 2,403 -> https://monitorcdecripto.tech/ETHUSDT
 
 @CdeCriptoMonitor",0f8d584179dbc9c56f8cdeff9611a5cc,2026-09-03T03:05:38+00:00,2026-09-03T04:22:53.937138+00:00,705,CdeCriptoMonitor
+1057743,5712,"🟢 VWAP LONG BTC (5m) 77,546 -> https://monitorcdecripto.tech/BTCUSDT
+
+@CdeCriptoMonitor",e24e1f95699705ac26db9f5d13140060,2026-09-03T10:50:37+00:00,2026-09-03T12:48:04.089798+00:00,705,CdeCriptoMonitor
