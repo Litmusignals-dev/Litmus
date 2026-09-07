@@ -1,0 +1,45 @@
+id,external_id,message_preview,hash,published_at,created_at,source_id,source_name
+1150816,2314,"🔴 SHORT
+
+#BNBUSDT
+
+Entry :
+
+1) 748.69
+2) 751.5
+
+Ta...
+3) 728
+
+🛑 Stop : 756.8
+
+Leverage : 10x (Isolated)",2d9ca33e19146e46474131b4f08f0f49,2026-09-07T02:00:11+00:00,2026-09-07T02:26:51.097475+00:00,980,bingxmea
+1150818,2312,"🔴 SHORT
+
+#AVAXUSDT
+
+Entry :
+
+1) 7.903
+2) 7.945
+
+Ta...2) 7.52
+
+🛑 Stop : 8.045
+
+Leverage : 10x (Isolated)",0c57f65b3be069ed5102c854a2ffe18b,2026-09-07T01:00:08+00:00,2026-09-07T02:26:51.124059+00:00,980,bingxmea
+1150819,2311,"🟢 LONG
+
+#BTCUSDT
+
+Entry :
+
+1) 80340
+2) 80150
+
+Targ...0
+3) 81900
+
+🛑 Stop : 79900
+
+Leverage : 20x (Cross)",80e0cef638b372b7dff6f6230f5fe9ac,2026-09-07T00:00:07+00:00,2026-09-07T02:26:51.130610+00:00,980,bingxmea
