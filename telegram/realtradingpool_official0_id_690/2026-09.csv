@@ -36,3 +36,29 @@ Entry :
 🛑 Stop : 0.0929
 
 Leverage : 10x (isolated)",70e5a0ed8f6f2904a9f8878e40b900f0,2026-09-08T11:31:40+00:00,2026-09-08T12:46:09.592940+00:00,690,realtradingpool_official0
+1218164,529,"Long
+
+#IOST/USDT
+
+Entry : 0.00082 - 0.00070
+
+Targe...6
+0.00106
+
+Stop Targets:
+5-10%
+
+Leverage Cross 20x",bef63f9e31a62e6983574665876ff2c7,2026-09-09T07:40:40+00:00,2026-09-09T09:03:06.280142+00:00,690,realtradingpool_official0
+1218163,527,"Short
+
+#DOT/USDT
+
+Entry : 1.25 - 1.42
+
+Strategy: S...1.07
+1.00
+
+Stop Targets:
+5-10%
+
+Leverage Cross 20x",9f0fec4907ee05d7350872f99d6a9da9,2026-09-09T07:40:37+00:00,2026-09-09T09:03:06.272779+00:00,690,realtradingpool_official0
