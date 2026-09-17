@@ -807,3 +807,32 @@ Signal Type:...
 
 Stop Targets:
 5-10%",2a23ac6f92fdd9732b96f8b01553db5b,2026-09-17T03:50:19+00:00,2026-09-17T12:47:43.219406+00:00,1074,binance_cryptobull_live_signals
+1393178,12185,"LTC/USDT
+
+SHORT
+
+Entry : 
+
+1) 52.84
+2) 54.42
+
+Targ...
+4) 49.18
+
+Stop : 56.16
+
+Leverage : 10x (isolated)",4fe3a946d990a4e0be9b49a73bc3bd1c,2026-09-17T14:46:34+00:00,2026-09-17T15:48:49.591644+00:00,1074,binance_cryptobull_live_signals
+1393188,12183,"Short
+
+#HYPEUSDT
+
+Entry : 82.90 - 87.50
+
+Targets:
+...
+Stop Targets:
+5-10%
+
+Leverage Cross 50x
+
+Use #DCA",2301ce58ba26ad120be5d0b2f3cdada6,2026-09-17T14:46:01+00:00,2026-09-17T15:48:49.617561+00:00,1074,binance_cryptobull_live_signals
