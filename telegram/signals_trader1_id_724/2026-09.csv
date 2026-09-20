@@ -627,3 +627,47 @@ Stop Loss: 2.56311
 Target 10: 2.90995
 
 Leverage: x34",0156fe6443650f5e0b5166dbafda172d,2026-09-19T03:01:57+00:00,2026-09-20T02:00:49.738249+00:00,724,signals_trader1
+1470317,60065,"#SUI/USDT - Long🟢
+
+Entry: 0.895
+Stop Loss: 0.49282...Target 9: 1.0409
+Target 10: 1.05315
+
+Leverage: x29",affe0f2d7f413fd788ff85cf3eec8a08,2026-09-20T18:01:07+00:00,2026-09-20T20:56:31.474540+00:00,724,signals_trader1
+1470301,60045,"#RENDER/USDT - Long🟢
+
+Entry: 1.607
+Stop Loss: 1.51...Target 4: 1.92129
+Target 5: 1.96898
+
+Leverage: x27",18c06b502c6b6fe7a0373fc80fe6d1ba,2026-09-20T16:18:38+00:00,2026-09-20T20:56:31.398707+00:00,724,signals_trader1
+1470357,60023,"#PIXEL/USDT - Short🔴
+
+Entry: 0.005
+Stop Loss: 0.00699
+
+Target 1: 0.00449
+
+Leverage: x16",4123a1e0cc8676aa342dd008851a9845,2026-09-20T14:21:02+00:00,2026-09-20T20:56:31.646827+00:00,724,signals_trader1
+1470276,60012,"#LINK/USDT - Long🟢
+
+Entry: 12.098
+Stop Loss: 11.92...rget 4: 12.79177
+Target 5: 12.92533
+
+Leverage: x27",a430a648eb9aabb7293439f4d7cd0890,2026-09-20T12:07:02+00:00,2026-09-20T20:56:29.988000+00:00,724,signals_trader1
+1470346,59998,"#ROSE/USDT - Short🔴
+
+Entry: 0.0073
+Stop Loss: 0.01019
+
+Target 1: 0.00648
+
+Leverage: x27",bc2ccce04bece6d7335c7ddc97ca3c75,2026-09-20T10:08:19+00:00,2026-09-20T20:56:31.604060+00:00,724,signals_trader1
+1470303,59984,"#CYBER/USDT - Long🟢
+
+Entry: 0.3367
+Stop Loss: 0.31...arget 9: 0.34662
+Target 10: 0.34591
+
+Leverage: x42",72775f0c9abd6f3a315adc2d5fdbf26a,2026-09-20T06:00:58+00:00,2026-09-20T20:56:31.403250+00:00,724,signals_trader1
