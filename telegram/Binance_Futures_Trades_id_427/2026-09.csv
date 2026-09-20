@@ -627,3 +627,33 @@ Stop Loss: 108.3...t 9: 154.71115
 Target 10: 155.55835
 
 Leverage: x31",196137c46179389420fe243fb48c672c,2026-09-19T08:00:41+00:00,2026-09-20T02:47:52.744867+00:00,427,Binance_Futures_Trades
+1474916,50070,"#SUI/USDT - Long🟢
+
+Entry: 0.895
+Stop Loss: 0.49282...Target 9: 1.0409
+Target 10: 1.05315
+
+Leverage: x29",affe0f2d7f413fd788ff85cf3eec8a08,2026-09-20T18:01:11+00:00,2026-09-20T22:20:44.724594+00:00,427,Binance_Futures_Trades
+1474884,50028,"#PIXEL/USDT - Short🔴
+
+Entry: 0.005
+Stop Loss: 0.00699
+
+Target 1: 0.00449
+
+Leverage: x16",4123a1e0cc8676aa342dd008851a9845,2026-09-20T14:21:05+00:00,2026-09-20T22:20:44.536032+00:00,427,Binance_Futures_Trades
+1474875,50017,"#LINK/USDT - Long🟢
+
+Entry: 12.098
+Stop Loss: 11.92...rget 4: 12.79177
+Target 5: 12.92533
+
+Leverage: x27",a430a648eb9aabb7293439f4d7cd0890,2026-09-20T12:07:04+00:00,2026-09-20T22:20:44.466034+00:00,427,Binance_Futures_Trades
+1474903,50003,"#ROSE/USDT - Short🔴
+
+Entry: 0.0073
+Stop Loss: 0.01019
+
+Target 1: 0.00648
+
+Leverage: x27",bc2ccce04bece6d7335c7ddc97ca3c75,2026-09-20T10:08:22+00:00,2026-09-20T22:20:44.650764+00:00,427,Binance_Futures_Trades
