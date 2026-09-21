@@ -1759,3 +1759,27 @@ Direction: LONG
 Leverage: ...0.1223, 0.1236, 0.1260, 0.1281 ]
 
 StopLoss: 0.1131",3a78289a7e51d15de7fa1f815b16ddb6,2026-09-21T07:56:04+00:00,2026-09-21T09:31:03.803966+00:00,1074,binance_cryptobull_live_signals
+1497925,13838,"🔴 SHORT
+
+👉 Strategy :  Swing Strategy
+
+#KNC/USDT
+
+....13869
+
+ Stop : 0.15838
+
+Leverage : 10x (isolated)",79f0d7cb47d1ba6b705975e527cf49eb,2026-09-21T11:06:17+00:00,2026-09-21T12:19:45.222188+00:00,1074,binance_cryptobull_live_signals
+1497922,13834,"Short 
+
+#PIEVERSEUSDT 
+
+Entry: 1.880 - 2.020
+
+Targ...
+Stop Targets:
+5-10%
+
+Leverage Cross 20x
+
+Use #DCA",e959606d56106fee557af695d2d6ac2f,2026-09-21T11:05:28+00:00,2026-09-21T12:19:45.129987+00:00,1074,binance_cryptobull_live_signals
