@@ -1,0 +1,13 @@
+{
+  "date": "2026-09-23",
+  "passed_n": 25,
+  "passed_old_agrees_pct": 100.0,
+  "passed_all_fields_match_pct": 90.9,
+  "rejected_n": 25,
+  "rejected_old_agrees_pct": 92.0,
+  "disagreements_passed_post_ids": [],
+  "possible_misses_post_ids": [
+    1502389,
+    1561966
+  ]
+}
