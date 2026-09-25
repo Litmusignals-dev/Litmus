@@ -990,3 +990,32 @@ Ta... : 0.2474
 Leverage: 15X
 Margin: 3%
 Mode: Isolated",cbb6f5cc718d7bbec5b8205d9800e1e6,2026-09-25T14:00:09+00:00,2026-09-25T15:45:10.647742+00:00,980,bingxmea
+1637327,2529,"🟢 LONG
+
+#SOLUSDT
+
+Entry :
+
+1) 120.89
+
+Targets :
+
+1...p : 117.8
+
+Leverage: 15X
+Margin: 3%
+Mode: Isolated",91df048e377b17188f03ace22088f321,2026-09-25T17:00:08+00:00,2026-09-25T17:48:52.265911+00:00,980,bingxmea
+1637326,2528,"🔴 SHORT
+
+#BTCUSDT
+
+Entry :
+
+1) 83805.73
+2) 83950
+
+...Stop : 84950
+
+Leverage: 15X
+Margin: 3%
+Mode: Cross",81b9c0c617795433146195f24397ca35,2026-09-25T16:00:10+00:00,2026-09-25T17:48:52.263810+00:00,980,bingxmea
