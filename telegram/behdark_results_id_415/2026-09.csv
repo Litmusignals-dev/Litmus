@@ -139,3 +139,12 @@ Balance: 2% of capital",db0ed7b87c05e0d35b3c1fdec4953b13,2026-09-24T15:29:10+00:
 Entry range: 0.02304 ...: 0.02030
 Leverage: 2X _ 4X
 Balance: 2% of capital",dd67f30a59aed08b8ecebb089858fb38,2026-09-24T15:11:31+00:00,2026-09-24T15:34:32.665448+00:00,415,behdark_results
+1628481,2100,"🟢 Spot Buy Signal #SUIUSDT
+Entry range: 0.7015 _ 0....0474 _ 3.2100
+Stop: 0.4169
+Balance: 5% of capital",8a17b26d322bdd963a27f13933cab941,2026-09-25T11:36:22+00:00,2026-09-25T12:09:17.338293+00:00,415,behdark_results
+1628482,2095,"🟢 Buy/Long Signal #FETUSDT
+Entry range: 0.2172 _ 0...
+Stop: 0.1774
+Leverage: 2X 
+Balance: 3% of capital",207c8c0753b61865f5bc9ad9ee4608f7,2026-09-25T10:52:00+00:00,2026-09-25T12:09:17.344740+00:00,415,behdark_results
