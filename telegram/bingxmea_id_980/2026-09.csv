@@ -1075,3 +1075,31 @@ Targ...Stop : 119.4
 Leverage: 15X
 Margin: 3%
 Mode: Cross",d4bc7c482ef7d6c63234c8011d46bfd3,2026-09-26T00:00:07+00:00,2026-09-26T01:23:11.229985+00:00,980,bingxmea
+1647605,2547,"🔴 SHORT
+
+#BNBUSDT
+
+Entry :
+
+1) 775.28
+2) 776.5
+
+Ta...Stop : 782.5
+
+Leverage: 15X
+Margin: 3%
+Mode: Cross",2a99ccfdba1b87c81aef87210515b53d,2026-09-26T03:00:08+00:00,2026-09-26T03:30:59.233690+00:00,980,bingxmea
+1647602,2545,"🟢 LONG
+
+#DOTUSDT
+
+Entry :
+
+1) 1.215
+2) 1.225
+
+Targ...p : 1.185
+
+Leverage: 15X
+Margin: 3%
+Mode: Isolated",11327a287479d8dc8ce7cea87ebe33fc,2026-09-26T02:00:10+00:00,2026-09-26T03:30:59.054886+00:00,980,bingxmea
