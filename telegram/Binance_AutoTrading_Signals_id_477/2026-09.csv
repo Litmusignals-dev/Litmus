@@ -721,3 +721,15 @@ Entry: 0.2499
 Target 1: 0.2524
 Target 2: 0.2549
 Stoploss: 0.2464",70f3313618ccf41ec64ff87adca768be,2026-09-25T19:00:28+00:00,2026-09-25T20:21:47.058594+00:00,477,Binance_AutoTrading_Signals
+1659129,12518,"BNBUSDT SHORT
+Leverage: Cross 20x
+Entry: 770.97
+Target 1: 763.26
+Target 2: 755.55
+Stoploss: 784.08",f32e2b0f690640299db8233adadfb57e,2026-09-26T09:30:06+00:00,2026-09-26T12:00:35.397163+00:00,477,Binance_AutoTrading_Signals
+1659125,12517,"BNBUSDT SHORT
+Leverage: Cross 20x
+Entry: 770.97
+Target 1: 763.26
+Target 2: 755.55
+Stoploss: 784.08",f32e2b0f690640299db8233adadfb57e,2026-09-26T09:30:05+00:00,2026-09-26T12:00:35.362610+00:00,477,Binance_AutoTrading_Signals
