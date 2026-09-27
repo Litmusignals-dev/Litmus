@@ -1354,3 +1354,31 @@ Targ...Stop : 83950
 Leverage: 20X
 Margin: 3%
 Mode: Cross",bbc068e8a5f8e36b27410784da0d7858,2026-09-27T15:00:12+00:00,2026-09-27T17:04:23.264773+00:00,980,bingxmea
+1701159,2606,"🔴 SHORT
+
+#XRPUSDT
+
+Entry :
+
+1) 1.5238
+2) 1.53
+
+Tar... : 1.5465
+
+Leverage: 20X
+Margin: 3%
+Mode: Isolated",36802fe6e35d48c745b41275296a5f83,2026-09-27T21:00:10+00:00,2026-09-27T21:46:01.497313+00:00,980,bingxmea
+1701158,2605,"🟢 LONG
+
+#DOTUSDT
+
+Entry :
+
+1) 1.2669
+2) 1.258
+
+Tar...p : 1.239
+
+Leverage: 16X
+Margin: 3%
+Mode: Isolated",292e69b63e042a5567b28136f5ebd734,2026-09-27T20:00:17+00:00,2026-09-27T21:46:01.492773+00:00,980,bingxmea
