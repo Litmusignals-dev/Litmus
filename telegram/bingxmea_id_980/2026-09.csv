@@ -1313,3 +1313,30 @@ Ta...p : 0.258
 Leverage: 15X
 Margin: 3%
 Mode: Isolated",83fb3aeb1d32ff71173322356a3812de,2026-09-27T03:00:10+00:00,2026-09-27T05:26:36.453841+00:00,980,bingxmea
+1692311,2600,"🟢 LONG
+
+#BTCUSDT
+
+Entry :
+
+1) 85025
+2) 84850
+
+Targ...Stop : 84625
+
+Leverage: 25X
+Margin: 2%
+Mode: Cross",f67b7441a2ec4dbfb6023c51ae9d66d9,2026-09-27T14:00:08+00:00,2026-09-27T14:39:17.790339+00:00,980,bingxmea
+1692307,2598,"🟢 LONG
+
+#DOGEUSDT
+
+Entry :
+
+1) 0.09817
+2) 0.09785
+...: 0.09662
+
+Leverage: 20X
+Margin: 3%
+Mode: Isolated",33e1aae4786f2d2d04742752f456c407,2026-09-27T13:00:15+00:00,2026-09-27T14:39:17.611408+00:00,980,bingxmea
