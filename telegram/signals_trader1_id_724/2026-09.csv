@@ -1040,3 +1040,17 @@ Stop Loss: 0.0...Target 3: 0.01345
 Target 4: 0.01338
 
 Leverage: x32",220fa1d0adecd1effa5b641220a6e992,2026-09-28T04:03:02+00:00,2026-09-28T07:06:46.146512+00:00,724,signals_trader1
+1721436,61106,"#NMR/USDT - Long🟢
+
+Entry: 11.225
+Stop Loss: 10.387...rget 9: 11.51256
+Target 10: 11.5447
+
+Leverage: x29",1ab6b445a9cd25f134382cd797be484f,2026-09-28T12:02:38+00:00,2026-09-28T13:47:15.095960+00:00,724,signals_trader1
+1721405,61091,"#TAIKO/USDT - Short🔴
+
+Entry: 0.0924
+Stop Loss: 0.0...Target 3: 0.09042
+Target 4: 0.08977
+
+Leverage: x19",f1b3404967240b8dedb810af78262b07,2026-09-28T08:02:35+00:00,2026-09-28T13:46:57.249215+00:00,724,signals_trader1
