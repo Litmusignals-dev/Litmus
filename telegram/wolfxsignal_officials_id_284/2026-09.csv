@@ -33,3 +33,9 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 📈 Market Context
 • Struct...ach target
 • Move Stop Loss to breakeven after TP2",f7a72858f65d7891ec496c86e587e617,2026-09-23T15:46:28+00:00,2026-09-23T17:40:42.476764+00:00,284,wolfxsignal_officials
+1744443,39865,"TRADE: $VELODROME/USDT
+🟩 LONG
+
+📈 Market Context
+• ...% per trade
+• Rule: Move SL to breakeven after TP2",0eee9c235eee752e7d110bb8e7d9060f,2026-09-29T06:17:45+00:00,2026-09-29T08:52:38.298972+00:00,284,wolfxsignal_officials
