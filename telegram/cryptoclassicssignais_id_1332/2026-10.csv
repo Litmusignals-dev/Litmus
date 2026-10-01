@@ -1,0 +1,49 @@
+id,external_id,message_preview,hash,published_at,created_at,source_id,source_name
+1802519,3154,"CAPUSDT 
+LONG
+Leverage: Cross (20.0X)
+Entry: 0.073...: 0.07542
+TP4: 0.07638
+TP5: 0.07741
+
+STOP: 0.06990",3c30a99d5f1d27f86325e13b1141cc03,2026-10-01T06:39:23+00:00,2026-10-01T07:55:52.998007+00:00,1332,cryptoclassicssignais
+1802518,3152,"VANA/USDT
+Exchanges: Bingx 
+Signal Type: Regular (...1.13642
+5) 1.14724
+6) 1.16347
+
+Stop Targets:
+5-10%",e6e4de83b5333fd148fbf97c7f7b41fb,2026-10-01T06:39:18+00:00,2026-10-01T07:55:52.842631+00:00,1332,cryptoclassicssignais
+1802517,3153,"KAITO/USDT
+Exchanges: Bingx 
+Signal Type: Regular ...0.37097
+5) 0.37450
+6) 0.37980
+
+Stop Targets:
+5-10%",d5865f30dee499c976445336d67b1041,2026-10-01T06:39:18+00:00,2026-10-01T07:55:52.839711+00:00,1332,cryptoclassicssignais
+1802516,3150,"MASK/USDT
+Exchanges: Bingx 
+Signal Type: Regular (...0.48615
+5) 0.49078
+6) 0.49773
+
+Stop Targets:
+5-10%",d64421e78f0dfe2cf5e6d9c99041fcb9,2026-10-01T06:39:18+00:00,2026-10-01T07:55:52.832103+00:00,1332,cryptoclassicssignais
+1802515,3151,"AVNT/USDT
+Exchanges: Bingx 
+Signal Type: Regular (...0.13482
+5) 0.13610
+6) 0.13803
+
+Stop Targets:
+5-10%",d355b2a0abf9d3f46137f8524b4b665b,2026-10-01T06:39:18+00:00,2026-10-01T07:55:52.829167+00:00,1332,cryptoclassicssignais
+1802514,3149,"RIVER/USDT
+Exchanges: Bingx 
+Signal Type: Regular ...1.26210
+5) 1.27412
+6) 1.29215
+
+Stop Targets:
+5-10%",610f4d00ff2d87a3625a615817a0c0f7,2026-10-01T06:39:18+00:00,2026-10-01T07:55:52.818117+00:00,1332,cryptoclassicssignais
