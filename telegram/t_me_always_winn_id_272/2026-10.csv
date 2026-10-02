@@ -41,3 +41,27 @@ Entry:: 85424
 Target 1: 87214
 Target 2: 88551
 SL: 84701",f1ec492733d1c342bb3d718998dde66f,2026-10-02T08:17:17+00:00,2026-10-02T09:09:41.315398+00:00,272,t.me/always_winn
+1845953,16393,"SOLUSDT Long
+Leverage: Isolated x10
+Entry: 122.93
+Target 1: 124.74
+Target 2: 130
+SL: 120",885d1c5313dbfeeaa5e2fe9cc639d59b,2026-10-02T13:34:36+00:00,2026-10-02T13:53:56.663282+00:00,272,t.me/always_winn
+1845954,16390,"Coin: BCHUSDT Long
+Leverage: Cross x10
+Entry: 316.78
+Target 1: 325
+Target 2: 337
+SL: 304.9",5453b3b06e028af1c2d8afb4cfc55cec,2026-10-02T13:04:17+00:00,2026-10-02T13:53:56.665434+00:00,272,t.me/always_winn
+1845948,16387,"INJUSDT Long
+Leverage: Isolated x8
+Entry: 7.552
+Target 1: 7.963
+Target 2: 8.4
+SL: 7.035",130bc6be9c3d4b3d6100bd85cca2bb23,2026-10-02T13:00:57+00:00,2026-10-02T13:53:56.443634+00:00,272,t.me/always_winn
+1845951,16384,"Coin: APTUSDT Long
+Leverage: Isolated x10
+Entry: 0.8248
+Target 1: 0.8546
+Target 2: 0.89
+SL: 0.7964",63c387be70101be73e6c735ec562b9ea,2026-10-02T12:18:00+00:00,2026-10-02T13:53:56.485922+00:00,272,t.me/always_winn
