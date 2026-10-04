@@ -4,3 +4,7 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 ENTRY: 86.04
 SL:  84.176
 TP: 91.000",65ca17824b487c7a4a29122c2d76162f,2026-10-01T19:51:01+00:00,2026-10-01T20:27:33.512044+00:00,1295,cryptocredsta
+1898518,205,"#BTCUSDT LIMIT SHORT 
+
+ENTRY:  86220
+SL: 87320",2bd44e39871a68eec075cc99b2e94cd3,2026-10-04T13:01:40+00:00,2026-10-04T13:11:37.625959+00:00,1295,cryptocredsta
