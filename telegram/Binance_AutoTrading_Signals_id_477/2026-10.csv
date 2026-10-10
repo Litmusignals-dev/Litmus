@@ -395,3 +395,15 @@ Entry: 1305
 Target 1: 1291.95
 Target 2: 1278.90
 Stoploss: 1328.49",dbbda1a42aa720b512fab602a9b730ba,2026-10-07T11:00:06+00:00,2026-10-07T11:58:18.712070+00:00,477,Binance_AutoTrading_Signals
+2096038,13027,"OPUSDT LONG
+Leverage: Cross 11x
+Entry: 0.12931
+Target 1: 0.13060
+Target 2: 0.13190
+Stoploss: 0.12698",165b4bbe99974d5dc57bc6b54dde56c2,2026-10-09T23:00:04+00:00,2026-10-10T03:43:08.508252+00:00,477,Binance_AutoTrading_Signals
+2096036,13028,"OPUSDT LONG
+Leverage: Cross 11x
+Entry: 0.12931
+Target 1: 0.13060
+Target 2: 0.13190
+Stoploss: 0.12698",165b4bbe99974d5dc57bc6b54dde56c2,2026-10-09T23:00:04+00:00,2026-10-10T03:43:08.462825+00:00,477,Binance_AutoTrading_Signals
