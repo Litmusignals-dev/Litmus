@@ -1342,3 +1342,32 @@ Target:
 3)0.625
 
 Stoploss: 0.480",0b89ffd1e6490a013815addf4bf5e704,2026-10-10T09:45:54+00:00,2026-10-10T10:35:55.202698+00:00,1074,binance_cryptobull_live_signals
+2108705,19891,"DASH/USDT
+
+LONG
+
+Entry : 
+
+1) 51.26
+2) 49.72
+
+Targ...
+4) 54.76
+
+Stop  : 48.03
+
+Leverage: 10x (isolated)",22efe92c6d6f863145162328f7a96293,2026-10-10T10:50:31+00:00,2026-10-10T13:06:14.914653+00:00,1074,binance_cryptobull_live_signals
+2108703,19889,"KNC/USDT
+
+LONG
+
+Entry : 
+
+1) 0.13680
+2) 0.13269
+
+T...0.14615
+
+Stop : 0.12818
+
+Leverage : 10x (isolated)",bc79c8024f74ccd1f38a0ef52499ee24,2026-10-10T10:50:31+00:00,2026-10-10T13:06:14.205749+00:00,1074,binance_cryptobull_live_signals
