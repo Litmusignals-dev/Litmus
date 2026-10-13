@@ -493,3 +493,51 @@ Entry: 1.3653
 Target 1: 1.3516
 Target 2: 1.3380
 Stoploss: 1.3940",5d6fc44668a0d8d114fa0755b46d4ab2,2026-10-12T20:00:22+00:00,2026-10-12T23:32:23.605098+00:00,477,Binance_AutoTrading_Signals
+2190467,13149,"EIGENUSDT SHORT
+Leverage: Cross 20x
+Entry: 0.2382
+Target 1: 0.2358
+Target 2: 0.2334
+Stoploss: 0.2425",c6f97eefa0823bc0ebecadb6dc136e22,2026-10-13T01:00:45+00:00,2026-10-13T04:15:30.623821+00:00,477,Binance_AutoTrading_Signals
+2190466,13148,"EIGENUSDT SHORT
+Leverage: Cross 20x
+Entry: 0.2382
+Target 1: 0.2358
+Target 2: 0.2334
+Stoploss: 0.2425",c6f97eefa0823bc0ebecadb6dc136e22,2026-10-13T01:00:44+00:00,2026-10-13T04:15:30.491226+00:00,477,Binance_AutoTrading_Signals
+2190459,13139,"INJUSDT SHORT
+Leverage: Cross 20x
+Entry: 7.088
+Target 1: 7.017
+Target 2: 6.946
+Stoploss: 7.301",c357c5ba35d5363abbd5383e86efeba6,2026-10-13T01:00:26+00:00,2026-10-13T04:15:30.274430+00:00,477,Binance_AutoTrading_Signals
+2190458,13138,"INJUSDT SHORT
+Leverage: Cross 20x
+Entry: 7.088
+Target 1: 7.017
+Target 2: 6.946
+Stoploss: 7.301",c357c5ba35d5363abbd5383e86efeba6,2026-10-13T01:00:26+00:00,2026-10-13T04:15:30.243449+00:00,477,Binance_AutoTrading_Signals
+2190456,13132,"OPUSDT SHORT
+Leverage: Cross 11x
+Entry: 0.12704
+Ta...get 1: 0.12577
+Target 2: 0.12450
+Stoploss: 0.12996",b81252bfa808dcb832a458410bcb0e63,2026-10-13T01:00:17+00:00,2026-10-13T04:15:30.102897+00:00,477,Binance_AutoTrading_Signals
+2190452,13130,"OPUSDT SHORT
+Leverage: Cross 11x
+Entry: 0.12704
+Ta...get 1: 0.12577
+Target 2: 0.12450
+Stoploss: 0.12996",b81252bfa808dcb832a458410bcb0e63,2026-10-13T01:00:17+00:00,2026-10-13T04:15:30.087650+00:00,477,Binance_AutoTrading_Signals
+2190453,13129,"MANAUSDT SHORT
+Leverage: Cross 11x
+Entry: 0.08823
+...get 1: 0.08735
+Target 2: 0.08647
+Stoploss: 0.09008",588f747eccc0bbcf17db7fa6f9c5b23a,2026-10-13T01:00:16+00:00,2026-10-13T04:15:30.088401+00:00,477,Binance_AutoTrading_Signals
+2190449,13127,"MANAUSDT SHORT
+Leverage: Cross 11x
+Entry: 0.08823
+...get 1: 0.08735
+Target 2: 0.08647
+Stoploss: 0.09008",588f747eccc0bbcf17db7fa6f9c5b23a,2026-10-13T01:00:16+00:00,2026-10-13T04:15:29.905474+00:00,477,Binance_AutoTrading_Signals
