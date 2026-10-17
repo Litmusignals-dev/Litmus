@@ -1,0 +1,16 @@
+id,external_id,message_preview,hash,published_at,created_at,source_id,source_name
+2336756,1268278,"┏⛔️ SHORT #CHILLGUYUSDT 30m
+┣ Signal Type: ⚖️ macd...(ARG), 03:00 (MSK)
+/CHILLGUYUSDT_BinanceFuture_30m",b893f00e0b61bccd82edd7b641fda5e8,2026-10-17T00:00:17+00:00,2026-10-17T00:21:24.740296+00:00,1543,binance_futures_macd_signals
+2336760,1268277,"┏🟢 LONG #THEUSDT 30m
+┣ Signal Type: ⚖️ macd_price_...3:00 (ARG), 03:00 (MSK)
+/THEUSDT_BinanceFuture_30m",c0e753d7eb82904acc6e0f76ba6ee2ca,2026-10-17T00:00:15+00:00,2026-10-17T00:21:24.776728+00:00,1543,binance_futures_macd_signals
+2336757,1268276,"┏⛔️ SHORT #GUSDT 30m
+┣ Signal Type: ⚖️ macd_price_... 03:00 (ARG), 03:00 (MSK)
+/GUSDT_BinanceFuture_30m",9bf5f1420ff2222360947a125554a198,2026-10-17T00:00:15+00:00,2026-10-17T00:21:24.769504+00:00,1543,binance_futures_macd_signals
+2336759,1268274,"┏⛔️ SHORT #STRKUSDT 15m
+┣ Signal Type: 📉 macd_cros...:00 (ARG), 03:00 (MSK)
+/STRKUSDT_BinanceFuture_15m",2e74dba782f9d87ca45f3f83817a1900,2026-10-17T00:00:12+00:00,2026-10-17T00:21:24.773836+00:00,1543,binance_futures_macd_signals
+2336758,1268275,"┏⛔️ SHORT #STRKUSDT 1h
+┣ Signal Type: 📉 macd_cross...3:00 (ARG), 03:00 (MSK)
+/STRKUSDT_BinanceFuture_1h",b2f73fa5f7cf02238e10448e32d426e4,2026-10-17T00:00:12+00:00,2026-10-17T00:21:24.773169+00:00,1543,binance_futures_macd_signals
