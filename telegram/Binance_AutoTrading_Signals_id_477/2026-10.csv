@@ -643,3 +643,27 @@ Leverage: Cross 11x
 Entry: 0.000003...8965
 Target 2: 0.0000038572
 Stoploss: 0.0000040461",ca12e43801da0cd8fa48a948249c3827,2026-10-17T13:00:06+00:00,2026-10-17T15:23:12.861367+00:00,477,Binance_AutoTrading_Signals
+2363707,13286,"LTCUSDT SHORT
+Leverage: Cross 20x
+Entry: 58.51
+Target 1: 57.92
+Target 2: 57.34
+Stoploss: 60.32",accb6fb1eb79c388f042187cf564e0fa,2026-10-17T17:00:03+00:00,2026-10-17T20:15:54.662380+00:00,477,Binance_AutoTrading_Signals
+2363705,13287,"LTCUSDT SHORT
+Leverage: Cross 20x
+Entry: 58.51
+Target 1: 57.92
+Target 2: 57.34
+Stoploss: 60.32",accb6fb1eb79c388f042187cf564e0fa,2026-10-17T17:00:03+00:00,2026-10-17T20:15:54.575662+00:00,477,Binance_AutoTrading_Signals
+2363698,13278,"ETHUSDT SHORT
+Leverage: Cross 20x
+Entry: 2409.2
+Ta...get 1: 2385.11
+Target 2: 2361.02
+Stoploss: 2435.70",8a169bc0e31b663c9db97f5e03facea0,2026-10-17T16:00:05+00:00,2026-10-17T20:15:54.359876+00:00,477,Binance_AutoTrading_Signals
+2363697,13280,"ETHUSDT SHORT
+Leverage: Cross 20x
+Entry: 2409.2
+Ta...get 1: 2385.11
+Target 2: 2361.02
+Stoploss: 2435.70",8a169bc0e31b663c9db97f5e03facea0,2026-10-17T16:00:05+00:00,2026-10-17T20:15:54.351670+00:00,477,Binance_AutoTrading_Signals
