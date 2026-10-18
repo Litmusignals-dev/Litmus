@@ -1,12 +1,15 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-18",
   "passed_n": 25,
   "passed_old_agrees_pct": 100.0,
-  "passed_all_fields_match_pct": 82.6,
+  "passed_all_fields_match_pct": 100.0,
   "rejected_n": 25,
-  "rejected_old_agrees_pct": 96.0,
+  "rejected_old_agrees_pct": 84.0,
   "disagreements_passed_post_ids": [],
   "possible_misses_post_ids": [
-    2041730
+    2359477,
+    2196349,
+    2350019,
+    2172478
   ]
 }
