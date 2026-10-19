@@ -679,3 +679,27 @@ Entry: 0.2438
 Target 1: 0.2414
 Target 2: 0.2389
 Stoploss: 0.2482",c4c272da577c1bff01a398e3f64a2b86,2026-10-18T11:00:07+00:00,2026-10-18T13:41:22.673842+00:00,477,Binance_AutoTrading_Signals
+2397531,13328,"DASHUSDT SHORT
+Leverage: Cross 20x
+Entry: 46.37
+Target 1: 45.91
+Target 2: 45.44
+Stoploss: 47.58",e371f083400615893bceb118bdbc3414,2026-10-18T20:00:27+00:00,2026-10-18T23:23:48.525742+00:00,477,Binance_AutoTrading_Signals
+2397529,13327,"DASHUSDT SHORT
+Leverage: Cross 20x
+Entry: 46.37
+Target 1: 45.91
+Target 2: 45.44
+Stoploss: 47.58",e371f083400615893bceb118bdbc3414,2026-10-18T20:00:27+00:00,2026-10-18T23:23:48.478014+00:00,477,Binance_AutoTrading_Signals
+2397527,13322,"INJUSDT SHORT
+Leverage: Cross 20x
+Entry: 7.885
+Target 1: 7.806
+Target 2: 7.727
+Stoploss: 8.122",a94c6634e9d9b26e8bd80caf6da637cb,2026-10-18T20:00:18+00:00,2026-10-18T23:23:48.407282+00:00,477,Binance_AutoTrading_Signals
+2397526,13321,"INJUSDT SHORT
+Leverage: Cross 20x
+Entry: 7.885
+Target 1: 7.806
+Target 2: 7.727
+Stoploss: 8.122",a94c6634e9d9b26e8bd80caf6da637cb,2026-10-18T20:00:17+00:00,2026-10-18T23:23:48.378935+00:00,477,Binance_AutoTrading_Signals
