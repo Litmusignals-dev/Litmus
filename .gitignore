@@ -1,0 +1,8 @@
+# 20.10.2026: служебные файлы Litmus, в публичный репозиторий не публикуются
+backfill*.cursor
+backfill*.log
+backfill*.stdout
+backfill_run.py
+vacuum_import.log
+v9_audit/
+*.log
