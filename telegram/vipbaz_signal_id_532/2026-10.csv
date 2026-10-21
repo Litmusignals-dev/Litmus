@@ -728,3 +728,7 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 2490895,19501,"نام ارز #ENS/USDT
 ⭕️ حالت معامله = SHORT 🔴
 ⚠️لورج ...رگت ها = [ 5.732 , 5.661 , 5.580 , 5.488 , 5.401 ]",8aa1d96ae5c73061666f19279b910886,2026-10-21T13:32:44+00:00,2026-10-21T14:54:57.816816+00:00,532,vipbaz_signal
+2503665,19505,"BTC SHORT SETUP
+ENTRY 85450
+TP 84600
+SL 86000",d5d78fcaf4b56abb0b836021012855c2,2026-10-21T16:52:32+00:00,2026-10-21T20:17:37.683579+00:00,532,vipbaz_signal
