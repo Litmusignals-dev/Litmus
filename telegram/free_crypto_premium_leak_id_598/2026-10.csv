@@ -209,3 +209,7 @@ Leverage: 10x (isolated)",9028e1aa4897fd1b56b3539a7e0d0bce,2026-10-20T14:48:24+0
 Exchanges: BingX Futures, Binanc...nfiguration:
 Stop: Breakeven -
 Trigger: Target (2)",c8eb80d8128bda67c9db867c31adcbba,2026-10-21T15:32:33+00:00,2026-10-21T20:09:30.805931+00:00,598,free_crypto_premium_leak
+2515413,26006,"COIN: #POLUSDT
+Leverage: 10x
+Direction: SHORT | Ty...1 - 0.09024 - 0.08745 - 0.08187
+STOP LOSS: 0.10047",045316879d382d80f732f5912edce6e8,2026-10-22T04:35:53+00:00,2026-10-22T06:40:15.000260+00:00,598,free_crypto_premium_leak

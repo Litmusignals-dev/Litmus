@@ -349,3 +349,12 @@ Stop Targets:
 Exchanges: BingX Futures, Binanc...nfiguration:
 Stop: Breakeven -
 Trigger: Target (2)",c8eb80d8128bda67c9db867c31adcbba,2026-10-21T15:32:33+00:00,2026-10-21T16:51:00.970320+00:00,1006,crypto_free_future
+2513949,17496,"#KASUSDT 15m
+STATUS : LONG 🚀 
+👉 Entry :1 : 0.03811...0.0404 (💰 6%)
+⛔️ SL: 0.0346801
+LEVERAGE: Cross 10x",67d361c896e5c3b92b760e5e0d531da6,2026-10-22T04:36:19+00:00,2026-10-22T06:08:06.077528+00:00,1006,crypto_free_future
+2513947,17495,"COIN: #POLUSDT
+Leverage: 10x
+Direction: SHORT | Ty...1 - 0.09024 - 0.08745 - 0.08187
+STOP LOSS: 0.10047",045316879d382d80f732f5912edce6e8,2026-10-22T04:35:53+00:00,2026-10-22T06:08:06.075408+00:00,1006,crypto_free_future
