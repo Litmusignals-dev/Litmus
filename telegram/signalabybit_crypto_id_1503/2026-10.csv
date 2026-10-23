@@ -3230,3 +3230,53 @@ T...0.18773
 Stop  : 0.16464
 
 Leverage: 10x (isolated)",3b4d90197bc4321202f83f0062fe38ae,2026-10-23T13:55:33+00:00,2026-10-23T14:20:03.866272+00:00,1503,signalabybit_crypto
+2579136,7774,"ALGO/USDT
+
+LONG
+
+Entry zone : 0.104197 - 0.107420
+...7571
+0.120777
+
+Stop loss :0.0999006
+
+Leverage: 10x",c2d49ab37d3a85182572e6f7eb0badd1,2026-10-23T22:14:43+00:00,2026-10-23T23:03:58.844113+00:00,1503,signalabybit_crypto
+2579135,7775,"BAT/USDT
+
+LONG
+
+Entry : 
+
+1) 0.174910
+2) 0.169662
+...186876
+
+Stop  : 0.163890
+
+Leverage: 10x (isolated)",c7096143e8f5b262eba69e88e5794eef,2026-10-23T22:14:43+00:00,2026-10-23T23:03:58.798698+00:00,1503,signalabybit_crypto
+2579134,7773,"CRV/USDT
+
+SHORT
+
+Entry : 
+
+1) 0.360600
+2) 0.371418...335651
+
+Stop  : 0.383317
+
+Leverage: 10x (isolated)",d1d360970dcc0b61c84f6da52938a048,2026-10-23T22:14:43+00:00,2026-10-23T23:03:58.737973+00:00,1503,signalabybit_crypto
+2579133,7772,"LTC/USDT
+
+LONG
+
+Entry : 
+
+1) 58.75
+2) 56.98
+
+Targe...4) 62.76
+
+ Stop : 55.04
+
+Leverage : 10x (isolated)",5aa63455a5bcee0b895f549542b101ab,2026-10-23T22:14:43+00:00,2026-10-23T23:03:58.716034+00:00,1503,signalabybit_crypto
