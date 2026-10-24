@@ -4895,3 +4895,90 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 2602830,1270089,"┏🟢 LONG #DRIFTUSDT 30m
 ┣ Signal Type: 🟢 macd_risin...00 (ARG), 17:00 (MSK)
 /DRIFTUSDT_BinanceFuture_30m",a12e597d5c09fbae95eaa71e7b53a25f,2026-10-24T14:00:04+00:00,2026-10-24T15:58:21.777169+00:00,1543,binance_futures_macd_signals
+2607924,1270138,"┏🟢 LONG #SOPHUSDT 15m
+┣ Signal Type: 🟢 macd_rising...:00 (ARG), 21:00 (MSK)
+/SOPHUSDT_BinanceFuture_15m",2c4c4303cc74b36a136f42f085160974,2026-10-24T18:00:20+00:00,2026-10-24T18:33:25.723608+00:00,1543,binance_futures_macd_signals
+2607925,1270137,"┏⛔️ SHORT #HAEDALUSDT 15m
+┣ Signal Type: ⚖️ macd_p...0 (ARG), 21:00 (MSK)
+/HAEDALUSDT_BinanceFuture_15m",e5f67d09097888fec60918a1c9e5edb1,2026-10-24T18:00:19+00:00,2026-10-24T18:33:25.724383+00:00,1543,binance_futures_macd_signals
+2607923,1270136,"┏🟢 LONG #ATHUSDT 15m
+┣ Signal Type: 🟢 macd_rising_...1:00 (ARG), 21:00 (MSK)
+/ATHUSDT_BinanceFuture_15m",f86f175d958f0beed831f5f6a0739819,2026-10-24T18:00:17+00:00,2026-10-24T18:33:25.665337+00:00,1543,binance_futures_macd_signals
+2607921,1270135,"┏⛔️ SHORT #GPSUSDT 1h
+┣ Signal Type: 📉 macd_cross_...21:00 (ARG), 21:00 (MSK)
+/GPSUSDT_BinanceFuture_1h",9f3397f5970e0ae61e95bed4e449b916,2026-10-24T18:00:17+00:00,2026-10-24T18:33:25.607015+00:00,1543,binance_futures_macd_signals
+2607920,1270134,"┏🟢 LONG #HEIUSDT 15m
+┣ Signal Type: 🟢 macd_rising_...1:00 (ARG), 21:00 (MSK)
+/HEIUSDT_BinanceFuture_15m",48bc970a8c47a23babc0b8a27a4761be,2026-10-24T18:00:15+00:00,2026-10-24T18:33:25.599561+00:00,1543,binance_futures_macd_signals
+2607918,1270133,"┏🟢 LONG #AVAAIUSDT 15m
+┣ Signal Type: 🟢 macd_risin...00 (ARG), 21:00 (MSK)
+/AVAAIUSDT_BinanceFuture_15m",1ff36c208a7f329512cb16b3b36d5e33,2026-10-24T18:00:14+00:00,2026-10-24T18:33:25.582413+00:00,1543,binance_futures_macd_signals
+2607922,1270132,"┏🟢 LONG #TURBOUSDT 1h
+┣ Signal Type: 🟢 macd_rising...:00 (ARG), 21:00 (MSK)
+/TURBOUSDT_BinanceFuture_1h",14937fa3526b2332d5a2478412d1eea9,2026-10-24T18:00:12+00:00,2026-10-24T18:33:25.620143+00:00,1543,binance_futures_macd_signals
+2607919,1270131,"┏🟢 LONG #NOTUSDT 15m
+┣ Signal Type: 🟢 macd_rising_...1:00 (ARG), 21:00 (MSK)
+/NOTUSDT_BinanceFuture_15m",399aeddf6ece316b932cfba09ff0bd3b,2026-10-24T18:00:12+00:00,2026-10-24T18:33:25.592831+00:00,1543,binance_futures_macd_signals
+2607917,1270129,"┏🟢 LONG #BICOUSDT 15m
+┣ Signal Type: 📈 macd_cross_...:00 (ARG), 21:00 (MSK)
+/BICOUSDT_BinanceFuture_15m",da642a0b2bc707848b442a2e5aa24a14,2026-10-24T18:00:10+00:00,2026-10-24T18:33:25.494453+00:00,1543,binance_futures_macd_signals
+2607916,1270130,"┏🟢 LONG #1000RATSUSDT 15m
+┣ Signal Type: 🟢 macd_ri...(ARG), 21:00 (MSK)
+/1000RATSUSDT_BinanceFuture_15m",ffb9643663156bb39e3bda66752d8e49,2026-10-24T18:00:10+00:00,2026-10-24T18:33:25.491222+00:00,1543,binance_futures_macd_signals
+2607915,1270128,"┏🟢 LONG #WLDUSDT 1h
+┣ Signal Type: 🟢 macd_rising_b...20:00 (ARG), 20:00 (MSK)
+/WLDUSDT_BinanceFuture_1h",8a88a22c075ab7441207818685461009,2026-10-24T17:01:03+00:00,2026-10-24T18:33:25.470430+00:00,1543,binance_futures_macd_signals
+2607914,1270127,"┏🟢 LONG #1000PEPEUSDT 1h
+┣ Signal Type: 🟢 macd_ris... (ARG), 20:00 (MSK)
+/1000PEPEUSDT_BinanceFuture_1h",e3ab11936be2bd079ab2fd5eed4a1841,2026-10-24T17:01:01+00:00,2026-10-24T18:33:25.451141+00:00,1543,binance_futures_macd_signals
+2607912,1270126,"┏🟢 LONG #BLURUSDT 15m
+┣ Signal Type: 🟢 macd_rising...:00 (ARG), 20:00 (MSK)
+/BLURUSDT_BinanceFuture_15m",90e33f83b75bc86e18a1defa049ad7ad,2026-10-24T17:01:01+00:00,2026-10-24T18:33:25.367744+00:00,1543,binance_futures_macd_signals
+2607913,1270125,"┏🟢 LONG #ARBUSDT 1h
+┣ Signal Type: 🟢 macd_rising_b...20:00 (ARG), 20:00 (MSK)
+/ARBUSDT_BinanceFuture_1h",d061e3589f707a4d7aa0f7ff45dd4e2d,2026-10-24T17:00:19+00:00,2026-10-24T18:33:25.380262+00:00,1543,binance_futures_macd_signals
+2607911,1270124,"┏🟢 LONG #STGUSDT 1h
+┣ Signal Type: 🟢 macd_rising_b...20:00 (ARG), 20:00 (MSK)
+/STGUSDT_BinanceFuture_1h",dc9f66ae4dd8891c8776159ad258e42f,2026-10-24T17:00:19+00:00,2026-10-24T18:33:25.360376+00:00,1543,binance_futures_macd_signals
+2607910,1270123,"┏🟢 LONG #STGUSDT 15m
+┣ Signal Type: 💹 green_volume...0:00 (ARG), 20:00 (MSK)
+/STGUSDT_BinanceFuture_15m",60c81c7d4d202531419017dac47d7843,2026-10-24T17:00:17+00:00,2026-10-24T18:33:25.349667+00:00,1543,binance_futures_macd_signals
+2607909,1270122,"┏⛔️ SHORT #WOOUSDT 30m
+┣ Signal Type: 📉 macd_cross...0:00 (ARG), 20:00 (MSK)
+/WOOUSDT_BinanceFuture_30m",f963bbb74f95f9bd370e660396ede282,2026-10-24T17:00:16+00:00,2026-10-24T18:33:25.343331+00:00,1543,binance_futures_macd_signals
+2607908,1270121,"┏🟢 LONG #GMTUSDT 1h
+┣ Signal Type: 🟢 macd_rising_b...20:00 (ARG), 20:00 (MSK)
+/GMTUSDT_BinanceFuture_1h",fde18a1c75be2bffe370ff8c9bea2c88,2026-10-24T17:00:14+00:00,2026-10-24T18:33:25.262022+00:00,1543,binance_futures_macd_signals
+2607907,1270120,"┏⛔️ SHORT #AAVEUSDT 15m
+┣ Signal Type: 📉 macd_cros...:00 (ARG), 20:00 (MSK)
+/AAVEUSDT_BinanceFuture_15m",96fd258d18facfcf87fb517eec918979,2026-10-24T17:00:14+00:00,2026-10-24T18:33:25.257224+00:00,1543,binance_futures_macd_signals
+2607906,1270119,"┏🟢 LONG #BATUSDT 1h
+┣ Signal Type: 🟢 macd_rising_b...20:00 (ARG), 20:00 (MSK)
+/BATUSDT_BinanceFuture_1h",99f8ccf417ac4c7f0ccd6990b9951261,2026-10-24T17:00:08+00:00,2026-10-24T18:33:25.227355+00:00,1543,binance_futures_macd_signals
+2607904,1270117,"┏🟢 LONG #ORDIUSDT 1h
+┣ Signal Type: 🟢 macd_rising_...9:00 (ARG), 19:00 (MSK)
+/ORDIUSDT_BinanceFuture_1h",2123a5f21824894ceb412ce02d8c27d9,2026-10-24T16:00:17+00:00,2026-10-24T18:33:25.159634+00:00,1543,binance_futures_macd_signals
+2607903,1270115,"┏🟢 LONG #TIAUSDT 4h
+┣ Signal Type: 📈 macd_cross_up...19:00 (ARG), 19:00 (MSK)
+/TIAUSDT_BinanceFuture_4h",8a8fd1c535445f5efc8c7db75453923a,2026-10-24T16:00:13+00:00,2026-10-24T18:33:25.135547+00:00,1543,binance_futures_macd_signals
+2607902,1270116,"┏🟢 LONG #TWTUSDT 1h
+┣ Signal Type: 🟢 macd_rising_b...19:00 (ARG), 19:00 (MSK)
+/TWTUSDT_BinanceFuture_1h",bfbfa6bdc8f666781812f6258b76815e,2026-10-24T16:00:13+00:00,2026-10-24T18:33:25.127289+00:00,1543,binance_futures_macd_signals
+2607901,1270114,"┏⛔️ SHORT #POWRUSDT 4h
+┣ Signal Type: ⚖️ macd_pric...9:00 (ARG), 19:00 (MSK)
+/POWRUSDT_BinanceFuture_4h",f2a79ff1467a779554d0235e5e4e6e67,2026-10-24T16:00:11+00:00,2026-10-24T18:33:25.107591+00:00,1543,binance_futures_macd_signals
+2607898,1270113,"┏⛔️ SHORT #BIGTIMEUSDT 30m
+┣ Signal Type: 💥 volume... (ARG), 19:00 (MSK)
+/BIGTIMEUSDT_BinanceFuture_30m",261d36844773ded30c410e233770077a,2026-10-24T16:00:10+00:00,2026-10-24T18:33:24.969485+00:00,1543,binance_futures_macd_signals
+2607897,1270111,"┏🟢 LONG #ARKMUSDT 30m
+┣ Signal Type: 🟢 macd_rising...:00 (ARG), 19:00 (MSK)
+/ARKMUSDT_BinanceFuture_30m",9bd011fd1227ada61a791c6d3b269633,2026-10-24T16:00:08+00:00,2026-10-24T18:33:24.967712+00:00,1543,binance_futures_macd_signals
+2607896,1270112,"┏🟢 LONG #ARKUSDT 30m
+┣ Signal Type: 📈 macd_cross_u...9:00 (ARG), 19:00 (MSK)
+/ARKUSDT_BinanceFuture_30m",afb3efd3a596f75ea922c3c302cb4388,2026-10-24T16:00:08+00:00,2026-10-24T18:33:24.960941+00:00,1543,binance_futures_macd_signals
+2607900,1270110,"┏🟢 LONG #1000PEPEUSDT 1h
+┣ Signal Type: 🟢 macd_ris... (ARG), 19:00 (MSK)
+/1000PEPEUSDT_BinanceFuture_1h",e4d4aeca98e4155e423e509859954d77,2026-10-24T16:00:06+00:00,2026-10-24T18:33:25.036683+00:00,1543,binance_futures_macd_signals
+2607899,1270109,"┏🟢 LONG #1000PEPEUSDT 30m
+┣ Signal Type: 🟢 macd_ri...(ARG), 19:00 (MSK)
+/1000PEPEUSDT_BinanceFuture_30m",f16cae179508bd1d20eb86ce6457025e,2026-10-24T16:00:05+00:00,2026-10-24T18:33:25.020997+00:00,1543,binance_futures_macd_signals
