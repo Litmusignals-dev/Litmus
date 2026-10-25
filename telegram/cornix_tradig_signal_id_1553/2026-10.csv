@@ -146,3 +146,17 @@ Target 4: 0.0001600
 Target 4: 0.006680
 
 📉 Stop-Loss: 0.005793",13e1d8008f67a1773fdf89117667f395,2026-10-24T14:32:00+00:00,2026-10-24T15:56:16.787540+00:00,1553,cornix_tradig_signal
+2620493,4195,"📊 Symbol: #ETHUSDT.P
+🏦 Provider: BITUNIX
+
+🛍 Market...2,480.00
+Target 4: 2,600.00
+
+📉 Stop-Loss: 2,275.00",4d207cad3549e17b89875fe383d659cd,2026-10-25T07:38:29+00:00,2026-10-25T09:00:29.580334+00:00,1553,cornix_tradig_signal
+2620491,4192,"📊 Symbol: #XRPUSDT.P
+🏦 Provider: BITUNIX
+
+🛍 Market...et 3: 1.4100
+Target 4: 1.5000
+
+📉 Stop-Loss: 1.2522",0e917df2f451b6fc883bb34fa8a2c4c3,2026-10-25T07:36:58+00:00,2026-10-25T09:00:29.566630+00:00,1553,cornix_tradig_signal
