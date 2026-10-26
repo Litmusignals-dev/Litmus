@@ -6233,3 +6233,27 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 2654952,1270568,"┏🟢 LONG #KASUSDT 1h
 ┣ Signal Type: 📈 macd_cross_up...17:00 (ARG), 17:00 (MSK)
 /KASUSDT_BinanceFuture_1h",8201318756678090f41ded036a5d65a9,2026-10-26T14:03:13+00:00,2026-10-26T15:03:40.271576+00:00,1543,binance_futures_macd_signals
+2657501,1270591,"┏⛔️ SHORT #CTSIUSDT 15m
+┣ Signal Type: ⚖️ macd_pri...:00 (ARG), 19:00 (MSK)
+/CTSIUSDT_BinanceFuture_15m",6436976d2ad2884a196ac185a67b3bf8,2026-10-26T16:01:02+00:00,2026-10-26T16:44:38.996312+00:00,1543,binance_futures_macd_signals
+2657502,1270590,"┏⛔️ SHORT #ONEUSDT 30m
+┣ Signal Type: 🔺 ema21_cros...9:00 (ARG), 19:00 (MSK)
+/ONEUSDT_BinanceFuture_30m",bc08793c67448c6516a65cec605ea1db,2026-10-26T16:01:00+00:00,2026-10-26T16:44:39.001858+00:00,1543,binance_futures_macd_signals
+2657500,1270589,"┏⛔️ SHORT #BELUSDT 15m
+┣ Signal Type: 📊 ema_trend_...9:00 (ARG), 19:00 (MSK)
+/BELUSDT_BinanceFuture_15m",0acd9a6b8780afff449c39e05fca9693,2026-10-26T16:01:00+00:00,2026-10-26T16:44:38.982604+00:00,1543,binance_futures_macd_signals
+2657499,1270588,"┏⛔️ SHORT #XMRUSDT 4h
+┣ Signal Type: 💹 green_volum...19:00 (ARG), 19:00 (MSK)
+/XMRUSDT_BinanceFuture_4h",c3af95058caaceae30c8c8305a5dd5f2,2026-10-26T16:00:15+00:00,2026-10-26T16:44:38.749840+00:00,1543,binance_futures_macd_signals
+2657498,1270587,"┏⛔️ SHORT #XMRUSDT 30m
+┣ Signal Type: ⚖️ macd_pric...9:00 (ARG), 19:00 (MSK)
+/XMRUSDT_BinanceFuture_30m",6e6e9f371e87f1db2c99caddc0c69a1b,2026-10-26T16:00:13+00:00,2026-10-26T16:44:38.708029+00:00,1543,binance_futures_macd_signals
+2657496,1270586,"┏🟢 LONG #ETHUSDT 4h
+┣ Signal Type: 🟢 macd_rising_b...19:00 (ARG), 19:00 (MSK)
+/ETHUSDT_BinanceFuture_4h",5ddb871c303d89987b8376971030d8a8,2026-10-26T16:00:12+00:00,2026-10-26T16:44:38.403772+00:00,1543,binance_futures_macd_signals
+2657497,1270585,"┏⛔️ SHORT #ETHUSDT 1h
+┣ Signal Type: 📉 macd_cross_...19:00 (ARG), 19:00 (MSK)
+/ETHUSDT_BinanceFuture_1h",36770e2b6b9a31761bf530d4e0141591,2026-10-26T16:00:10+00:00,2026-10-26T16:44:38.406352+00:00,1543,binance_futures_macd_signals
+2657494,1270584,"┏⛔️ SHORT #ETHUSDT 30m
+┣ Signal Type: 📉 macd_cross...9:00 (ARG), 19:00 (MSK)
+/ETHUSDT_BinanceFuture_30m",e8d709d799fc195b181892755a752dfc,2026-10-26T16:00:09+00:00,2026-10-26T16:44:38.389997+00:00,1543,binance_futures_macd_signals
