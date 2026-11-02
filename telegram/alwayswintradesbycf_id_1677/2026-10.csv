@@ -1,0 +1,16 @@
+id,external_id,message_preview,hash,published_at,created_at,source_id,source_name
+2800933,7455,"Coin: EIGENUSDT Short
+Leverage: x10
+Entry: 0.2401
+Target 1: 0.2307
+SL: 0.2590",25c044a1ce8198edb710b8b624352ab3,2026-10-18T11:47:43+00:00,2026-10-31T02:41:18.324746+00:00,1677,alwayswintradesbycf
+2800934,7454,"XTZUSDT Short
+Leverage: x10
+Entry: 0.3131
+Target 1: 0.3006
+Target 2: 0.2737",398d3b3bad956257c41189d945d60b46,2026-10-12T15:53:23+00:00,2026-10-31T02:41:18.332846+00:00,1677,alwayswintradesbycf
+2800935,7451,"Coin: LINKUSDT Short
+Leverage: Isolated x10
+Entry: 13.349
+Target 1: 12.614
+SL: 14.193",e6f9e9e4172ddcd46fdb03003440e373,2026-10-07T13:07:37+00:00,2026-10-31T02:41:18.438319+00:00,1677,alwayswintradesbycf
