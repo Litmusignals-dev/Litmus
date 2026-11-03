@@ -1,0 +1,61 @@
+id,external_id,message_preview,hash,published_at,created_at,source_id,source_name
+2886939,7984,"🟢 Long
+
+👉 Strategy :  Volume Strategy
+
+#LQTY/USDT
+...98618
+
+ Stop : 0.174188
+
+Leverage : 10x (isolated)",a07d40e5532dd60f83ed68cd083566d4,2026-11-03T06:18:37+00:00,2026-11-03T07:23:08.091755+00:00,1706,weexfuturespot
+2886938,7983,"🟢 Long
+
+👉 Strategy :  Swing Strategy
+
+#ZRX/USDT
+
+E... 0.1008
+
+ Stop : 0.0884
+
+Leverage : 10x (isolated)",c5962c064a7569692bc5dc49d7c3edf6,2026-11-03T06:18:31+00:00,2026-11-03T07:23:08.028870+00:00,1706,weexfuturespot
+2886937,7980,"🟢 Long
+
+👉 Strategy :  Volume Strategy
+
+#MANTRA/USD...4349
+
+ Stop : 0.0030124
+
+Leverage : 10x (isolated)",1e195eabc9b4117cb8b6fdd00344f5d0,2026-11-03T06:18:31+00:00,2026-11-03T07:23:07.913381+00:00,1706,weexfuturespot
+2886936,7981,"🟢 Long
+
+👉 Strategy :  Volume Strategy
+
+#FLUX/USDT
+...4786
+
+ Stop : 0.0521627
+
+Leverage : 10x (isolated)",8f1ff82db8f72e4f0e21e57427bcbd5d,2026-11-03T06:18:31+00:00,2026-11-03T07:23:07.911867+00:00,1706,weexfuturespot
+2886935,7982,"🔴 Short
+
+👉 Strategy :  Swing Strategy
+
+#AKEUSDT
+
+E...00
+
+ Stop : 0.00633000
+
+Leverage : 25xx (isolated)",a54f1d23304b46445fda02a46ecfe801,2026-11-03T06:18:31+00:00,2026-11-03T07:23:07.911243+00:00,1706,weexfuturespot
+2886934,7979,"🔴 SHORT
+
+👉 Strategy :   Breakout Strategy
+
+#RUNE/U... 0.5172
+
+ Stop : 0.5907
+
+Leverage : 10x (isolated)",323dc15d1588f14404021574a177753d,2026-11-03T06:18:31+00:00,2026-11-03T07:23:07.909538+00:00,1706,weexfuturespot
