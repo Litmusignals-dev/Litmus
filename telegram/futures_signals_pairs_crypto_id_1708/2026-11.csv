@@ -157,3 +157,16 @@ Entry :
  Stop : 0.100283
 
 Leverage : 10x",d16a5df493e51cbcb3d17b0e17365728,2026-11-04T09:23:22+00:00,2026-11-04T12:08:18.734785+00:00,1708,futures_signals_pairs_crypto
+2934003,16420,"#THETA/USDT LONG 
+
+Entry : 
+
+1) 0.1521
+2) 0.1475
+
+...) 0.1593
+4) 0.1625
+
+ Stop : 0.1425
+
+Leverage : 10x",ad3597390f14bc17a6857e7fcba03f3a,2026-11-04T12:20:16+00:00,2026-11-04T15:13:19.045939+00:00,1708,futures_signals_pairs_crypto
