@@ -2165,3 +2165,6 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 2915296,1272603,"┏🟢 LONG #BTCUSDT 30m
 ┣ Signal Type: 🔻 ema21_cross_...6:00 (ARG), 06:00 (MSK)
 /BTCUSDT_BinanceFuture_30m",d4442b1eb51d1faa573c935d4fd1010c,2026-11-04T03:00:05+00:00,2026-11-04T04:40:39.692058+00:00,1543,binance_futures_macd_signals
+2915297,1272605,"┏🟢 LONG #XRPUSDT 15m
+┣ Signal Type: 🔴 sar_flip_sho...6:00 (ARG), 06:00 (MSK)
+/XRPUSDT_BinanceFuture_15m",47435ccc2a2a91d69112e2bfa34bfe95,2026-11-04T03:00:08+00:00,2026-11-04T04:40:39.717736+00:00,1543,binance_futures_macd_signals
