@@ -89,3 +89,27 @@ Stop Loss: 0.00...Target 4: 0.00546
 Target 5: 0.00544
 
 Leverage: x32",f49bebbb011f518b711e297f1d87aed0,2026-11-04T05:10:06+00:00,2026-11-04T05:53:35.925130+00:00,427,Binance_Futures_Trades
+2928811,54190,"#DOT/USDT - Long🟢
+
+Entry: 0.971
+Stop Loss: 0.58047
+
+Target 1: 1.06758
+
+Leverage: x14",b93518eb77d6c7555e7fb3bf8f53b241,2026-11-04T11:02:22+00:00,2026-11-04T11:28:47.722699+00:00,427,Binance_Futures_Trades
+2928801,54180,"#PENGU/USDT - Long🟢
+
+Entry: 0.0073
+Stop Loss: 0.00441
+
+Target 1: 0.00809
+
+Leverage: x27",64be25f9bcc7a6640271ae431bd10e77,2026-11-04T08:08:15+00:00,2026-11-04T11:28:47.180542+00:00,427,Binance_Futures_Trades
+2928794,54173,"#BNB/USDT - Short🔴
+
+Entry: 704.2
+Stop Loss: 999.80557
+
+Target 1: 690.731
+
+Leverage: x12",764f904ae3f6449537d75eb4923c9785,2026-11-04T07:28:43+00:00,2026-11-04T11:28:46.807095+00:00,427,Binance_Futures_Trades

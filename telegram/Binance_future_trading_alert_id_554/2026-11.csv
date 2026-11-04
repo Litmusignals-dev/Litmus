@@ -82,3 +82,34 @@ Stop Loss: 0.00...Target 4: 0.00546
 Target 5: 0.00544
 
 Leverage: x32",f49bebbb011f518b711e297f1d87aed0,2026-11-04T05:10:10+00:00,2026-11-04T05:41:06.380403+00:00,554,Binance_future_trading_alert
+2928234,12293,"#DOT/USDT - Long🟢
+
+Entry: 0.971
+Stop Loss: 0.58047
+
+Target 1: 1.06758
+
+Leverage: x14",b93518eb77d6c7555e7fb3bf8f53b241,2026-11-04T11:02:28+00:00,2026-11-04T11:14:51.866101+00:00,554,Binance_future_trading_alert
+2928224,12283,"#PENGU/USDT - Long🟢
+
+Entry: 0.0073
+Stop Loss: 0.00441
+
+Target 1: 0.00809
+
+Leverage: x27",64be25f9bcc7a6640271ae431bd10e77,2026-11-04T08:08:19+00:00,2026-11-04T11:14:51.461130+00:00,554,Binance_future_trading_alert
+2928218,12277,"#BNB/USDT - Short🔴
+
+Entry: 704.2
+Stop Loss: 999.80557
+
+Target 1: 690.731
+
+Leverage: x12",764f904ae3f6449537d75eb4923c9785,2026-11-04T07:28:47+00:00,2026-11-04T11:14:51.175585+00:00,554,Binance_future_trading_alert
+2928205,12262,"#ETH/USDT - Long🟢
+
+Entry: 2303.3
+Stop Loss: 2227.9... 2: 2388.11932
+Target 3: 2538.80098
+
+Leverage: x27",4602ecef2723f08499c733a525497e08,2026-11-04T05:51:27+00:00,2026-11-04T11:14:50.552540+00:00,554,Binance_future_trading_alert
