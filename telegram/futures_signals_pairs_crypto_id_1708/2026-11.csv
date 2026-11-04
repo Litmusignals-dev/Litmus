@@ -96,3 +96,29 @@ Entry :
  Stop : 0.0003532
 
 Leverage : 10x",beb48f2c03eab198759ecbabeeb92556,2026-11-04T00:02:26+00:00,2026-11-04T02:09:00.476648+00:00,1708,futures_signals_pairs_crypto
+2917036,16389,"#LTC/USDT SHORT
+
+Entry : 
+
+1) 54.23
+2) 55.85
+
+Targ...6
+3) 51.62
+4) 50.47
+
+ Stop : 57.64
+
+Leverage : 10x",8532ff9e2432fe9b70054aca1d9513db,2026-11-04T06:03:14+00:00,2026-11-04T06:24:44.128272+00:00,1708,futures_signals_pairs_crypto
+2917035,16382,"#SNX/USDT LONG
+
+Entry : 
+
+1) 0.171400
+2) 0.166258
+...9545
+4) 0.183126
+
+ Stop : 0.160601
+
+Leverage : 10x",a145a3e6978493775277eb1aec4b52a6,2026-11-04T04:23:24+00:00,2026-11-04T06:24:44.125222+00:00,1708,futures_signals_pairs_crypto
