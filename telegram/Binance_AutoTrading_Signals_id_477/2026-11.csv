@@ -163,3 +163,15 @@ Entry: 0.1959
 Target 1: 0.1979
 Target 2: 0.1998
 Stoploss: 0.1918",6154ed7338b3771c26b60fea0096c729,2026-11-04T15:00:05+00:00,2026-11-04T17:36:23.132356+00:00,477,Binance_AutoTrading_Signals
+2950777,13800,"EGLDUSDT SHORT
+Leverage: Cross 20x
+Entry: 3.331
+Target 1: 3.298
+Target 2: 3.264
+Stoploss: 3.431",fcc1d671ff9ff6747c526e9c7a88e09a,2026-11-05T01:00:27+00:00,2026-11-05T02:58:05.892486+00:00,477,Binance_AutoTrading_Signals
+2950774,13801,"EGLDUSDT SHORT
+Leverage: Cross 20x
+Entry: 3.331
+Target 1: 3.298
+Target 2: 3.264
+Stoploss: 3.431",fcc1d671ff9ff6747c526e9c7a88e09a,2026-11-05T01:00:27+00:00,2026-11-05T02:58:05.876528+00:00,477,Binance_AutoTrading_Signals
