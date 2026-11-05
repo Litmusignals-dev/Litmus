@@ -262,3 +262,29 @@ Entry :
  Stop : 0.128087
 
 Leverage : 10x",8f4c421e15db0a9262adc551038b9671,2026-11-04T18:33:55+00:00,2026-11-04T20:48:22.621281+00:00,1708,futures_signals_pairs_crypto
+2951645,16492,"#RUNE/USDT SHORT
+
+Entry : 
+
+1) 0.6685
+2) 0.6885
+
+T...) 0.6363
+4) 0.6222
+
+ Stop : 0.7106
+
+Leverage : 10x",c0a6ff93a3839576e63112c020abd8b7,2026-11-05T03:43:28+00:00,2026-11-05T05:15:14.236397+00:00,1708,futures_signals_pairs_crypto
+2951641,16488,"#THETA/USDT SHORT
+
+Entry : 
+
+1) 0.1583
+2) 0.1630
+
+...) 0.1506
+4) 0.1473
+
+ Stop : 0.1682
+
+Leverage : 10x",2cd24a000764a6ed1be8861e91dd95c1,2026-11-05T03:41:26+00:00,2026-11-05T05:15:14.161418+00:00,1708,futures_signals_pairs_crypto
