@@ -590,3 +590,26 @@ Entry :
  Stop : 0.0982350
 
 Leverage : 10x",53ad6b35d21a68a0481d3c08770efd63,2026-11-07T10:50:27+00:00,2026-11-07T12:43:02.676190+00:00,1710,cryptoinnercirclefree_signals
+3032508,9523,"#EGLD/USDT LONG 
+
+Entry : 
+
+1) 3.126
+2) 3.032
+
+Tar...9
+3) 3.274
+4) 3.339
+
+ Stop : 2.929
+
+Leverage : 10x",b258c50d3e140bfcbe01184aa089374d,2026-11-07T14:15:01+00:00,2026-11-07T14:49:14.879255+00:00,1710,cryptoinnercirclefree_signals
+3032496,9509,"#ICNT/USDT SHORT
+
+Entry: 0.320 
+
+Stoploss: 0.368
+
+Targets : 0.312, 0.303, 0.295
+
+Leverage : 25X",0da4b8e1229201f06dcb7d35b66a4c0e,2026-11-07T12:53:21+00:00,2026-11-07T14:49:14.556192+00:00,1710,cryptoinnercirclefree_signals
