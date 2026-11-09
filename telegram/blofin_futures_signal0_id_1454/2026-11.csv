@@ -2210,3 +2210,28 @@ Position: LONG
 Leverage:  Cross ...rgets: 🎯 0.1680, 0.1770, 0.1890
 
 Stop Loss: 0.1500",f8f21b1093e6d7382fbc63945463a209,2026-11-09T09:07:48+00:00,2026-11-09T11:04:34.326007+00:00,1454,blofin_futures_signal0
+3096128,16634,"✅ Long
+
+Pair: #AERO/USDT
+
+📊 Entry Price: 
+
+1) 0.57...0.6109198
+
+Stop Loss: 0.5357766
+
+Leverage: 10x-20x",378b6e50f51aaacb2035a930e520eb3f,2026-11-09T21:25:16+00:00,2026-11-09T22:36:35.281500+00:00,1454,blofin_futures_signal0
+3096126,16633,"🟢 Long
+
+#RLC/USDT
+
+Entry : 
+
+1) 0.4128
+2) 0.4004
+
+...0.4410
+
+🛑 Stop : 0.3867
+
+Leverage : 10x (isolated)",4d9f40beb225b9354f94e7cca6476e76,2026-11-09T21:25:16+00:00,2026-11-09T22:36:35.257738+00:00,1454,blofin_futures_signal0
