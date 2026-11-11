@@ -7157,3 +7157,9 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3143335,1274318,"┏⛔️ SHORT #ARUSDT 1h
 ┣ Signal Type: ⚖️ macd_price_... 09:00 (ARG), 09:00 (MSK)
 /ARUSDT_BinanceFuture_1h",7097cb6794eb1d85a66023791bd8ebad,2026-11-11T06:00:05+00:00,2026-11-11T08:32:13.286131+00:00,1543,binance_futures_macd_signals
+3143339,1274324,"┏⛔️ SHORT #AXLUSDT 30m
+┣ Signal Type: 📉 macd_cross...9:00 (ARG), 09:00 (MSK)
+/AXLUSDT_BinanceFuture_30m",9b065138682ba651f908c39ae329cb56,2026-11-11T06:00:15+00:00,2026-11-11T08:32:13.422000+00:00,1543,binance_futures_macd_signals
+3143338,1274325,"┏⛔️ SHORT #AEROUSDT 15m
+┣ Signal Type: ⚖️ macd_pri...:00 (ARG), 09:00 (MSK)
+/AEROUSDT_BinanceFuture_15m",e7a1b6e3f97bff17af00a9be600559cd,2026-11-11T06:00:15+00:00,2026-11-11T08:32:13.416207+00:00,1543,binance_futures_macd_signals

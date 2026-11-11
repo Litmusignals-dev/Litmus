@@ -1495,3 +1495,184 @@ Signal Type...) 66.72872
 
 Stop Targets:
 5-10%",7c451bd17e1b0e767a17440526c720d1,2026-11-10T17:55:55+00:00,2026-11-10T19:40:53.826639+00:00,1319,mql5de
+3145360,7287,"Pairs:  OPEN/USDT
+
+ 👉 Trade Type = LONG 🟢
+
+ 👉 Leve...[ 0.0933, 0.0944, 0.0956, 0.0969, 0.0983, 0.0994 ]",b8abef56f96604e0902505c7005ac90a,2026-11-11T08:46:49+00:00,2026-11-11T08:57:11.363119+00:00,1319,mql5de
+3145359,7286,"Pairs:  ALLO/USDT
+
+ 👉 Trade Type = SHORT 🔴
+
+ 👉 Lev...[ 0.1412, 0.1397, 0.1380, 0.1366, 0.1341, 0.1315 ]",874580bf702bfc0a17743a0263b32d97,2026-11-11T08:46:48+00:00,2026-11-11T08:57:11.313365+00:00,1319,mql5de
+3145358,7285,"Pairs:  GTC/USDT
+
+ 👉 Trade Type = SHORT 🔴
+
+ 👉 Leve...[ 0.1565, 0.1541, 0.1520, 0.1503, 0.1483, 0.1446 ]",bbb69f4d3122618456626bae61f6e3d3,2026-11-11T08:46:48+00:00,2026-11-11T08:57:11.312026+00:00,1319,mql5de
+3145357,7283,"Pairs:  MAGMA/USDT
+
+ 👉 Trade Type = LONG 🟢
+
+ 👉 Lev...[ 0.2515, 0.2542, 0.2580, 0.2596, 0.2645, 0.2690 ]",d00d956dccd0d1c4da2fb3c9e967b2a9,2026-11-11T08:46:47+00:00,2026-11-11T08:57:11.269253+00:00,1319,mql5de
+3145356,7284,"Pairs:  RED/USDT
+
+ 👉 Trade Type = SHORT 🔴
+
+ 👉 Leve...[ 0.1351, 0.1340, 0.1321, 0.1300, 0.1281, 0.1265 ]",4daddd9e643b752695b3b771c1bdebd3,2026-11-11T08:46:47+00:00,2026-11-11T08:57:11.266219+00:00,1319,mql5de
+3145351,7278,"Pairs:  OPEN/USDT
+
+ 👉 Trade Type = LONG 🟢
+
+ 👉 Leve...[ 0.0933, 0.0944, 0.0956, 0.0969, 0.0983, 0.0994 ]",b8abef56f96604e0902505c7005ac90a,2026-11-11T08:46:42+00:00,2026-11-11T08:57:11.148352+00:00,1319,mql5de
+3145350,7277,"Pairs:  ALLO/USDT
+
+ 👉 Trade Type = SHORT 🔴
+
+ 👉 Lev...[ 0.1412, 0.1397, 0.1380, 0.1366, 0.1341, 0.1315 ]",874580bf702bfc0a17743a0263b32d97,2026-11-11T08:46:42+00:00,2026-11-11T08:57:11.132757+00:00,1319,mql5de
+3145349,7276,"Pairs:  GTC/USDT
+
+ 👉 Trade Type = SHORT 🔴
+
+ 👉 Leve...[ 0.1565, 0.1541, 0.1520, 0.1503, 0.1483, 0.1446 ]",bbb69f4d3122618456626bae61f6e3d3,2026-11-11T08:46:41+00:00,2026-11-11T08:57:11.119063+00:00,1319,mql5de
+3145347,7275,"Pairs:  RED/USDT
+
+ 👉 Trade Type = SHORT 🔴
+
+ 👉 Leve...[ 0.1351, 0.1340, 0.1321, 0.1300, 0.1281, 0.1265 ]",4daddd9e643b752695b3b771c1bdebd3,2026-11-11T08:46:41+00:00,2026-11-11T08:57:11.080158+00:00,1319,mql5de
+3145348,7274,"Pairs:  MAGMA/USDT
+
+ 👉 Trade Type = LONG 🟢
+
+ 👉 Lev...[ 0.2515, 0.2542, 0.2580, 0.2596, 0.2645, 0.2690 ]",d00d956dccd0d1c4da2fb3c9e967b2a9,2026-11-11T08:46:40+00:00,2026-11-11T08:57:11.084210+00:00,1319,mql5de
+3145345,7272,"Pairs:  BR/USDT
+
+ 👉 Trade Type = LONG 🟢
+
+ 👉 Levera...[ 0.4730, 0.4779, 0.4846, 0.4904, 0.4988, 0.5063 ]",cc30c18b1311ddba82d40f57c15ce245,2026-11-11T08:46:40+00:00,2026-11-11T08:57:11.020386+00:00,1319,mql5de
+3145344,7271,"Pairs:  UAI/USDT
+
+ 👉 Trade Type = LONG 🟢
+
+ 👉 Lever...[ 0.0385, 0.0389, 0.0394, 0.0399, 0.0406, 0.0412 ]",98da80fa0396d4aa88a08c5afe52b07e,2026-11-11T08:46:39+00:00,2026-11-11T08:57:10.986779+00:00,1319,mql5de
+3145343,7270,"Pairs:  LIT/USDT
+
+ 👉 Trade Type = LONG 🟢
+
+ 👉 Lever...fit = [ 3.425, 3.453, 3.494, 3.546, 3.597, 3.639 ]",4034bbfa3f70fe907fef12709997113d,2026-11-11T08:46:39+00:00,2026-11-11T08:57:10.975540+00:00,1319,mql5de
+3145342,7269,"Pairs:  LIT/USDT
+
+ 👉 Trade Type = LONG 🟢
+
+ 👉 Lever...fit = [ 3.425, 3.453, 3.494, 3.546, 3.597, 3.639 ]",4034bbfa3f70fe907fef12709997113d,2026-11-11T08:46:38+00:00,2026-11-11T08:57:10.944799+00:00,1319,mql5de
+3145341,7267,"Pairs:  ALLO/USDT
+
+ 👉 Trade Type = SHORT 🔴
+
+ 👉 Lev...[ 0.1412, 0.1397, 0.1380, 0.1366, 0.1341, 0.1315 ]",874580bf702bfc0a17743a0263b32d97,2026-11-11T08:46:37+00:00,2026-11-11T08:57:10.916464+00:00,1319,mql5de
+3145340,7268,"Pairs:  OPEN/USDT
+
+ 👉 Trade Type = LONG 🟢
+
+ 👉 Leve...[ 0.0933, 0.0944, 0.0956, 0.0969, 0.0983, 0.0994 ]",b8abef56f96604e0902505c7005ac90a,2026-11-11T08:46:37+00:00,2026-11-11T08:57:10.904008+00:00,1319,mql5de
+3145339,7266,"Pairs:  GTC/USDT
+
+ 👉 Trade Type = SHORT 🔴
+
+ 👉 Leve...[ 0.1565, 0.1541, 0.1520, 0.1503, 0.1483, 0.1446 ]",bbb69f4d3122618456626bae61f6e3d3,2026-11-11T08:46:37+00:00,2026-11-11T08:57:10.888977+00:00,1319,mql5de
+3145338,7265,"Pairs:  RED/USDT
+
+ 👉 Trade Type = SHORT 🔴
+
+ 👉 Leve...[ 0.1351, 0.1340, 0.1321, 0.1300, 0.1281, 0.1265 ]",4daddd9e643b752695b3b771c1bdebd3,2026-11-11T08:46:37+00:00,2026-11-11T08:57:10.875960+00:00,1319,mql5de
+3145337,7260,"Pairs:  MAGMA/USDT
+
+ 👉 Trade Type = LONG 🟢
+
+ 👉 Lev...[ 0.2515, 0.2542, 0.2580, 0.2596, 0.2645, 0.2690 ]",d00d956dccd0d1c4da2fb3c9e967b2a9,2026-11-11T08:46:34+00:00,2026-11-11T08:57:10.835799+00:00,1319,mql5de
+3145335,7259,"Pairs:  UAI/USDT
+
+ 👉 Trade Type = LONG 🟢
+
+ 👉 Lever...[ 0.0385, 0.0389, 0.0394, 0.0399, 0.0406, 0.0412 ]",98da80fa0396d4aa88a08c5afe52b07e,2026-11-11T08:46:34+00:00,2026-11-11T08:57:10.784223+00:00,1319,mql5de
+3145334,7256,"Pairs:  BR/USDT
+
+ 👉 Trade Type = LONG 🟢
+
+ 👉 Levera...[ 0.4730, 0.4779, 0.4846, 0.4904, 0.4988, 0.5063 ]",cc30c18b1311ddba82d40f57c15ce245,2026-11-11T08:46:33+00:00,2026-11-11T08:57:10.762177+00:00,1319,mql5de
+3145333,7255,"Pairs:  LIT/USDT
+
+ 👉 Trade Type = LONG 🟢
+
+ 👉 Lever...fit = [ 3.425, 3.453, 3.494, 3.546, 3.597, 3.639 ]",4034bbfa3f70fe907fef12709997113d,2026-11-11T08:46:33+00:00,2026-11-11T08:57:10.754437+00:00,1319,mql5de
+3145332,7251,"Pairs:  LIT/USDT
+
+ 👉 Trade Type = LONG 🟢
+
+ 👉 Lever...fit = [ 3.425, 3.453, 3.494, 3.546, 3.597, 3.639 ]",4034bbfa3f70fe907fef12709997113d,2026-11-11T08:46:32+00:00,2026-11-11T08:57:10.718530+00:00,1319,mql5de
+3145326,7244,"🔖 Signal ID: 012
+📩 #KASUSDT 15M | MACD Cross
+📉 Sho...t objective and extension toward the final target.",a24c9d98cac1e20bbd5b0ccf60c81f0d,2026-11-11T07:20:26+00:00,2026-11-11T08:57:10.568358+00:00,1319,mql5de
+3145325,7243,"🔖 Signal ID: 011
+📩 #ORDIUSDT 15M | BB Breakdown
+📉 ...t objective and extension toward the final target.",c14c1b930cb76d8cc6b59b0561c1a873,2026-11-11T07:20:25+00:00,2026-11-11T08:57:10.542623+00:00,1319,mql5de
+3145323,7242,"🔖 Signal ID: 010
+📩 #ONDOUSDT 15M | BB Breakdown
+📉 ...ea; expect a rapid move to secure initial profits.",857e1a213113e7a78319b48b1e2550e0,2026-11-11T07:20:25+00:00,2026-11-11T08:57:10.494588+00:00,1319,mql5de
+3145322,7240,"🔖 Signal ID: 008
+📩 #STRKUSDT 15M | BB Breakdown
+📉 ...ea; expect a rapid move to secure initial profits.",bec57d04a61a6c77653e2c03a760a2a9,2026-11-11T07:20:24+00:00,2026-11-11T08:57:10.472239+00:00,1319,mql5de
+3145317,7235,"🔖 Signal ID: 009
+📩 #BONKUSDT 15M | EMA Cross
+📉 Sho...icipate swift execution toward the nearest target.",c4886572a9cbdc9d84bcbe715ba93344,2026-11-11T07:20:21+00:00,2026-11-11T08:57:10.336816+00:00,1319,mql5de
+3145316,7234,"🔖 Signal ID: 008
+📩 #STRKUSDT 15M | BB Breakdown
+📉 ...ea; expect a rapid move to secure initial profits.",bec57d04a61a6c77653e2c03a760a2a9,2026-11-11T07:20:20+00:00,2026-11-11T08:57:10.280187+00:00,1319,mql5de
+3145315,7233,"🔖 Signal ID: 007
+📩 #IMXUSDT 15M | BB Breakdown
+📉 S...icipate swift execution toward the nearest target.",bb494bae706c959ae733dc568a2a239b,2026-11-11T07:20:20+00:00,2026-11-11T08:57:10.247562+00:00,1319,mql5de
+3145314,7232,"🔖 Signal ID: 006
+📩 #SEIUSDT 15M | BB Breakdown
+📉 S...ea; expect a rapid move to secure initial profits.",ae52f46fa84ca8e6343023228b1bc666,2026-11-11T07:20:19+00:00,2026-11-11T08:57:10.200741+00:00,1319,mql5de
+3145313,7231,"🔖 Signal ID: 005
+📩 #GRTUSDT 15M | BB Breakdown
+📉 S...t objective and extension toward the final target.",ea6e3bcac231aaea1508397a64ea4f53,2026-11-11T07:20:19+00:00,2026-11-11T08:57:10.196706+00:00,1319,mql5de
+3145312,7230,"🔖 Signal ID: 004
+📩 #SUIUSDT 15M | BB Breakdown
+📉 S...t objective and extension toward the final target.",8b7dbeaebff2a01504d48e926d261980,2026-11-11T07:20:18+00:00,2026-11-11T08:57:10.168201+00:00,1319,mql5de
+3145311,7229,"🔖 Signal ID: 003
+📩 #APTUSDT 15M | BB Breakdown
+📉 S...ea; expect a rapid move to secure initial profits.",a7b834131af9791bde41c856a5ff29f7,2026-11-11T07:20:18+00:00,2026-11-11T08:57:10.131221+00:00,1319,mql5de
+3145310,7228,"🔖 Signal ID: 002
+📩 #XLMUSDT 15M | EMA Cross
+📉 Shor...ea; expect a rapid move to secure initial profits.",600e877bfcb011b1e799c32f724d66d0,2026-11-11T07:20:17+00:00,2026-11-11T08:57:10.115504+00:00,1319,mql5de
+3145309,7227,"🔖 Signal ID: 004
+📩 #SUIUSDT 15M | BB Breakdown
+📉 S...t objective and extension toward the final target.",8b7dbeaebff2a01504d48e926d261980,2026-11-11T07:20:17+00:00,2026-11-11T08:57:10.086948+00:00,1319,mql5de
+3145308,7226,"🔖 Signal ID: 009
+📩 #BONKUSDT 15M | EMA Cross
+📉 Sho...icipate swift execution toward the nearest target.",c4886572a9cbdc9d84bcbe715ba93344,2026-11-11T07:20:17+00:00,2026-11-11T08:57:10.061255+00:00,1319,mql5de
+3145307,7225,"🔖 Signal ID: 008
+📩 #STRKUSDT 15M | BB Breakdown
+📉 ...ea; expect a rapid move to secure initial profits.",bec57d04a61a6c77653e2c03a760a2a9,2026-11-11T07:20:17+00:00,2026-11-11T08:57:10.043062+00:00,1319,mql5de
+3145306,7224,"🔖 Signal ID: 007
+📩 #IMXUSDT 15M | BB Breakdown
+📉 S...icipate swift execution toward the nearest target.",bb494bae706c959ae733dc568a2a239b,2026-11-11T07:20:17+00:00,2026-11-11T08:57:10.013181+00:00,1319,mql5de
+3145304,7222,"🔖 Signal ID: 001
+📩 #BTCUSDT 15M | EMA Cross
+📉 Shor...icipate swift execution toward the nearest target.",71dd8349a06e4bb1a5c3953536d7be91,2026-11-11T07:20:17+00:00,2026-11-11T08:57:09.953406+00:00,1319,mql5de
+3145301,7218,"🔖 Signal ID: 006
+📩 #SEIUSDT 15M | BB Breakdown
+📉 S...ea; expect a rapid move to secure initial profits.",ae52f46fa84ca8e6343023228b1bc666,2026-11-11T07:20:13+00:00,2026-11-11T08:57:09.888588+00:00,1319,mql5de
+3145300,7215,"🔖 Signal ID: 005
+📩 #GRTUSDT 15M | BB Breakdown
+📉 S...t objective and extension toward the final target.",ea6e3bcac231aaea1508397a64ea4f53,2026-11-11T07:20:13+00:00,2026-11-11T08:57:09.857227+00:00,1319,mql5de
+3145299,7212,"🔖 Signal ID: 003
+📩 #APTUSDT 15M | BB Breakdown
+📉 S...ea; expect a rapid move to secure initial profits.",a7b834131af9791bde41c856a5ff29f7,2026-11-11T07:20:12+00:00,2026-11-11T08:57:09.807019+00:00,1319,mql5de
+3145298,7210,"🔖 Signal ID: 002
+📩 #XLMUSDT 15M | EMA Cross
+📉 Shor...ea; expect a rapid move to secure initial profits.",600e877bfcb011b1e799c32f724d66d0,2026-11-11T07:20:11+00:00,2026-11-11T08:57:09.791834+00:00,1319,mql5de
+3145297,7208,"🔖 Signal ID: 001
+📩 #BTCUSDT 15M | EMA Cross
+📉 Shor...icipate swift execution toward the nearest target.",71dd8349a06e4bb1a5c3953536d7be91,2026-11-11T07:20:10+00:00,2026-11-11T08:57:09.773487+00:00,1319,mql5de
