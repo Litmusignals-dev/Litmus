@@ -981,3 +981,28 @@ Entry :
  Stop : 0.00008915
 
 Leverage : 20x",89242bdd9f1ceba24aba91287367ab84,2026-11-11T05:22:09+00:00,2026-11-11T05:29:43.961798+00:00,1708,futures_signals_pairs_crypto
+3142344,16964,"#XLMUSDT SHORT
+
+Entry :
+
+1) 0.14432 - 0.14388
+2) 0...
+4) 0.13574000
+
+ Stop : 0.15131000
+
+Leverage : 15x",01086c4ded6d70968715ad3d239977a3,2026-11-11T07:26:19+00:00,2026-11-11T08:06:33.080527+00:00,1708,futures_signals_pairs_crypto
+3142343,16963,"#EGLD/USDT LONG 
+
+Entry : 
+
+1) 2.907
+2) 2.819
+
+Tar...4
+3) 3.045
+4) 3.105
+
+ Stop : 2.723
+
+Leverage : 10x",282b7c389b8f1d18ac3cff5ccabdc59c,2026-11-11T05:50:01+00:00,2026-11-11T08:06:33.053259+00:00,1708,futures_signals_pairs_crypto
