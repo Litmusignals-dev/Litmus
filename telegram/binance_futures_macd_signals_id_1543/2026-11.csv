@@ -7676,3 +7676,18 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3176789,1274524,"┏🟢 LONG #TAGUSDT 30m
 ┣ Signal Type: 🟢 macd_rising_...9:00 (ARG), 09:00 (MSK)
 /TAGUSDT_BinanceFuture_30m",ad028abc30008ed5c93e872ba073ffba,2026-11-12T06:10:07+00:00,2026-11-12T07:37:25.072033+00:00,1543,binance_futures_macd_signals
+3180526,1274532,"┏🟢 LONG #ETHUSDT 30m
+┣ Signal Type: 🟢 macd_rising_...3:00 (ARG), 13:00 (MSK)
+/ETHUSDT_BinanceFuture_30m",bff5822faeab563ebf0f74ce83db3598,2026-11-12T10:10:07+00:00,2026-11-12T10:12:45.097953+00:00,1543,binance_futures_macd_signals
+3180528,1274531,"┏⛔️ SHORT #BTCUSDT 15m
+┣ Signal Type: 📉 macd_cross...2:00 (ARG), 12:00 (MSK)
+/BTCUSDT_BinanceFuture_15m",eba8fdb1231314cd0271abeef61515bf,2026-11-12T09:25:05+00:00,2026-11-12T10:12:45.109753+00:00,1543,binance_futures_macd_signals
+3180524,1274530,"┏🟢 LONG #HUMAUSDT 15m
+┣ Signal Type: 🌿 ha_3green_s...:00 (ARG), 12:00 (MSK)
+/HUMAUSDT_BinanceFuture_15m",4056d3d1a3a0cc9d5c6bc3325c52ec83,2026-11-12T09:10:07+00:00,2026-11-12T10:12:45.084837+00:00,1543,binance_futures_macd_signals
+3180527,1274529,"┏🟢 LONG #SUSDT 30m
+┣ Signal Type: 🟢 macd_rising_be... 11:00 (ARG), 11:00 (MSK)
+/SUSDT_BinanceFuture_30m",f5185ac31732743e241129d7f52b61d9,2026-11-12T08:25:02+00:00,2026-11-12T10:12:45.101179+00:00,1543,binance_futures_macd_signals
+3180525,1274528,"┏⛔️ SHORT #GTCUSDT 15m
+┣ Signal Type: ⚖️ macd_pric...1:00 (ARG), 11:00 (MSK)
+/GTCUSDT_BinanceFuture_15m",f8aedde8a688df948475554f5a9c5727,2026-11-12T08:10:01+00:00,2026-11-12T10:12:45.087087+00:00,1543,binance_futures_macd_signals
