@@ -102,3 +102,15 @@ Entry: 3.727
 
 Stop: 3.819
 ...$5,000 position (1,342 NEAR). The stop costs $123.",6079f64590180dbbadfc1ce58e321c0d,2026-11-11T18:30:29+00:00,2026-11-11T19:36:11.720444+00:00,1745,quivira_hub1
+3183551,4578,"New signal: SOL SHORT
+
+Entry: 82.75
+
+Stop: 83.98
+
+...= $5,000 position (60.42 SOL). The stop costs $75.",cdc8b393c94397b0c9ba67d8f00c8b1a,2026-11-12T11:30:47+00:00,2026-11-12T12:19:35.899720+00:00,1745,quivira_hub1
+3183550,4577,"New signal: BTC SHORT
+
+Entry: 73,268.60
+
+Stop: 73,... $5,000 position (0.0682 BTC). The stop costs $32.",f26dfbe7c774487d35c3ee8f6f81792a,2026-11-12T11:30:29+00:00,2026-11-12T12:19:35.898743+00:00,1745,quivira_hub1
