@@ -176,3 +176,32 @@ Targets:
 USE 3-5% YOUE CAPITAL FOR THIS TRADE
 
 Spot",8bbfe0ca406367de92f3392aaed82492,2026-11-12T04:34:08+00:00,2026-11-12T06:19:50.392890+00:00,698,Crypto_KuCoin_Arab
+3238740,4222,"Short
+
+#LINKUSDT
+
+Entry : 9.99 - 10.54
+
+Targets:
+
+...
+Stop Targets:
+5-10%
+
+Use #DCA
+
+Leverage Cross 20x",30f0694b092a00b2d8f32a8292fc07e1,2026-11-13T14:04:41+00:00,2026-11-13T18:36:58.887391+00:00,698,Crypto_KuCoin_Arab
+3238738,4221,"Short
+
+#HYPEUSDT
+
+Entry : 74.20 - 77.50
+
+Targets:
+...
+Stop Targets:
+5-10%
+
+Leverage Cross 50x
+
+Use #DCA",f0c9b720524648c8213be244bd315b0c,2026-11-13T14:04:41+00:00,2026-11-13T18:36:58.876134+00:00,698,Crypto_KuCoin_Arab
