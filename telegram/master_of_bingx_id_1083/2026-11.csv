@@ -223,3 +223,31 @@ Targets:
 USE 3-5% YOUE CAPITAL FOR THIS TRADE
 
 Spot",8bbfe0ca406367de92f3392aaed82492,2026-11-12T03:41:42+00:00,2026-11-12T06:09:11.958143+00:00,1083,master_of_bingx
+3227722,1769,"Short
+
+#LINKUSDT
+
+Entry : 9.99 - 10.54
+
+Targets:
+
+...
+Stop Targets:
+5-10%
+
+Use #DCA
+
+Leverage Cross 20x",30f0694b092a00b2d8f32a8292fc07e1,2026-11-13T11:49:03+00:00,2026-11-13T13:23:48.019419+00:00,1083,master_of_bingx
+3227724,1766,"Short
+
+#XMRUSDT
+
+Entry : 535.40 - 545.40
+
+Targets ...36
+500.09
+
+Stop Targets:
+5-10%
+
+Leverage Cross 20x",1445b27d0354f62120722a6adde17712,2026-11-13T11:42:12+00:00,2026-11-13T13:23:48.031779+00:00,1083,master_of_bingx
