@@ -447,3 +447,32 @@ Entry: 0.0050
 
 Trade Type = LONG 
 Leverage :- ...onsibly and only with funds you can afford to lose",8fda2cec76525af09a47fb9ee29211fa,2026-11-13T12:40:12+00:00,2026-11-13T12:42:13.101493+00:00,1431,coincodecapsignals11
+3231495,6331,"Short
+
+#LINKUSDT
+
+Entry : 9.99 - 10.54
+
+Targets:
+
+...
+Stop Targets:
+5-10%
+
+Use #DCA
+
+Leverage Cross 20x",30f0694b092a00b2d8f32a8292fc07e1,2026-11-13T13:57:45+00:00,2026-11-13T15:22:01.289190+00:00,1431,coincodecapsignals11
+3231493,6329,"Short
+
+#HYPEUSDT
+
+Entry : 74.20 - 77.50
+
+Targets:
+...
+Stop Targets:
+5-10%
+
+Leverage Cross 50x
+
+Use #DCA",f0c9b720524648c8213be244bd315b0c,2026-11-13T13:57:45+00:00,2026-11-13T15:22:01.254173+00:00,1431,coincodecapsignals11
