@@ -7904,3 +7904,15 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3244340,1274602,"┏🟢 LONG #SOLUSDT 15m
 ┣ Signal Type: 💹 green_volume...3:00 (ARG), 23:00 (MSK)
 /SOLUSDT_BinanceFuture_15m",b39472060a4d3f24b23ec3b568b5cf2d,2026-11-13T20:10:03+00:00,2026-11-13T22:45:25.972332+00:00,1543,binance_futures_macd_signals
+3247561,1274611,"┏🟢 LONG #1000RATSUSDT 4h
+┣ Signal Type: 🟢 macd_ris... (ARG), 03:00 (MSK)
+/1000RATSUSDT_BinanceFuture_4h",5529a385a220f2cea19c901ae85f7bfd,2026-11-14T00:25:05+00:00,2026-11-14T01:00:28.898457+00:00,1543,binance_futures_macd_signals
+3247560,1274610,"┏⛔️ SHORT #CAKEUSDT 15m
+┣ Signal Type: 📉 macd_cros...:00 (ARG), 03:00 (MSK)
+/CAKEUSDT_BinanceFuture_15m",7c5248b1435e069aad8a54d7ff92841b,2026-11-14T00:10:03+00:00,2026-11-14T01:00:28.894299+00:00,1543,binance_futures_macd_signals
+3247562,1274609,"┏🟢 LONG #ALGOUSDT 30m
+┣ Signal Type: 🟢 macd_rising...:00 (ARG), 02:00 (MSK)
+/ALGOUSDT_BinanceFuture_30m",e4e20919d3d52efbbb1c9c5609ff2e61,2026-11-13T23:25:02+00:00,2026-11-14T01:00:28.902875+00:00,1543,binance_futures_macd_signals
+3247559,1274608,"┏🟢 LONG #BTCUSDT 1h
+┣ Signal Type: 🟢 macd_rising_b...02:00 (ARG), 02:00 (MSK)
+/BTCUSDT_BinanceFuture_1h",bdaf656f7c2c5ddc3b1a7c3f6d0e8be9,2026-11-13T23:10:02+00:00,2026-11-14T01:00:28.874499+00:00,1543,binance_futures_macd_signals
