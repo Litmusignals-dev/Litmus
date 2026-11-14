@@ -8000,3 +8000,21 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3271522,1274635,"┏🟢 LONG #XTZUSDT 30m
 ┣ Signal Type: 🟢 macd_rising_...5:00 (ARG), 15:00 (MSK)
 /XTZUSDT_BinanceFuture_30m",3dc36d25bacb798ee25511eddc70b027,2026-11-14T12:25:03+00:00,2026-11-14T15:01:15.222725+00:00,1543,binance_futures_macd_signals
+3278392,1274645,"┏🟢 LONG #HAEDALUSDT 15m
+┣ Signal Type: 💹 green_vol...0 (ARG), 20:00 (MSK)
+/HAEDALUSDT_BinanceFuture_15m",daf07622a0034fa2a299b4e295e99008,2026-11-14T17:25:09+00:00,2026-11-14T17:46:23.872890+00:00,1543,binance_futures_macd_signals
+3278390,1274644,"┏🟢 LONG #INITUSDT 15m
+┣ Signal Type: 🟢 macd_rising...:00 (ARG), 20:00 (MSK)
+/INITUSDT_BinanceFuture_15m",b4253fd5c83d49b287f2c822701651c9,2026-11-14T17:10:09+00:00,2026-11-14T17:46:23.831003+00:00,1543,binance_futures_macd_signals
+3278391,1274643,"┏🟢 LONG #XRPUSDT 1h
+┣ Signal Type: 📈 macd_cross_up...19:00 (ARG), 19:00 (MSK)
+/XRPUSDT_BinanceFuture_1h",2aa5c24bcb3a54286b7970cd285a1958,2026-11-14T16:25:02+00:00,2026-11-14T17:46:23.855876+00:00,1543,binance_futures_macd_signals
+3278388,1274642,"┏🟢 LONG #GTCUSDT 1h
+┣ Signal Type: 🟢 macd_rising_b...19:00 (ARG), 19:00 (MSK)
+/GTCUSDT_BinanceFuture_1h",f31f9a623d08d791ee26e6d3c61bd2ae,2026-11-14T16:10:02+00:00,2026-11-14T17:46:23.780246+00:00,1543,binance_futures_macd_signals
+3278389,1274641,"┏🟢 LONG #HYPEUSDT 1h
+┣ Signal Type: 🟢 macd_rising_...8:00 (ARG), 18:00 (MSK)
+/HYPEUSDT_BinanceFuture_1h",f6b408e8d5de8c44007afc3483ab335e,2026-11-14T15:25:03+00:00,2026-11-14T17:46:23.829998+00:00,1543,binance_futures_macd_signals
+3278387,1274640,"┏🟢 LONG #ENAUSDT 1h
+┣ Signal Type: 🟢 macd_rising_b...18:00 (ARG), 18:00 (MSK)
+/ENAUSDT_BinanceFuture_1h",af9028da485065046302b6db4481e6bd,2026-11-14T15:10:05+00:00,2026-11-14T17:46:23.777903+00:00,1543,binance_futures_macd_signals
