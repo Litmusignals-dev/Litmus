@@ -7952,3 +7952,21 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3254040,1274616,"┏🟢 LONG #BNBUSDT 1h
 ┣ Signal Type: 🟢 macd_rising_b...06:00 (ARG), 06:00 (MSK)
 /BNBUSDT_BinanceFuture_1h",42d0bb395b9d611f7080c122cdfb8577,2026-11-14T03:10:04+00:00,2026-11-14T06:45:24.782393+00:00,1543,binance_futures_macd_signals
+3258868,1274629,"┏🟢 LONG #BANANAS31USDT 1h
+┣ Signal Type: ⚖️ macd_p...(ARG), 12:00 (MSK)
+/BANANAS31USDT_BinanceFuture_1h",2e4fa1f7ef5c7ea912e76c07d8920652,2026-11-14T09:25:04+00:00,2026-11-14T09:28:07.065045+00:00,1543,binance_futures_macd_signals
+3258866,1274628,"┏⛔️ SHORT #SHELLUSDT 15m
+┣ Signal Type: ⚖️ macd_pr...00 (ARG), 12:00 (MSK)
+/SHELLUSDT_BinanceFuture_15m",ab2b29469372ce0944711ea1be5ff94b,2026-11-14T09:10:03+00:00,2026-11-14T09:28:06.918039+00:00,1543,binance_futures_macd_signals
+3258865,1274627,"┏🟢 LONG #LINKUSDT 30m
+┣ Signal Type: 📈 macd_cross_...:00 (ARG), 11:00 (MSK)
+/LINKUSDT_BinanceFuture_30m",7f69de8bb633064335469e10c0255975,2026-11-14T08:25:03+00:00,2026-11-14T09:28:06.916203+00:00,1543,binance_futures_macd_signals
+3258864,1274626,"┏⛔️ SHORT #NAORISUSDT 15m
+┣ Signal Type: 📊 ema_tre...0 (ARG), 11:00 (MSK)
+/NAORISUSDT_BinanceFuture_15m",5b3ce8dccda1f150d5231f4dccced034,2026-11-14T08:10:03+00:00,2026-11-14T09:28:06.912396+00:00,1543,binance_futures_macd_signals
+3258867,1274625,"┏🟢 LONG #FILUSDT 15m
+┣ Signal Type: 🟢 macd_rising_...0:00 (ARG), 10:00 (MSK)
+/FILUSDT_BinanceFuture_15m",30749ee36078d58905da696c57e44ae7,2026-11-14T07:25:05+00:00,2026-11-14T09:28:06.924654+00:00,1543,binance_futures_macd_signals
+3258863,1274624,"┏🟢 LONG #DOTUSDT 15m
+┣ Signal Type: 🟢 macd_rising_...0:00 (ARG), 10:00 (MSK)
+/DOTUSDT_BinanceFuture_15m",595a35fda4dc7f7ea81c7af0070dbc1b,2026-11-14T07:10:04+00:00,2026-11-14T09:28:06.907274+00:00,1543,binance_futures_macd_signals
