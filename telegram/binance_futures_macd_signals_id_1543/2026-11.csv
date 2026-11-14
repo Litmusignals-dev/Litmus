@@ -7970,3 +7970,18 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3258863,1274624,"┏🟢 LONG #DOTUSDT 15m
 ┣ Signal Type: 🟢 macd_rising_...0:00 (ARG), 10:00 (MSK)
 /DOTUSDT_BinanceFuture_15m",595a35fda4dc7f7ea81c7af0070dbc1b,2026-11-14T07:10:04+00:00,2026-11-14T09:28:06.907274+00:00,1543,binance_futures_macd_signals
+3265160,1274634,"┏🟢 LONG #CELOUSDT 4h
+┣ Signal Type: 🟢 macd_rising_...5:00 (ARG), 15:00 (MSK)
+/CELOUSDT_BinanceFuture_4h",489271c6543a6e5c79b777fe6e838658,2026-11-14T12:10:05+00:00,2026-11-14T12:16:28.993493+00:00,1543,binance_futures_macd_signals
+3265161,1274633,"┏🟢 LONG #ARUSDT 15m
+┣ Signal Type: 🟢 macd_rising_b...14:00 (ARG), 14:00 (MSK)
+/ARUSDT_BinanceFuture_15m",5bc626d146bedf14a28702eba4164eb7,2026-11-14T11:25:03+00:00,2026-11-14T12:16:28.995678+00:00,1543,binance_futures_macd_signals
+3265159,1274632,"┏🟢 LONG #AAVEUSDT 15m
+┣ Signal Type: 🟢 macd_rising...:00 (ARG), 14:00 (MSK)
+/AAVEUSDT_BinanceFuture_15m",c4424695e70c9f46463744e8e9371da0,2026-11-14T11:10:03+00:00,2026-11-14T12:16:28.989335+00:00,1543,binance_futures_macd_signals
+3265158,1274631,"┏🟢 LONG #UNIUSDT 30m
+┣ Signal Type: 🟢 macd_rising_...3:00 (ARG), 13:00 (MSK)
+/UNIUSDT_BinanceFuture_30m",9254e8a3b21c85934ddeaa20335391f4,2026-11-14T10:25:06+00:00,2026-11-14T12:16:28.981174+00:00,1543,binance_futures_macd_signals
+3265157,1274630,"┏⛔️ SHORT #DOGEUSDT 30m
+┣ Signal Type: 📉 macd_cros...:00 (ARG), 13:00 (MSK)
+/DOGEUSDT_BinanceFuture_30m",d95585e2d0d72c7a5ea162bb76836a15,2026-11-14T10:10:07+00:00,2026-11-14T12:16:28.948279+00:00,1543,binance_futures_macd_signals
