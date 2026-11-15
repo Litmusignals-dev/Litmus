@@ -8159,3 +8159,21 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3314195,1274688,"┏⛔️ SHORT #INITUSDT 1h
 ┣ Signal Type: ⚖️ macd_pric...8:00 (ARG), 18:00 (MSK)
 /INITUSDT_BinanceFuture_1h",1e475570cb7f1b4d6125a77777e2cc38,2026-11-15T15:10:07+00:00,2026-11-15T17:19:30.390433+00:00,1543,binance_futures_macd_signals
+3317255,1274698,"┏⛔️ SHORT #USELESSUSDT 15m
+┣ Signal Type: ⚖️ macd_... (ARG), 23:00 (MSK)
+/USELESSUSDT_BinanceFuture_15m",b25f00c834a4588c857f6d0b7c2db929,2026-11-15T20:10:05+00:00,2026-11-15T20:11:00.663353+00:00,1543,binance_futures_macd_signals
+3317251,1274697,"┏🟢 LONG #1000PEPEUSDT 15m
+┣ Signal Type: 🟢 macd_ri...(ARG), 22:00 (MSK)
+/1000PEPEUSDT_BinanceFuture_15m",f26bff5c815ddb80651ded459bf58fa7,2026-11-15T19:25:04+00:00,2026-11-15T20:11:00.580486+00:00,1543,binance_futures_macd_signals
+3317254,1274696,"┏🟢 LONG #1000XECUSDT 15m
+┣ Signal Type: 📊 ema_tren... (ARG), 22:00 (MSK)
+/1000XECUSDT_BinanceFuture_15m",958c2cefe0282f8cc354635d7a191868,2026-11-15T19:10:06+00:00,2026-11-15T20:11:00.595908+00:00,1543,binance_futures_macd_signals
+3317250,1274695,"┏🟢 LONG #ZILUSDT 15m
+┣ Signal Type: 🟢 macd_rising_...1:00 (ARG), 21:00 (MSK)
+/ZILUSDT_BinanceFuture_15m",0c4190f01ed4870a803fb489ccb290a2,2026-11-15T18:25:02+00:00,2026-11-15T20:11:00.578800+00:00,1543,binance_futures_macd_signals
+3317253,1274694,"┏🟢 LONG #BTCUSDT 15m
+┣ Signal Type: 🟢 macd_rising_...1:00 (ARG), 21:00 (MSK)
+/BTCUSDT_BinanceFuture_15m",9ca3a8606d0d53047493c0b93db66136,2026-11-15T18:10:02+00:00,2026-11-15T20:11:00.590364+00:00,1543,binance_futures_macd_signals
+3317252,1274693,"┏⛔️ SHORT #PARTIUSDT 15m
+┣ Signal Type: ⚖️ macd_pr...00 (ARG), 20:00 (MSK)
+/PARTIUSDT_BinanceFuture_15m",4ff6e3f3ee632e94bd1e1d8e3ae01cc3,2026-11-15T17:25:06+00:00,2026-11-15T20:11:00.584028+00:00,1543,binance_futures_macd_signals
