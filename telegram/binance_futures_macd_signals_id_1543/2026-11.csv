@@ -8144,3 +8144,18 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3310294,1274683,"┏⛔️ SHORT #BTCUSDT 30m
 ┣ Signal Type: ⚖️ macd_pric...5:00 (ARG), 15:00 (MSK)
 /BTCUSDT_BinanceFuture_30m",acad5c21e943f293cd7942af8c88838a,2026-11-15T12:25:04+00:00,2026-11-15T14:40:44.249342+00:00,1543,binance_futures_macd_signals
+3314196,1274692,"┏⛔️ SHORT #BANANAS31USDT 30m
+┣ Signal Type: 📊 ema_...ARG), 20:00 (MSK)
+/BANANAS31USDT_BinanceFuture_30m",16432d505ac89cd130a6a50e53be0933,2026-11-15T17:10:06+00:00,2026-11-15T17:19:30.395035+00:00,1543,binance_futures_macd_signals
+3314198,1274691,"┏🟢 LONG #ERAUSDT 4h
+┣ Signal Type: 🟢 macd_rising_b...19:00 (ARG), 19:00 (MSK)
+/ERAUSDT_BinanceFuture_4h",1ca176b72a0b1a61d68cb296da2a8887,2026-11-15T16:25:03+00:00,2026-11-15T17:19:30.398557+00:00,1543,binance_futures_macd_signals
+3314199,1274690,"┏⛔️ SHORT #BULLAUSDT 1h
+┣ Signal Type: 📉 macd_cros...:00 (ARG), 19:00 (MSK)
+/BULLAUSDT_BinanceFuture_1h",0fab824260997f7588b1a191539227ad,2026-11-15T16:10:02+00:00,2026-11-15T17:19:30.409458+00:00,1543,binance_futures_macd_signals
+3314197,1274689,"┏⛔️ SHORT #AGTUSDT 1h
+┣ Signal Type: 💥 volume_surg...18:00 (ARG), 18:00 (MSK)
+/AGTUSDT_BinanceFuture_1h",0ae84d964014f354ab5abfcd7d3ba049,2026-11-15T15:25:03+00:00,2026-11-15T17:19:30.397061+00:00,1543,binance_futures_macd_signals
+3314195,1274688,"┏⛔️ SHORT #INITUSDT 1h
+┣ Signal Type: ⚖️ macd_pric...8:00 (ARG), 18:00 (MSK)
+/INITUSDT_BinanceFuture_1h",1e475570cb7f1b4d6125a77777e2cc38,2026-11-15T15:10:07+00:00,2026-11-15T17:19:30.390433+00:00,1543,binance_futures_macd_signals
