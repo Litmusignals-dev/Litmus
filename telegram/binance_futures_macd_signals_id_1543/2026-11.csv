@@ -8072,3 +8072,15 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3294332,1274658,"┏⛔️ SHORT #TAOUSDT 15m
 ┣ Signal Type: 📉 macd_cross...3:00 (ARG), 03:00 (MSK)
 /TAOUSDT_BinanceFuture_15m",71e5f3c27e3a367c15150c0a73eac622,2026-11-15T00:10:06+00:00,2026-11-15T02:43:33.260693+00:00,1543,binance_futures_macd_signals
+3295809,1274667,"┏🟢 LONG #SOLVUSDT 15m
+┣ Signal Type: 🟢 macd_rising...:00 (ARG), 07:00 (MSK)
+/SOLVUSDT_BinanceFuture_15m",35acd57f2b6c9c240cc1ede5c679b78f,2026-11-15T04:25:00+00:00,2026-11-15T05:01:52.779595+00:00,1543,binance_futures_macd_signals
+3295808,1274666,"┏⛔️ SHORT #GTCUSDT 1h
+┣ Signal Type: 📉 macd_cross_...07:00 (ARG), 07:00 (MSK)
+/GTCUSDT_BinanceFuture_1h",4208ff3e131d6d16834ed766c6ee0f5b,2026-11-15T04:10:02+00:00,2026-11-15T05:01:52.778902+00:00,1543,binance_futures_macd_signals
+3295807,1274665,"┏⛔️ SHORT #BTCUSDT 30m
+┣ Signal Type: 📉 macd_cross...6:00 (ARG), 06:00 (MSK)
+/BTCUSDT_BinanceFuture_30m",2c01ab548ffaa347e58737698eadc255,2026-11-15T03:25:02+00:00,2026-11-15T05:01:52.772155+00:00,1543,binance_futures_macd_signals
+3295806,1274664,"┏⛔️ SHORT #SKYAIUSDT 15m
+┣ Signal Type: 🔺 ema21_cr...00 (ARG), 06:00 (MSK)
+/SKYAIUSDT_BinanceFuture_15m",6fc02a9b522eeb24ec1c670009a7fbb8,2026-11-15T03:10:02+00:00,2026-11-15T05:01:52.754908+00:00,1543,binance_futures_macd_signals
