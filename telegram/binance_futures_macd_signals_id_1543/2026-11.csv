@@ -8177,3 +8177,18 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3317252,1274693,"┏⛔️ SHORT #PARTIUSDT 15m
 ┣ Signal Type: ⚖️ macd_pr...00 (ARG), 20:00 (MSK)
 /PARTIUSDT_BinanceFuture_15m",4ff6e3f3ee632e94bd1e1d8e3ae01cc3,2026-11-15T17:25:06+00:00,2026-11-15T20:11:00.584028+00:00,1543,binance_futures_macd_signals
+3320687,1274703,"┏⛔️ SHORT #PENDLEUSDT 15m
+┣ Signal Type: 📊 ema_tre...0 (ARG), 01:00 (MSK)
+/PENDLEUSDT_BinanceFuture_15m",a9840c21fd0f9ea21e2a9e8d9c4e7afd,2026-11-15T22:25:04+00:00,2026-11-15T22:55:18.307114+00:00,1543,binance_futures_macd_signals
+3320688,1274702,"┏⛔️ SHORT #WLDUSDT 15m
+┣ Signal Type: 📉 macd_cross...1:00 (ARG), 01:00 (MSK)
+/WLDUSDT_BinanceFuture_15m",cf282539fd93051e529e2fed1bce8143,2026-11-15T22:10:03+00:00,2026-11-15T22:55:18.307764+00:00,1543,binance_futures_macd_signals
+3320686,1274701,"┏🟢 LONG #ORDIUSDT 30m
+┣ Signal Type: ⚖️ macd_price...:00 (ARG), 00:00 (MSK)
+/ORDIUSDT_BinanceFuture_30m",e2271340586bd9d7f571ba3380990037,2026-11-15T21:25:03+00:00,2026-11-15T22:55:18.299355+00:00,1543,binance_futures_macd_signals
+3320689,1274700,"┏⛔️ SHORT #SOLUSDT 15m
+┣ Signal Type: 🔺 ema21_cros...0:00 (ARG), 00:00 (MSK)
+/SOLUSDT_BinanceFuture_15m",143b4e4d1014dc547d08449ffa88cab2,2026-11-15T21:10:02+00:00,2026-11-15T22:55:18.317660+00:00,1543,binance_futures_macd_signals
+3320685,1274699,"┏⛔️ SHORT #ETHUSDT 15m
+┣ Signal Type: 📊 ema_trend_...3:00 (ARG), 23:00 (MSK)
+/ETHUSDT_BinanceFuture_15m",23be688faf8de90304fc557d336110ab,2026-11-15T20:25:03+00:00,2026-11-15T22:55:18.292268+00:00,1543,binance_futures_macd_signals
