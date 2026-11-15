@@ -81,3 +81,159 @@ Entry :
 🛑 Stop  : 0.6211373
 
 Leverage: 10x (isolated)",ced7f7aaacbe26366716aed0da901fce,2026-11-12T22:51:02+00:00,2026-11-12T22:56:35.039828+00:00,1706,weexfuturespot
+3306456,8067,"🟢 Long
+
+👉 Strategy :   Breakout Strategy
+
+#BNB/USD...02.525
+
+ Stop : 616.114
+
+Leverage : 10x (isolated)",55fed429cd9f5417f43b583d0d016f45,2026-11-15T09:54:55+00:00,2026-11-15T11:56:10.468277+00:00,1706,weexfuturespot
+3306455,8066,"🟢 Long
+
+👉 Strategy :  Volume Strategy
+
+#AVA/USDT
+
+...6586
+
+ Stop : 0.2171966
+
+Leverage : 10x (isolated)",bdca62cad269ba90fbde2fde8e794d04,2026-11-15T09:54:55+00:00,2026-11-15T11:56:10.427600+00:00,1706,weexfuturespot
+3306453,8064,"🟢 Long
+
+👉 Strategy :  Volume Strategy
+
+#SKL/USDT
+
+...3804
+
+ Stop : 0.0029646
+
+Leverage : 10x (isolated)",e4227734a01a6170830dfc669513d056,2026-11-15T09:54:55+00:00,2026-11-15T11:56:10.345433+00:00,1706,weexfuturespot
+3306452,8065,"🔴 Short
+
+🔶 Liquidity Sweep Analysis
+
+Pair: #XRP/US...15
+4) 0.9011
+
+Stop Loss: 1.0290
+
+Leverage: 10x-20x",224a39b4f9569e61c574fa15719d6dbb,2026-11-15T09:54:55+00:00,2026-11-15T11:56:10.336427+00:00,1706,weexfuturespot
+3306454,8063,"🟢 Long
+
+👉 Strategy :  Swing Strategy
+
+#XRP/USDT
+
+E... 0.9931
+
+ Stop : 0.8710
+
+Leverage : 10x (isolated)",4baaab20243e7e121b18df6fff7feece,2026-11-15T09:54:49+00:00,2026-11-15T11:56:10.361416+00:00,1706,weexfuturespot
+3306451,8061,"✅ Long
+
+🔶 Liquidity Sweep Analysis
+
+Pair: #WIF/USD...0.1401760
+
+Stop Loss: 0.1229344
+
+Leverage: 10x-20x",2ba01c11a1d729c741ce7b1c62f3e739,2026-11-15T09:54:49+00:00,2026-11-15T11:56:10.276584+00:00,1706,weexfuturespot
+3306450,8062,"🟢 Long
+
+👉 Strategy :  Swing Strategy
+
+#ENJ/USDT
+
+E....02150
+
+ Stop : 0.01886
+
+Leverage : 10x (isolated)",9f444894f8964cac6d91f568a182f8a7,2026-11-15T09:54:49+00:00,2026-11-15T11:56:10.271765+00:00,1706,weexfuturespot
+3306449,8060,"🔴 Short
+
+🔶Liquidity Sweep Analysis
+
+Pair: #LDO/USD...) 0.254019
+
+Stop Loss: 0.290092
+
+Leverage: 10x-20x",d59f605b23a25d9a2b7d8574e7fc146b,2026-11-15T09:54:49+00:00,2026-11-15T11:56:10.237117+00:00,1706,weexfuturespot
+3306448,8059,"🟢 Long
+
+👉 Strategy :   Breakout Strategy
+
+#RLC/USD... 0.4020
+
+ Stop : 0.3525
+
+Leverage : 10x (isolated)",d64b0103c421665ab4d092a09017b9e4,2026-11-15T09:54:49+00:00,2026-11-15T11:56:10.195831+00:00,1706,weexfuturespot
+3306447,8050,"🟢 Long
+
+👉 Strategy :  Volume Strategy
+
+#FIL/USDT
+
+...12312
+
+ Stop : 0.624697
+
+Leverage : 10x (isolated)",fb2f604677c636ece4b7edd38ea1232e,2026-11-15T09:54:48+00:00,2026-11-15T11:56:10.172413+00:00,1706,weexfuturespot
+3306446,8048,"🟢 Long
+
+👉 Strategy :  Swing Strategy
+
+#ZIL/USDT
+
+E...5214
+
+ Stop : 0.0013342
+
+Leverage : 10x (isolated)",5269464428e786e19c8026afc2dd1a69,2026-11-15T09:54:48+00:00,2026-11-15T11:56:10.142100+00:00,1706,weexfuturespot
+3306445,8046,"🟢 Long
+
+👉 Strategy :  Swing Strategy
+
+#IOST/USDT
+
+...985
+
+ Stop : 0.00057869
+
+Leverage : 10x (isolated)",56f5f24d8c25dcf591e93caf9106c180,2026-11-15T09:54:48+00:00,2026-11-15T11:56:10.069140+00:00,1706,weexfuturespot
+3306443,8047,"🟢 Long
+
+👉 Strategy :  Swing Strategy
+
+#NEO/USDT
+
+E...4) 1.779
+
+ Stop : 1.561
+
+Leverage : 10x (isolated)",8ad315a5cf965eefee650f8b0ca7acd2,2026-11-15T09:54:48+00:00,2026-11-15T11:56:10.063818+00:00,1706,weexfuturespot
+3306441,8041,"🟢 Long
+
+👉 Strategy : 🥉 Apex Strategy
+
+#RUNE/USDT
+
+... 0.5919
+
+ Stop : 0.5190
+
+Leverage : 10x (isolated)",e9f699e4af290d03d9ece69c8c6e439c,2026-11-15T09:54:48+00:00,2026-11-15T11:56:10.043310+00:00,1706,weexfuturespot
+3306442,8039,"🟢 Long
+
+👉 Strategy :  Swing Strategy
+
+#BNB/USDT
+
+E...91.414
+
+ Stop : 606.370
+
+Leverage : 10x (isolated)",de21823578712dba5e452029bac1df88,2026-11-15T09:54:47+00:00,2026-11-15T11:56:10.046598+00:00,1706,weexfuturespot
