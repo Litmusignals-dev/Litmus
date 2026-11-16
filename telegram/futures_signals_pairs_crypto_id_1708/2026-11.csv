@@ -1673,3 +1673,32 @@ Entry Price:
 Stop Loss: 2.9712
 
 Leverage: 10x",7fb9318a25a252dfe5b08ec7292c98ec,2026-11-16T01:35:00+00:00,2026-11-16T03:08:32.361593+00:00,1708,futures_signals_pairs_crypto
+3326550,17354,"#SKR/USDT LONG
+
+Entry: 0.011095- 0.01120
+
+Stoploss... 0.01087, 0.01066, 0.01015, 0.0097
+
+Leverage : 20X",98d47ea2ba1cb0648d38153e1cad76c9,2026-11-16T06:53:16+00:00,2026-11-16T07:03:26.709455+00:00,1708,futures_signals_pairs_crypto
+3326549,17353,"#WLFI/USDT LONG
+
+Entry Price: 
+
+1) 0.0461700
+2) 0....
+4) 0.0493287
+
+Stop Loss: 0.0432612
+
+Leverage: 20x",afae8698a75b21f9638c06c623e70584,2026-11-16T06:51:25+00:00,2026-11-16T07:03:26.693688+00:00,1708,futures_signals_pairs_crypto
+3326545,17350,"#MON/USDT SHORT
+
+Entry Price: 
+
+1) 0.0154500
+2) 0....
+4) 0.0143810
+
+Stop Loss: 0.0164233
+
+Leverage: 20x",7b3fc41ff408caf849d7e24bb5b93816,2026-11-16T05:22:16+00:00,2026-11-16T07:03:26.560193+00:00,1708,futures_signals_pairs_crypto
