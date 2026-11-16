@@ -8207,3 +8207,15 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3322750,1274704,"┏⛔️ SHORT #WALUSDT 15m
 ┣ Signal Type: 📊 ema_trend_...2:00 (ARG), 02:00 (MSK)
 /WALUSDT_BinanceFuture_15m",0a0fae12c01c2cc4612fb153734c0083,2026-11-15T23:10:06+00:00,2026-11-16T01:23:00.247048+00:00,1543,binance_futures_macd_signals
+3324721,1274712,"┏🟢 LONG #INITUSDT 30m
+┣ Signal Type: 🟢 macd_rising...:00 (ARG), 06:00 (MSK)
+/INITUSDT_BinanceFuture_30m",f22dccc5123e064ec14397c8df2ff4f6,2026-11-16T03:10:08+00:00,2026-11-16T03:31:09.162354+00:00,1543,binance_futures_macd_signals
+3324725,1274711,"┏⛔️ SHORT #SHELLUSDT 30m
+┣ Signal Type: 💹 green_vo...00 (ARG), 05:00 (MSK)
+/SHELLUSDT_BinanceFuture_30m",e090460f45317cbaff7931ff25886806,2026-11-16T02:25:07+00:00,2026-11-16T03:31:09.189854+00:00,1543,binance_futures_macd_signals
+3324723,1274710,"┏⛔️ SHORT #COOKIEUSDT 30m
+┣ Signal Type: ⚖️ macd_p...0 (ARG), 05:00 (MSK)
+/COOKIEUSDT_BinanceFuture_30m",9c0f46f84e1bc5f1c2d37ed94b48bfbc,2026-11-16T02:10:06+00:00,2026-11-16T03:31:09.174640+00:00,1543,binance_futures_macd_signals
+3324722,1274709,"┏🟢 LONG #KAVAUSDT 15m
+┣ Signal Type: 🟢 macd_rising...:00 (ARG), 04:00 (MSK)
+/KAVAUSDT_BinanceFuture_15m",39a512be8afa752b774b9053584f3f14,2026-11-16T01:25:05+00:00,2026-11-16T03:31:09.165076+00:00,1543,binance_futures_macd_signals
