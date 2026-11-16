@@ -178,3 +178,21 @@ Stop: 3.214
 ...$5,000 position (1,596 NEAR). The stop costs $131.",008c5b056123cd6b08f8197c4d791101,2026-11-15T18:00:40+00:00,2026-11-15T19:40:28.887295+00:00,1745,quivira_hub1
 3324321,4642,"Re-entry: HYPE 30m short. The earlier short hit it...$5,000 position (75.39 HYPE). The stop costs $177.",25086d1185a9c229435699ffc7b15c7d,2026-11-16T01:46:13+00:00,2026-11-16T03:03:51.737163+00:00,1745,quivira_hub1
 3324319,4641,"Re-entry: NEAR 30m short. The earlier short hit it...$5,000 position (1,599 NEAR). The stop costs $181.",b8e8d5ce0768ec199a15f816bda0c78f,2026-11-16T01:45:42+00:00,2026-11-16T03:03:51.726478+00:00,1745,quivira_hub1
+3325197,4646,"New signal: WLD SHORT
+
+Entry: 0.2674
+
+Stop: 0.2718... $5,000 position (18,699 WLD). The stop costs $84.",b9d488b8e931718415ac44a76a176198,2026-11-16T04:30:33+00:00,2026-11-16T04:53:14.240840+00:00,1745,quivira_hub1
+3325199,4645,"New signal: HYPE SHORT
+
+Entry: 66.56
+
+Stop: 69.07
+...$5,000 position (75.12 HYPE). The stop costs $188.",9f2e21ae7abba24893449705a6891c90,2026-11-16T04:00:54+00:00,2026-11-16T04:53:14.247602+00:00,1745,quivira_hub1
+3325198,4644,"New signal: SOL SHORT
+
+Entry: 72.1
+
+Stop: 72.98
+
+T...= $5,000 position (69.35 SOL). The stop costs $61.",f06faf802c66141673f89de1f252b088,2026-11-16T03:30:32+00:00,2026-11-16T04:53:14.242334+00:00,1745,quivira_hub1
