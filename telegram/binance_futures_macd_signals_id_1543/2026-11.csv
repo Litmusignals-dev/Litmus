@@ -8273,3 +8273,21 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3337852,1274727,"┏🟢 LONG #BNBUSDT 30m
 ┣ Signal Type: 🟢 macd_rising_...3:00 (ARG), 13:00 (MSK)
 /BNBUSDT_BinanceFuture_30m",ee7f922ffc6bf5b3cfcfc9839ed21bd1,2026-11-16T10:25:05+00:00,2026-11-16T13:04:15.596833+00:00,1543,binance_futures_macd_signals
+3342615,1274737,"┏⛔️ SHORT #ENAUSDT 30m
+┣ Signal Type: 📉 macd_cross...8:00 (ARG), 18:00 (MSK)
+/ENAUSDT_BinanceFuture_30m",2ffcd3d72fa3ca6904340137dca0e08e,2026-11-16T15:25:05+00:00,2026-11-16T15:58:35.053348+00:00,1543,binance_futures_macd_signals
+3342612,1274736,"┏⛔️ SHORT #1000PEPEUSDT 15m
+┣ Signal Type: 🔺 ema21...(ARG), 18:00 (MSK)
+/1000PEPEUSDT_BinanceFuture_15m",ec49291de74b29f74a0c90a532a0ca4c,2026-11-16T15:10:05+00:00,2026-11-16T15:58:34.924420+00:00,1543,binance_futures_macd_signals
+3342613,1274735,"┏🟢 LONG #ONEUSDT 30m
+┣ Signal Type: 🟢 macd_rising_...7:00 (ARG), 17:00 (MSK)
+/ONEUSDT_BinanceFuture_30m",6c898e3f632de69494f6412610bd18e5,2026-11-16T14:25:05+00:00,2026-11-16T15:58:34.924973+00:00,1543,binance_futures_macd_signals
+3342614,1274734,"┏🟢 LONG #ZILUSDT 1h
+┣ Signal Type: 🟢 macd_rising_b...17:00 (ARG), 17:00 (MSK)
+/ZILUSDT_BinanceFuture_1h",14e30c42f0f019a17bf7c80c4fadf784,2026-11-16T14:10:05+00:00,2026-11-16T15:58:34.931775+00:00,1543,binance_futures_macd_signals
+3342611,1274733,"┏🟢 LONG #LINKUSDT 30m
+┣ Signal Type: 🟢 macd_rising...:00 (ARG), 16:00 (MSK)
+/LINKUSDT_BinanceFuture_30m",5f71c1c9715d15995febd7d54e00b599,2026-11-16T13:25:11+00:00,2026-11-16T15:58:34.922021+00:00,1543,binance_futures_macd_signals
+3342610,1274732,"┏🟢 LONG #ETCUSDT 15m
+┣ Signal Type: 🟢 macd_rising_...6:00 (ARG), 16:00 (MSK)
+/ETCUSDT_BinanceFuture_15m",612ab82ddf009f5fc9e75cebab41ecbc,2026-11-16T13:10:11+00:00,2026-11-16T15:58:34.913146+00:00,1543,binance_futures_macd_signals
