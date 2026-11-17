@@ -8423,3 +8423,18 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3374392,1274775,"┏⛔️ SHORT #XLMUSDT 15m
 ┣ Signal Type: 📉 macd_cross...3:00 (ARG), 13:00 (MSK)
 /XLMUSDT_BinanceFuture_15m",fcb84f8951795e6bbf0843fcc042f323,2026-11-17T10:25:09+00:00,2026-11-17T13:25:38.522764+00:00,1543,binance_futures_macd_signals
+3380530,1274786,"┏⛔️ SHORT #SNXUSDT 30m
+┣ Signal Type: 📊 ema_trend_...9:00 (ARG), 19:00 (MSK)
+/SNXUSDT_BinanceFuture_30m",5fee20855964db8a2182c88ad6bfdd6c,2026-11-17T16:10:03+00:00,2026-11-17T16:13:37.285725+00:00,1543,binance_futures_macd_signals
+3380529,1274785,"┏⛔️ SHORT #AKTUSDT 30m
+┣ Signal Type: ⚖️ macd_pric...8:00 (ARG), 18:00 (MSK)
+/AKTUSDT_BinanceFuture_30m",6655a3b0d225422ef725e90eaff5b51a,2026-11-17T15:25:06+00:00,2026-11-17T16:13:37.279397+00:00,1543,binance_futures_macd_signals
+3380527,1274784,"┏⛔️ SHORT #ENAUSDT 30m
+┣ Signal Type: ⚖️ macd_pric...8:00 (ARG), 18:00 (MSK)
+/ENAUSDT_BinanceFuture_30m",889fc98a15e4988ffe2ae320776c0c9f,2026-11-17T15:10:05+00:00,2026-11-17T16:13:37.238551+00:00,1543,binance_futures_macd_signals
+3380528,1274783,"┏⛔️ SHORT #XRPUSDT 15m
+┣ Signal Type: ⚖️ macd_pric...7:00 (ARG), 17:00 (MSK)
+/XRPUSDT_BinanceFuture_15m",b3ed638971640e86ee6e5283335951f5,2026-11-17T14:25:04+00:00,2026-11-17T16:13:37.267280+00:00,1543,binance_futures_macd_signals
+3380526,1274782,"┏⛔️ SHORT #LINKUSDT 15m
+┣ Signal Type: ⚖️ macd_pri...:00 (ARG), 17:00 (MSK)
+/LINKUSDT_BinanceFuture_15m",1140a5dc0960fe125d3508fbbd4ba366,2026-11-17T14:10:07+00:00,2026-11-17T16:13:37.235284+00:00,1543,binance_futures_macd_signals
