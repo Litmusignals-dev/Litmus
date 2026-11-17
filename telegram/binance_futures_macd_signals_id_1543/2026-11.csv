@@ -8438,3 +8438,18 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3380526,1274782,"┏⛔️ SHORT #LINKUSDT 15m
 ┣ Signal Type: ⚖️ macd_pri...:00 (ARG), 17:00 (MSK)
 /LINKUSDT_BinanceFuture_15m",1140a5dc0960fe125d3508fbbd4ba366,2026-11-17T14:10:07+00:00,2026-11-17T16:13:37.235284+00:00,1543,binance_futures_macd_signals
+3385755,1274791,"┏🟢 LONG #ZILUSDT 15m
+┣ Signal Type: 🔺 ema21_cross_...1:00 (ARG), 21:00 (MSK)
+/ZILUSDT_BinanceFuture_15m",58c8d3595e2018097ef42064cc64920d,2026-11-17T18:25:04+00:00,2026-11-17T19:06:45.369883+00:00,1543,binance_futures_macd_signals
+3385754,1274790,"┏🟢 LONG #BATUSDT 15m
+┣ Signal Type: 🟢 macd_rising_...1:00 (ARG), 21:00 (MSK)
+/BATUSDT_BinanceFuture_15m",bd9f41ecbcc0648cee00df0c5c696ca6,2026-11-17T18:10:05+00:00,2026-11-17T19:06:45.363444+00:00,1543,binance_futures_macd_signals
+3385752,1274789,"┏⛔️ SHORT #BNBUSDT 30m
+┣ Signal Type: 💥 volume_sur...0:00 (ARG), 20:00 (MSK)
+/BNBUSDT_BinanceFuture_30m",9d97d39f06f2428a6a402e91ef976262,2026-11-17T17:25:07+00:00,2026-11-17T19:06:45.354236+00:00,1543,binance_futures_macd_signals
+3385753,1274788,"┏🟢 LONG #GALAUSDT 15m
+┣ Signal Type: 🔻 ema21_cross...:00 (ARG), 20:00 (MSK)
+/GALAUSDT_BinanceFuture_15m",f8d61d01a96df936ad5e1eec195ef1fd,2026-11-17T17:10:07+00:00,2026-11-17T19:06:45.354889+00:00,1543,binance_futures_macd_signals
+3385751,1274787,"┏🟢 LONG #SOLUSDT 30m
+┣ Signal Type: 📈 macd_cross_u...9:00 (ARG), 19:00 (MSK)
+/SOLUSDT_BinanceFuture_30m",2e1f9088e5897e5fdf068274f3a8e0bf,2026-11-17T16:25:01+00:00,2026-11-17T19:06:45.352475+00:00,1543,binance_futures_macd_signals
