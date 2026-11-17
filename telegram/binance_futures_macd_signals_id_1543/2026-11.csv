@@ -8453,3 +8453,24 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3385751,1274787,"┏🟢 LONG #SOLUSDT 30m
 ┣ Signal Type: 📈 macd_cross_u...9:00 (ARG), 19:00 (MSK)
 /SOLUSDT_BinanceFuture_30m",2e1f9088e5897e5fdf068274f3a8e0bf,2026-11-17T16:25:01+00:00,2026-11-17T19:06:45.352475+00:00,1543,binance_futures_macd_signals
+3391320,1274798,"┏⛔️ SHORT #USTCUSDT 15m
+┣ Signal Type: ⚖️ macd_pri...:00 (ARG), 01:00 (MSK)
+/USTCUSDT_BinanceFuture_15m",6d8c98cd965dc60502282cb623b31502,2026-11-17T22:10:05+00:00,2026-11-17T22:15:05.731540+00:00,1543,binance_futures_macd_signals
+3391319,1274797,"┏🟢 LONG #ENAUSDT 15m
+┣ Signal Type: 💥 volume_surge...0:00 (ARG), 00:00 (MSK)
+/ENAUSDT_BinanceFuture_15m",a4b15a4838cfcf2e025d6c8c9464eb34,2026-11-17T21:25:01+00:00,2026-11-17T22:15:05.724063+00:00,1543,binance_futures_macd_signals
+3391316,1274796,"┏⛔️ SHORT #SOLUSDT 15m
+┣ Signal Type: ⚖️ macd_pric...0:00 (ARG), 00:00 (MSK)
+/SOLUSDT_BinanceFuture_15m",80752c6735676a2a9f62f9f5f0f7e0c6,2026-11-17T21:10:01+00:00,2026-11-17T22:15:05.614686+00:00,1543,binance_futures_macd_signals
+3391317,1274795,"┏🟢 LONG #DOGEUSDT 4h
+┣ Signal Type: 📈 macd_cross_u...3:00 (ARG), 23:00 (MSK)
+/DOGEUSDT_BinanceFuture_4h",98a0ca919e68d34c0317d128a37fb347,2026-11-17T20:25:04+00:00,2026-11-17T22:15:05.618676+00:00,1543,binance_futures_macd_signals
+3391318,1274794,"┏🟢 LONG #ETHUSDT 4h
+┣ Signal Type: 🟢 macd_rising_b...23:00 (ARG), 23:00 (MSK)
+/ETHUSDT_BinanceFuture_4h",c4fce0bd1b4c53b6bcf7f2ceade1b2d5,2026-11-17T20:10:05+00:00,2026-11-17T22:15:05.621629+00:00,1543,binance_futures_macd_signals
+3391315,1274793,"┏🟢 LONG #LINKUSDT 15m
+┣ Signal Type: 🟢 macd_rising...:00 (ARG), 22:00 (MSK)
+/LINKUSDT_BinanceFuture_15m",f23545ba5cc0f5cb280dbf498cc7643b,2026-11-17T19:25:00+00:00,2026-11-17T22:15:05.594479+00:00,1543,binance_futures_macd_signals
+3391314,1274792,"┏🟢 LONG #PUMPUSDT 15m
+┣ Signal Type: 🟢 macd_rising...:00 (ARG), 22:00 (MSK)
+/PUMPUSDT_BinanceFuture_15m",5c1473fc3deb8c35e70412aa162ed296,2026-11-17T19:10:02+00:00,2026-11-17T22:15:05.593700+00:00,1543,binance_futures_macd_signals
