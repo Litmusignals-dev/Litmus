@@ -49,3 +49,15 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
  👉 Trade Type = SHORT 🔴
 
  👉 Lev...[ 0.0652, 0.0646, 0.0636, 0.0627, 0.0619, 0.0607 ]",6c27c29879167264d0224cab42785a32,2026-11-12T09:42:37+00:00,2026-11-12T10:55:34.983431+00:00,1155,kucoinpumpsignals0
+3376350,15433,"🟢 Long
+
+#ZIL/USDT
+
+Entry : 
+
+1) 0.0009090
+2) 0.000...711
+
+🛑 Stop : 0.0008517
+
+Leverage : 10x (isolated)",df50f07b0c49b14f330520df59bce508,2026-11-17T14:01:49+00:00,2026-11-17T14:09:08.622064+00:00,1155,kucoinpumpsignals0
