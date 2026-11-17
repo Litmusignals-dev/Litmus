@@ -8357,3 +8357,15 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3357746,1274755,"┏⛔️ SHORT #AVAXUSDT 15m
 ┣ Signal Type: 💹 green_vol...:00 (ARG), 03:00 (MSK)
 /AVAXUSDT_BinanceFuture_15m",cde51f779d89d4892a70f5396cb0c115,2026-11-17T00:25:04+00:00,2026-11-17T02:40:03.531012+00:00,1543,binance_futures_macd_signals
+3358858,1274763,"┏⛔️ SHORT #TUSDT 4h
+┣ Signal Type: 📉 macd_cross_do..., 07:00 (ARG), 07:00 (MSK)
+/TUSDT_BinanceFuture_4h",95d0211a93b9b9de234395e62ebaf82f,2026-11-17T04:25:04+00:00,2026-11-17T04:49:36.156401+00:00,1543,binance_futures_macd_signals
+3358857,1274762,"┏⛔️ SHORT #GTCUSDT 15m
+┣ Signal Type: ⚖️ macd_pric...7:00 (ARG), 07:00 (MSK)
+/GTCUSDT_BinanceFuture_15m",612747b8b595de4031b6016ba0840262,2026-11-17T04:10:03+00:00,2026-11-17T04:49:36.155011+00:00,1543,binance_futures_macd_signals
+3358856,1274761,"┏⛔️ SHORT #ONEUSDT 30m
+┣ Signal Type: 📈 macd_cross...6:00 (ARG), 06:00 (MSK)
+/ONEUSDT_BinanceFuture_30m",2a3182c543a15d5e3b428966314a8845,2026-11-17T03:25:04+00:00,2026-11-17T04:49:36.148725+00:00,1543,binance_futures_macd_signals
+3358855,1274760,"┏🟢 LONG #KAVAUSDT 15m
+┣ Signal Type: ⚖️ macd_price...:00 (ARG), 06:00 (MSK)
+/KAVAUSDT_BinanceFuture_15m",3a149fc4f464900f6a9941f414b5c520,2026-11-17T03:10:05+00:00,2026-11-17T04:49:36.141123+00:00,1543,binance_futures_macd_signals
