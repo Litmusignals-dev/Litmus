@@ -1880,3 +1880,28 @@ Entry Price:
 Stop Loss: 0.123843
 
 Leverage: 20x",17617aff8bd863ab9faf4603e54f7996,2026-11-16T21:43:35+00:00,2026-11-16T23:50:36.399122+00:00,1708,futures_signals_pairs_crypto
+3357710,17455,"#INJ/USDT LONG 
+
+Entry Price: 
+
+1) 6.850000
+2) 6.6...542
+4) 7.318644
+
+Stop Loss: 6.41845
+
+Leverage: 20x",5dda8601c0c5d728d72eee7aa285b492,2026-11-17T00:47:34+00:00,2026-11-17T02:20:37.936891+00:00,1708,futures_signals_pairs_crypto
+3357709,17454,"#COMP/USDT LONG
+
+Entry : 
+
+1) 17.77
+2) 17.23
+
+Targ...4
+3) 18.61
+4) 18.98
+
+ Stop  : 16.65
+
+Leverage: 10x",4dc1cc1d4877de51aa6d2a4e36f0269f,2026-11-17T00:00:00+00:00,2026-11-17T02:20:37.930075+00:00,1708,futures_signals_pairs_crypto

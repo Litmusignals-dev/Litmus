@@ -8342,3 +8342,18 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3356431,1274750,"┏⛔️ SHORT #SOLUSDT 15m
 ┣ Signal Type: 📊 ema_trend_...1:00 (ARG), 01:00 (MSK)
 /SOLUSDT_BinanceFuture_15m",4d280417241f1fe6e31c0ca3b38a2d0d,2026-11-16T22:10:02+00:00,2026-11-17T00:10:42.271021+00:00,1543,binance_futures_macd_signals
+3357745,1274759,"┏⛔️ SHORT #SOLUSDT 1h
+┣ Signal Type: ⚖️ macd_price...05:00 (ARG), 05:00 (MSK)
+/SOLUSDT_BinanceFuture_1h",d9a0d636a3a5f2d26fe41ad9b3398cb4,2026-11-17T02:25:06+00:00,2026-11-17T02:40:03.517233+00:00,1543,binance_futures_macd_signals
+3357748,1274758,"┏⛔️ SHORT #BNBUSDT 1h
+┣ Signal Type: ⚖️ macd_price...05:00 (ARG), 05:00 (MSK)
+/BNBUSDT_BinanceFuture_1h",48b9dab978c5e4a0253e591ea1d5e92c,2026-11-17T02:10:05+00:00,2026-11-17T02:40:03.543832+00:00,1543,binance_futures_macd_signals
+3357749,1274757,"┏🟢 LONG #SYRUPUSDT 15m
+┣ Signal Type: 📈 macd_cross...00 (ARG), 04:00 (MSK)
+/SYRUPUSDT_BinanceFuture_15m",fabf09b9d2d195fa100c11a70b93dd5f,2026-11-17T01:25:04+00:00,2026-11-17T02:40:03.554371+00:00,1543,binance_futures_macd_signals
+3357747,1274756,"┏⛔️ SHORT #AIOTUSDT 1h
+┣ Signal Type: 📉 macd_cross...4:00 (ARG), 04:00 (MSK)
+/AIOTUSDT_BinanceFuture_1h",e00d03dfa6b646d0cd327bb7562eb2e9,2026-11-17T01:10:06+00:00,2026-11-17T02:40:03.542601+00:00,1543,binance_futures_macd_signals
+3357746,1274755,"┏⛔️ SHORT #AVAXUSDT 15m
+┣ Signal Type: 💹 green_vol...:00 (ARG), 03:00 (MSK)
+/AVAXUSDT_BinanceFuture_15m",cde51f779d89d4892a70f5396cb0c115,2026-11-17T00:25:04+00:00,2026-11-17T02:40:03.531012+00:00,1543,binance_futures_macd_signals
