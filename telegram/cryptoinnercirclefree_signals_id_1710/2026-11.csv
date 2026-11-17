@@ -1982,3 +1982,28 @@ Entry :
  Stop : 0.0008667
 
 Leverage : 10x",6c1e11cd66aa39212cc35a14dac48280,2026-11-17T08:01:24+00:00,2026-11-17T09:56:41.701291+00:00,1710,cryptoinnercirclefree_signals
+3372722,10233,"#VET/USDT SHORT
+
+Entry : 
+
+1) 0.005030
+2) 0.005180...4788
+4) 0.004682
+
+ Stop  : 0.005346
+
+Leverage: 10x",a977a5c16185b554d9c712d250ca49d4,2026-11-17T12:36:33+00:00,2026-11-17T12:59:40.605304+00:00,1710,cryptoinnercirclefree_signals
+3372721,10232,"#NEO/USDT SHORT
+
+Entry : 
+
+1) 1.618
+2) 1.666
+
+Targ...4
+3) 1.540
+4) 1.506
+
+ Stop : 1.719
+
+Leverage : 10x",e3f3a5ae83fa02fd408e74cec49bee0e,2026-11-17T12:35:07+00:00,2026-11-17T12:59:40.588294+00:00,1710,cryptoinnercirclefree_signals

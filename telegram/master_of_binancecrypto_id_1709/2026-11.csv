@@ -1973,3 +1973,28 @@ Entry :
  Stop : 0.0008667
 
 Leverage : 10x",6c1e11cd66aa39212cc35a14dac48280,2026-11-17T08:01:34+00:00,2026-11-17T09:56:49.334487+00:00,1709,master_of_binancecrypto
+3372739,8697,"#VET/USDT SHORT
+
+Entry : 
+
+1) 0.005030
+2) 0.005180...4788
+4) 0.004682
+
+ Stop  : 0.005346
+
+Leverage: 10x",a977a5c16185b554d9c712d250ca49d4,2026-11-17T12:36:49+00:00,2026-11-17T12:59:44.910384+00:00,1709,master_of_binancecrypto
+3372738,8696,"#NEO/USDT SHORT
+
+Entry : 
+
+1) 1.618
+2) 1.666
+
+Targ...4
+3) 1.540
+4) 1.506
+
+ Stop : 1.719
+
+Leverage : 10x",e3f3a5ae83fa02fd408e74cec49bee0e,2026-11-17T12:35:18+00:00,2026-11-17T12:59:44.897299+00:00,1709,master_of_binancecrypto

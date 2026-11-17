@@ -1947,3 +1947,28 @@ Entry Price:
 Stop Loss: 0.0362525
 
 Leverage: 20x",3f9601b08e39d31b2aa95f4505c66d6d,2026-11-17T06:57:28+00:00,2026-11-17T09:57:11.186909+00:00,1708,futures_signals_pairs_crypto
+3372753,17484,"#VET/USDT SHORT
+
+Entry : 
+
+1) 0.005030
+2) 0.005180...4788
+4) 0.004682
+
+ Stop  : 0.005346
+
+Leverage: 10x",a977a5c16185b554d9c712d250ca49d4,2026-11-17T12:37:20+00:00,2026-11-17T13:00:03.695440+00:00,1708,futures_signals_pairs_crypto
+3372756,17483,"#NEO/USDT SHORT
+
+Entry : 
+
+1) 1.618
+2) 1.666
+
+Targ...4
+3) 1.540
+4) 1.506
+
+ Stop : 1.719
+
+Leverage : 10x",e3f3a5ae83fa02fd408e74cec49bee0e,2026-11-17T12:35:32+00:00,2026-11-17T13:00:03.758385+00:00,1708,futures_signals_pairs_crypto
