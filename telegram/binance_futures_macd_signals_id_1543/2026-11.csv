@@ -8507,3 +8507,15 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3396147,1274805,"┏⛔️ SHORT #CELOUSDT 30m
 ┣ Signal Type: ⚖️ macd_pri...:00 (ARG), 04:00 (MSK)
 /CELOUSDT_BinanceFuture_30m",1d5f292290ebeadb476423b97702b4d3,2026-11-18T01:25:07+00:00,2026-11-18T03:40:30.996073+00:00,1543,binance_futures_macd_signals
+3397384,1274813,"┏⛔️ SHORT #BULLAUSDT 1h
+┣ Signal Type: 📉 macd_cros...:00 (ARG), 08:00 (MSK)
+/BULLAUSDT_BinanceFuture_1h",15bf5f7623c06ed7a6ddd79edfad918d,2026-11-18T05:25:03+00:00,2026-11-18T06:05:51.997891+00:00,1543,binance_futures_macd_signals
+3397383,1274812,"┏⛔️ SHORT #ICNTUSDT 15m
+┣ Signal Type: ⚖️ macd_pri...:00 (ARG), 08:00 (MSK)
+/ICNTUSDT_BinanceFuture_15m",28224225f36dec5cdd89dc01dd3bbeaf,2026-11-18T05:10:02+00:00,2026-11-18T06:05:51.996575+00:00,1543,binance_futures_macd_signals
+3397385,1274811,"┏⛔️ SHORT #BMTUSDT 30m
+┣ Signal Type: ⚖️ macd_pric...7:00 (ARG), 07:00 (MSK)
+/BMTUSDT_BinanceFuture_30m",61384133d2897d87bf0d55a4c73ebaff,2026-11-18T04:25:06+00:00,2026-11-18T06:05:51.998706+00:00,1543,binance_futures_macd_signals
+3397382,1274810,"┏⛔️ SHORT #MELANIAUSDT 15m
+┣ Signal Type: 📊 ema_tr... (ARG), 07:00 (MSK)
+/MELANIAUSDT_BinanceFuture_15m",ff11b5217fbf8f286af9afd76ef9379e,2026-11-18T04:10:05+00:00,2026-11-18T06:05:51.996220+00:00,1543,binance_futures_macd_signals
