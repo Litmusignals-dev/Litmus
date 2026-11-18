@@ -8519,3 +8519,21 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3397382,1274810,"┏⛔️ SHORT #MELANIAUSDT 15m
 ┣ Signal Type: 📊 ema_tr... (ARG), 07:00 (MSK)
 /MELANIAUSDT_BinanceFuture_15m",ff11b5217fbf8f286af9afd76ef9379e,2026-11-18T04:10:05+00:00,2026-11-18T06:05:51.996220+00:00,1543,binance_futures_macd_signals
+3404399,1274819,"┏⛔️ SHORT #ZECUSDT 1h
+┣ Signal Type: ⚖️ macd_price...11:00 (ARG), 11:00 (MSK)
+/ZECUSDT_BinanceFuture_1h",410fca57941cf7ec839e926e2259d373,2026-11-18T08:25:04+00:00,2026-11-18T09:09:54.105429+00:00,1543,binance_futures_macd_signals
+3404396,1274818,"┏⛔️ SHORT #XRPUSDT 15m
+┣ Signal Type: ⚖️ macd_pric...1:00 (ARG), 11:00 (MSK)
+/XRPUSDT_BinanceFuture_15m",6e47302c857a96eca1915aecbca954ea,2026-11-18T08:10:04+00:00,2026-11-18T09:09:53.962869+00:00,1543,binance_futures_macd_signals
+3404395,1274817,"┏⛔️ SHORT #1000000MOGUSDT 15m
+┣ Signal Type: 📊 ema...RG), 10:00 (MSK)
+/1000000MOGUSDT_BinanceFuture_15m",8753e9873f8486a38f32c48836eb1eb8,2026-11-18T07:25:03+00:00,2026-11-18T09:09:53.960878+00:00,1543,binance_futures_macd_signals
+3404398,1274816,"┏⛔️ SHORT #ZKUSDT 15m
+┣ Signal Type: 📊 ema_trend_b...10:00 (ARG), 10:00 (MSK)
+/ZKUSDT_BinanceFuture_15m",adca5fa6d34d1b6fc301b73f3d88fecd,2026-11-18T07:10:02+00:00,2026-11-18T09:09:53.971957+00:00,1543,binance_futures_macd_signals
+3404397,1274815,"┏🟢 LONG #ETHUSDT 1h
+┣ Signal Type: 📈 macd_cross_up...09:00 (ARG), 09:00 (MSK)
+/ETHUSDT_BinanceFuture_1h",fa739a652574b116aa3a3a46f632a0f7,2026-11-18T06:25:08+00:00,2026-11-18T09:09:53.970803+00:00,1543,binance_futures_macd_signals
+3404394,1274814,"┏🟢 LONG #BTCUSDT 1h
+┣ Signal Type: ⚖️ macd_price_d...09:00 (ARG), 09:00 (MSK)
+/BTCUSDT_BinanceFuture_1h",0025ed8a67180a3632af72704377bdd1,2026-11-18T06:10:08+00:00,2026-11-18T09:09:53.950928+00:00,1543,binance_futures_macd_signals
