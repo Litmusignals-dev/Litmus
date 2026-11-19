@@ -8726,3 +8726,18 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3458846,1274878,"┏⛔️ SHORT #BTCUSDT 15m
 ┣ Signal Type: 📉 macd_cross...7:00 (ARG), 17:00 (MSK)
 /BTCUSDT_BinanceFuture_15m",67fbe97a27de3bb5a853f9cf769f9d1e,2026-11-19T14:10:04+00:00,2026-11-19T16:14:27.984498+00:00,1543,binance_futures_macd_signals
+3464626,1274887,"┏🟢 LONG #AVAXUSDT 15m
+┣ Signal Type: 🟢 macd_rising...:00 (ARG), 21:00 (MSK)
+/AVAXUSDT_BinanceFuture_15m",93d3e630d2626c45d0fd7ced49549695,2026-11-19T18:25:01+00:00,2026-11-19T19:04:04.249446+00:00,1543,binance_futures_macd_signals
+3464625,1274886,"┏⛔️ SHORT #XMRUSDT 1h
+┣ Signal Type: bbands1, bban...21:00 (ARG), 21:00 (MSK)
+/XMRUSDT_BinanceFuture_1h",75ab0e90d241d281685e4a993f566483,2026-11-19T18:10:01+00:00,2026-11-19T19:04:04.245266+00:00,1543,binance_futures_macd_signals
+3464628,1274885,"┏🟢 LONG #INITUSDT 15m
+┣ Signal Type: 🟢 macd_rising...:00 (ARG), 20:00 (MSK)
+/INITUSDT_BinanceFuture_15m",7eddf20436da059ec71348a5cf01cbb5,2026-11-19T17:25:05+00:00,2026-11-19T19:04:04.256853+00:00,1543,binance_futures_macd_signals
+3464627,1274884,"┏🟢 LONG #TAOUSDT 15m
+┣ Signal Type: 🔻 ema21_cross_...0:00 (ARG), 20:00 (MSK)
+/TAOUSDT_BinanceFuture_15m",28eac822d1d5ebae9f6b9dac7e2dd38a,2026-11-19T17:10:05+00:00,2026-11-19T19:04:04.251750+00:00,1543,binance_futures_macd_signals
+3464624,1274883,"┏🟢 LONG #MOCAUSDT 1h
+┣ Signal Type: 🟢 macd_rising_...9:00 (ARG), 19:00 (MSK)
+/MOCAUSDT_BinanceFuture_1h",db075eeb3376a9b7e3f5cc82d1ac9ebd,2026-11-19T16:25:05+00:00,2026-11-19T19:04:04.227945+00:00,1543,binance_futures_macd_signals
