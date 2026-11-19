@@ -234,3 +234,8 @@ Entry: $0.2880 – $0.2780
 TP1: ...1%
 
 Trailing Stop: Move SL to Breakeven after TP1.",ea1b9b3e881f92ac077ad01d4927d18f,2026-11-18T04:58:53+00:00,2026-11-18T05:45:58.412610+00:00,1686,marginwhalesalerts
+3440224,2185,"#IRYS.  LONG.    SL 0.020
+
+TP 0.025, 0.028, 0.033,...8, 0.045, 0.054, 0.064, 0.086, +
+
+LEVERAGE 20X 50X",59449560b6ad6ccac4fa327eddd8bbac,2026-11-19T06:17:50+00:00,2026-11-19T07:14:48.350115+00:00,1686,marginwhalesalerts
