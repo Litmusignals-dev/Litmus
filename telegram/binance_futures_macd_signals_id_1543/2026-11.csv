@@ -8873,3 +8873,21 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3502088,1274924,"┏🟢 LONG #XRPUSDT 1h
 ┣ Signal Type: 🟢 macd_rising_b...16:00 (ARG), 16:00 (MSK)
 /XRPUSDT_BinanceFuture_1h",bb65270207ce1403b6be5ae716bce7e5,2026-11-20T13:10:02+00:00,2026-11-20T16:26:10.031977+00:00,1543,binance_futures_macd_signals
+3511001,1274937,"┏🟢 LONG #ETHUSDT 15m
+┣ Signal Type: 📈 macd_cross_u...2:00 (ARG), 22:00 (MSK)
+/ETHUSDT_BinanceFuture_15m",03da8c7eae0cb6dc7437a1543acb28d9,2026-11-20T19:25:06+00:00,2026-11-20T19:46:35.489339+00:00,1543,binance_futures_macd_signals
+3510997,1274936,"┏🟢 LONG #BTCUSDT 15m
+┣ Signal Type: 🟢 macd_rising_...2:00 (ARG), 22:00 (MSK)
+/BTCUSDT_BinanceFuture_15m",9e954edc7defcde11685bdf042b7252d,2026-11-20T19:10:08+00:00,2026-11-20T19:46:35.366690+00:00,1543,binance_futures_macd_signals
+3510996,1274935,"┏🟢 LONG #CYBERUSDT 15m
+┣ Signal Type: 🟢 macd_risin...00 (ARG), 21:00 (MSK)
+/CYBERUSDT_BinanceFuture_15m",2e686d0ffef97e9f99f0faba623f3d32,2026-11-20T18:25:04+00:00,2026-11-20T19:46:35.366046+00:00,1543,binance_futures_macd_signals
+3510999,1274934,"┏🟢 LONG #DOTUSDT 1h
+┣ Signal Type: 💹 green_volume_...21:00 (ARG), 21:00 (MSK)
+/DOTUSDT_BinanceFuture_1h",de2c6c4232a222348d9376247f13eeb4,2026-11-20T18:10:05+00:00,2026-11-20T19:46:35.373170+00:00,1543,binance_futures_macd_signals
+3511000,1274933,"┏⛔️ SHORT #DODOXUSDT 15m
+┣ Signal Type: 📊 ema_tren...00 (ARG), 20:00 (MSK)
+/DODOXUSDT_BinanceFuture_15m",31d97f0553f83e59d4ddc5541494f016,2026-11-20T17:25:08+00:00,2026-11-20T19:46:35.376896+00:00,1543,binance_futures_macd_signals
+3510998,1274932,"┏🟢 LONG #TRBUSDT 1h
+┣ Signal Type: 💹 green_volume_...20:00 (ARG), 20:00 (MSK)
+/TRBUSDT_BinanceFuture_1h",429cc3dcfe622c05c90b6fb77bd91057,2026-11-20T17:10:06+00:00,2026-11-20T19:46:35.369430+00:00,1543,binance_futures_macd_signals
