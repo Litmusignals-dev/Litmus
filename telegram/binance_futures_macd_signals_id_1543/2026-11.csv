@@ -8759,3 +8759,21 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3470318,1274888,"┏🟢 LONG #ETHUSDT 15m
 ┣ Signal Type: 🟢 macd_rising_...2:00 (ARG), 22:00 (MSK)
 /ETHUSDT_BinanceFuture_15m",950d354093aed9882609960e393c7fbd,2026-11-19T19:10:06+00:00,2026-11-19T21:54:08.553120+00:00,1543,binance_futures_macd_signals
+3475178,1274899,"┏🟢 LONG #XLMUSDT 1d
+┣ Signal Type: 🟢 macd_rising_b...03:00 (ARG), 03:00 (MSK)
+/XLMUSDT_BinanceFuture_1d",26b4c96f2a4f41b89fc04aa74cfafd22,2026-11-20T00:25:04+00:00,2026-11-20T00:44:33.092078+00:00,1543,binance_futures_macd_signals
+3475177,1274898,"┏⛔️ SHORT #LINKUSDT 30m
+┣ Signal Type: 📉 macd_cros...:00 (ARG), 03:00 (MSK)
+/LINKUSDT_BinanceFuture_30m",85f32bd2ecd78f2ee623fbabf64e006a,2026-11-20T00:10:04+00:00,2026-11-20T00:44:32.932932+00:00,1543,binance_futures_macd_signals
+3475175,1274897,"┏🟢 LONG #NEARUSDT 1h
+┣ Signal Type: 🔻 ema21_cross_...2:00 (ARG), 02:00 (MSK)
+/NEARUSDT_BinanceFuture_1h",6fef711b211bbd6ae5bfbf63f98e7d81,2026-11-19T23:25:07+00:00,2026-11-20T00:44:32.926273+00:00,1543,binance_futures_macd_signals
+3475176,1274896,"┏⛔️ SHORT #BNBUSDT 1h
+┣ Signal Type: 💹 green_volum...02:00 (ARG), 02:00 (MSK)
+/BNBUSDT_BinanceFuture_1h",8e63acc74dea149fa95dce8cbc693b9e,2026-11-19T23:10:07+00:00,2026-11-20T00:44:32.930482+00:00,1543,binance_futures_macd_signals
+3475173,1274895,"┏⛔️ SHORT #FILUSDT 15m
+┣ Signal Type: 💥 volume_sur...1:00 (ARG), 01:00 (MSK)
+/FILUSDT_BinanceFuture_15m",4c5c010d0c69758658d59bdad4ea4e05,2026-11-19T22:25:05+00:00,2026-11-20T00:44:32.916754+00:00,1543,binance_futures_macd_signals
+3475174,1274894,"┏🟢 LONG #AAVEUSDT 30m
+┣ Signal Type: 🟢 macd_rising...:00 (ARG), 01:00 (MSK)
+/AAVEUSDT_BinanceFuture_30m",65f74e2f432417c3d8d4dfe624d1fef7,2026-11-19T22:10:04+00:00,2026-11-20T00:44:32.918158+00:00,1543,binance_futures_macd_signals
