@@ -8813,3 +8813,18 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3480999,1274906,"┏🟢 LONG #ZILUSDT 1h
 ┣ Signal Type: ⚖️ macd_price_d...07:00 (ARG), 07:00 (MSK)
 /ZILUSDT_BinanceFuture_1h",73f687246a7431f7db1cfa336e04335c,2026-11-20T04:10:10+00:00,2026-11-20T06:33:00.382098+00:00,1543,binance_futures_macd_signals
+3484498,1274916,"┏🟢 LONG #AVAXUSDT 1h
+┣ Signal Type: 🟢 macd_rising_...2:00 (ARG), 12:00 (MSK)
+/AVAXUSDT_BinanceFuture_1h",6b2f043f40dd6323eb30ad809fe38f53,2026-11-20T09:10:04+00:00,2026-11-20T09:19:48.098997+00:00,1543,binance_futures_macd_signals
+3484495,1274915,"┏⛔️ SHORT #AAVEUSDT 1h
+┣ Signal Type: 📉 macd_cross...1:00 (ARG), 11:00 (MSK)
+/AAVEUSDT_BinanceFuture_1h",1fb0e07326a7078a13d4123c0c8a3139,2026-11-20T08:25:06+00:00,2026-11-20T09:19:48.085689+00:00,1543,binance_futures_macd_signals
+3484496,1274914,"┏🟢 LONG #ZECUSDT 15m
+┣ Signal Type: 📈 macd_cross_u...1:00 (ARG), 11:00 (MSK)
+/ZECUSDT_BinanceFuture_15m",a26abd6227c326c82707c77e7fffc71f,2026-11-20T08:10:05+00:00,2026-11-20T09:19:48.089056+00:00,1543,binance_futures_macd_signals
+3484497,1274913,"┏🟢 LONG #XAIUSDT 15m
+┣ Signal Type: 🌿 ha_3green_st...0:00 (ARG), 10:00 (MSK)
+/XAIUSDT_BinanceFuture_15m",4a38c78d10a54c8e3e0bc42585ac1dbf,2026-11-20T07:25:04+00:00,2026-11-20T09:19:48.097289+00:00,1543,binance_futures_macd_signals
+3484494,1274912,"┏⛔️ SHORT #CAKEUSDT 30m
+┣ Signal Type: 📉 macd_cros...:00 (ARG), 10:00 (MSK)
+/CAKEUSDT_BinanceFuture_30m",cd543c87c44b433260d0d5e3d0a3763c,2026-11-20T07:10:04+00:00,2026-11-20T09:19:48.078544+00:00,1543,binance_futures_macd_signals
