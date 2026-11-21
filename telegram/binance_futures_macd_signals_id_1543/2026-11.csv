@@ -8969,3 +8969,21 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3529060,1274958,"┏🟢 LONG #TIAUSDT 1h
 ┣ Signal Type: 🟢 macd_rising_b...09:00 (ARG), 09:00 (MSK)
 /TIAUSDT_BinanceFuture_1h",9313533f9603493f0f9b84f469e7e9a3,2026-11-21T06:10:04+00:00,2026-11-21T08:27:10.676150+00:00,1543,binance_futures_macd_signals
+3537819,1274969,"┏🟢 LONG #INITUSDT 30m
+┣ Signal Type: 🟢 macd_rising...:00 (ARG), 14:00 (MSK)
+/INITUSDT_BinanceFuture_30m",75fdbf4b944d015216ad476c571ea7d8,2026-11-21T11:25:06+00:00,2026-11-21T11:32:15.669566+00:00,1543,binance_futures_macd_signals
+3537817,1274968,"┏⛔️ SHORT #BRUSDT 15m
+┣ Signal Type: 🔺 ema21_cross...14:00 (ARG), 14:00 (MSK)
+/BRUSDT_BinanceFuture_15m",1f2538f47cc74fe8b3bd373dccdc58cd,2026-11-21T11:10:04+00:00,2026-11-21T11:32:15.579485+00:00,1543,binance_futures_macd_signals
+3537818,1274967,"┏🟢 LONG #KERNELUSDT 30m
+┣ Signal Type: 🟢 macd_risi...0 (ARG), 13:00 (MSK)
+/KERNELUSDT_BinanceFuture_30m",5779ae9df1f052dec5aebe0a0737946b,2026-11-21T10:25:06+00:00,2026-11-21T11:32:15.584766+00:00,1543,binance_futures_macd_signals
+3537822,1274966,"┏⛔️ SHORT #PARTIUSDT 15m
+┣ Signal Type: ⚖️ macd_pr...00 (ARG), 13:00 (MSK)
+/PARTIUSDT_BinanceFuture_15m",a78526274f0c36d6d0029f517b111f2e,2026-11-21T10:10:05+00:00,2026-11-21T11:32:15.693846+00:00,1543,binance_futures_macd_signals
+3537821,1274965,"┏🟢 LONG #SOLUSDT 1h
+┣ Signal Type: 🟢 macd_rising_b...12:00 (ARG), 12:00 (MSK)
+/SOLUSDT_BinanceFuture_1h",a74e920917a332eb836c032cee24cb26,2026-11-21T09:25:04+00:00,2026-11-21T11:32:15.687635+00:00,1543,binance_futures_macd_signals
+3537820,1274964,"┏🟢 LONG #XMRUSDT 1h
+┣ Signal Type: 🟢 macd_rising_b...12:00 (ARG), 12:00 (MSK)
+/XMRUSDT_BinanceFuture_1h",2530f6b9366eb32c9c7440cdca16375f,2026-11-21T09:10:06+00:00,2026-11-21T11:32:15.672106+00:00,1543,binance_futures_macd_signals
