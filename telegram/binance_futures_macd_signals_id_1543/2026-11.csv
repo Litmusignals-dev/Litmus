@@ -8927,3 +8927,15 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3521230,1274944,"┏🟢 LONG #ENAUSDT 15m
 ┣ Signal Type: 💹 green_volume...2:00 (ARG), 02:00 (MSK)
 /ENAUSDT_BinanceFuture_15m",ce02c9a7680c3b02e5af16cfce90f287,2026-11-20T23:10:06+00:00,2026-11-21T01:31:24.734750+00:00,1543,binance_futures_macd_signals
+3522808,1274953,"┏🟢 LONG #ETHUSDT 30m
+┣ Signal Type: 📈 macd_cross_u...6:00 (ARG), 06:00 (MSK)
+/ETHUSDT_BinanceFuture_30m",a5b7f92a3665aabee9d8811e4ebbffcb,2026-11-21T03:25:07+00:00,2026-11-21T03:52:25.816191+00:00,1543,binance_futures_macd_signals
+3522807,1274952,"┏🟢 LONG #BTCUSDT 30m
+┣ Signal Type: ⚖️ macd_price_...6:00 (ARG), 06:00 (MSK)
+/BTCUSDT_BinanceFuture_30m",9f8b5eb0c0e0d04571253e951127cc15,2026-11-21T03:10:06+00:00,2026-11-21T03:52:25.814643+00:00,1543,binance_futures_macd_signals
+3522806,1274951,"┏🟢 LONG #1000LUNCUSDT 1h
+┣ Signal Type: 📈 macd_cro... (ARG), 05:00 (MSK)
+/1000LUNCUSDT_BinanceFuture_1h",a84539b57c60b1242e6569817d905c52,2026-11-21T02:25:04+00:00,2026-11-21T03:52:25.797359+00:00,1543,binance_futures_macd_signals
+3522805,1274950,"┏🟢 LONG #DOGEUSDT 30m
+┣ Signal Type: ⚖️ macd_price...:00 (ARG), 05:00 (MSK)
+/DOGEUSDT_BinanceFuture_30m",0fe6a26e119f50dd5296942002d75e2f,2026-11-21T02:10:01+00:00,2026-11-21T03:52:25.788903+00:00,1543,binance_futures_macd_signals
