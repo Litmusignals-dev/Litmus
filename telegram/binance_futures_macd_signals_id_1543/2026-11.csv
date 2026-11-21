@@ -8939,3 +8939,15 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3522805,1274950,"┏🟢 LONG #DOGEUSDT 30m
 ┣ Signal Type: ⚖️ macd_price...:00 (ARG), 05:00 (MSK)
 /DOGEUSDT_BinanceFuture_30m",0fe6a26e119f50dd5296942002d75e2f,2026-11-21T02:10:01+00:00,2026-11-21T03:52:25.788903+00:00,1543,binance_futures_macd_signals
+3525114,1274957,"┏🟢 LONG #HBARUSDT 1h
+┣ Signal Type: 🟢 macd_rising_...8:00 (ARG), 08:00 (MSK)
+/HBARUSDT_BinanceFuture_1h",0763e822d5333f82e5cd8c99d0a5fdf6,2026-11-21T05:25:02+00:00,2026-11-21T05:55:22.375708+00:00,1543,binance_futures_macd_signals
+3525112,1274956,"┏🟢 LONG #SOLUSDT 1h
+┣ Signal Type: 🟢 macd_rising_b...08:00 (ARG), 08:00 (MSK)
+/SOLUSDT_BinanceFuture_1h",41947d81f1d5a8443aeb442f9fc7022f,2026-11-21T05:10:02+00:00,2026-11-21T05:55:22.359304+00:00,1543,binance_futures_macd_signals
+3525113,1274955,"┏🟢 LONG #SUIUSDT 1h
+┣ Signal Type: 📈 macd_cross_up...07:00 (ARG), 07:00 (MSK)
+/SUIUSDT_BinanceFuture_1h",d2c3a7375a136630b3ee52728f028654,2026-11-21T04:25:02+00:00,2026-11-21T05:55:22.362983+00:00,1543,binance_futures_macd_signals
+3525111,1274954,"┏🟢 LONG #OPUSDT 1h
+┣ Signal Type: 📈 macd_cross_up,... 07:00 (ARG), 07:00 (MSK)
+/OPUSDT_BinanceFuture_1h",729567f9e57ab1cbac1ccae43e6ccd09,2026-11-21T04:10:02+00:00,2026-11-21T05:55:22.355888+00:00,1543,binance_futures_macd_signals
