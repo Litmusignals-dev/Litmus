@@ -8909,3 +8909,21 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3516994,1274938,"┏🟢 LONG #TURBOUSDT 15m
 ┣ Signal Type: 🟢 macd_risin...00 (ARG), 23:00 (MSK)
 /TURBOUSDT_BinanceFuture_15m",08edecd91e91d9d762c32d9bb16c1d7d,2026-11-20T20:10:50+00:00,2026-11-20T22:44:04.621371+00:00,1543,binance_futures_macd_signals
+3521234,1274949,"┏🟢 LONG #ZECUSDT 15m
+┣ Signal Type: 📈 macd_cross_u...4:00 (ARG), 04:00 (MSK)
+/ZECUSDT_BinanceFuture_15m",51a53bdd358739fe46a4b3b0b6fc2b97,2026-11-21T01:25:07+00:00,2026-11-21T01:31:24.824156+00:00,1543,binance_futures_macd_signals
+3521233,1274948,"┏🟢 LONG #ADAUSDT 30m
+┣ Signal Type: ⚖️ macd_price_...4:00 (ARG), 04:00 (MSK)
+/ADAUSDT_BinanceFuture_30m",4eb9d91cd337ba7a031d0e999afbb15f,2026-11-21T01:10:08+00:00,2026-11-21T01:31:24.751603+00:00,1543,binance_futures_macd_signals
+3521231,1274947,"┏🟢 LONG #SOLUSDT 30m
+┣ Signal Type: 🟢 macd_rising_...3:00 (ARG), 03:00 (MSK)
+/SOLUSDT_BinanceFuture_30m",92aacc636e63b3b140b6cd4a57ac0c11,2026-11-21T00:25:04+00:00,2026-11-21T01:31:24.739200+00:00,1543,binance_futures_macd_signals
+3521232,1274946,"┏🟢 LONG #DOTUSDT 30m
+┣ Signal Type: 🟢 macd_rising_...3:00 (ARG), 03:00 (MSK)
+/DOTUSDT_BinanceFuture_30m",82e32cbab7d76d60f2aa4d3f8c33026c,2026-11-21T00:10:06+00:00,2026-11-21T01:31:24.743368+00:00,1543,binance_futures_macd_signals
+3521229,1274945,"┏⛔️ SHORT #SPXUSDT 1h
+┣ Signal Type: 📉 macd_cross_...02:00 (ARG), 02:00 (MSK)
+/SPXUSDT_BinanceFuture_1h",026cf8fc6b38985ce289ae95d5ab5cbe,2026-11-20T23:25:06+00:00,2026-11-21T01:31:24.729847+00:00,1543,binance_futures_macd_signals
+3521230,1274944,"┏🟢 LONG #ENAUSDT 15m
+┣ Signal Type: 💹 green_volume...2:00 (ARG), 02:00 (MSK)
+/ENAUSDT_BinanceFuture_15m",ce02c9a7680c3b02e5af16cfce90f287,2026-11-20T23:10:06+00:00,2026-11-21T01:31:24.734750+00:00,1543,binance_futures_macd_signals
