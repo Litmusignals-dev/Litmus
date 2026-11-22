@@ -9146,3 +9146,21 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3575494,1275018,"┏⛔️ SHORT #ETHFIUSDT 15m
 ┣ Signal Type: ⚖️ macd_pr...00 (ARG), 15:00 (MSK)
 /ETHFIUSDT_BinanceFuture_15m",7002acd351e3bb69cd0a0fe8846d1f1e,2026-11-22T12:10:02+00:00,2026-11-22T14:49:11.364007+00:00,1543,binance_futures_macd_signals
+3578426,1275029,"┏⛔️ SHORT #DOTUSDT 1h
+┣ Signal Type: ⚖️ macd_price...20:00 (ARG), 20:00 (MSK)
+/DOTUSDT_BinanceFuture_1h",bfb9c5872883efdb8fc431e0dadbf584,2026-11-22T17:25:06+00:00,2026-11-22T17:42:46.521747+00:00,1543,binance_futures_macd_signals
+3578421,1275028,"┏🟢 LONG #DOGEUSDT 15m
+┣ Signal Type: 📊 ema_trend_b...:00 (ARG), 20:00 (MSK)
+/DOGEUSDT_BinanceFuture_15m",903d22d821892da8a1b1537885e1f38f,2026-11-22T17:10:04+00:00,2026-11-22T17:42:46.411681+00:00,1543,binance_futures_macd_signals
+3578425,1275027,"┏⛔️ SHORT #RUNEUSDT 1h
+┣ Signal Type: ⚖️ macd_pric...9:00 (ARG), 19:00 (MSK)
+/RUNEUSDT_BinanceFuture_1h",e94b950fb3007c65e96396c9d20fd6c0,2026-11-22T16:25:05+00:00,2026-11-22T17:42:46.414676+00:00,1543,binance_futures_macd_signals
+3578423,1275026,"┏🟢 LONG #KAVAUSDT 30m
+┣ Signal Type: 📈 macd_cross_...:00 (ARG), 19:00 (MSK)
+/KAVAUSDT_BinanceFuture_30m",1b3d628e791c6935dba42b7a5fa2bba5,2026-11-22T16:10:06+00:00,2026-11-22T17:42:46.413000+00:00,1543,binance_futures_macd_signals
+3578424,1275025,"┏⛔️ SHORT #ETHUSDT 1h
+┣ Signal Type: ⚖️ macd_price...18:00 (ARG), 18:00 (MSK)
+/ETHUSDT_BinanceFuture_1h",a75b0cb98b8ff7a4234367f0c6642305,2026-11-22T15:25:06+00:00,2026-11-22T17:42:46.415171+00:00,1543,binance_futures_macd_signals
+3578422,1275024,"┏🟢 LONG #BTCUSDT 1h
+┣ Signal Type: ⚖️ macd_price_d...18:00 (ARG), 18:00 (MSK)
+/BTCUSDT_BinanceFuture_1h",50b54063bfee6420439e67af1e498691,2026-11-22T15:10:05+00:00,2026-11-22T17:42:46.412400+00:00,1543,binance_futures_macd_signals
