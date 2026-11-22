@@ -9110,3 +9110,21 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3565825,1275004,"┏⛔️ SHORT #SKYAIUSDT 15m
 ┣ Signal Type: ⚖️ macd_pr...00 (ARG), 08:00 (MSK)
 /SKYAIUSDT_BinanceFuture_15m",c10edde659ae5985f28c5cfbb16a293a,2026-11-22T05:10:09+00:00,2026-11-22T08:52:19.434938+00:00,1543,binance_futures_macd_signals
+3569612,1275017,"┏🟢 LONG #IDOLUSDT 30m
+┣ Signal Type: 🟢 macd_rising...:00 (ARG), 14:00 (MSK)
+/IDOLUSDT_BinanceFuture_30m",73ac27e0375262fd87a780005d368067,2026-11-22T11:25:05+00:00,2026-11-22T11:43:26.829508+00:00,1543,binance_futures_macd_signals
+3569611,1275016,"┏🟢 LONG #BULLAUSDT 30m
+┣ Signal Type: 📊 ema_trend_...00 (ARG), 14:00 (MSK)
+/BULLAUSDT_BinanceFuture_30m",34341958cde93f7ced5047a69fe54e75,2026-11-22T11:10:05+00:00,2026-11-22T11:43:26.739051+00:00,1543,binance_futures_macd_signals
+3569610,1275015,"┏⛔️ SHORT #BANANAS31USDT 15m
+┣ Signal Type: 📊 ema_...ARG), 13:00 (MSK)
+/BANANAS31USDT_BinanceFuture_15m",251dd15747cf77a3bfc113403d3ed99b,2026-11-22T10:25:04+00:00,2026-11-22T11:43:26.727686+00:00,1543,binance_futures_macd_signals
+3569609,1275014,"┏⛔️ SHORT #TAOUSDT 15m
+┣ Signal Type: ⚖️ macd_pric...3:00 (ARG), 13:00 (MSK)
+/TAOUSDT_BinanceFuture_15m",8e5727ab85576a4a75ec13cd94381c7c,2026-11-22T10:10:03+00:00,2026-11-22T11:43:26.720652+00:00,1543,binance_futures_macd_signals
+3569608,1275013,"┏⛔️ SHORT #DOGEUSDT 1h
+┣ Signal Type: 💹 green_volu...2:00 (ARG), 12:00 (MSK)
+/DOGEUSDT_BinanceFuture_1h",90681ea34b6b206ccc5f32beacaf062d,2026-11-22T09:25:07+00:00,2026-11-22T11:43:26.713444+00:00,1543,binance_futures_macd_signals
+3569607,1275012,"┏⛔️ SHORT #LINKUSDT 1h
+┣ Signal Type: 📉 macd_cross...2:00 (ARG), 12:00 (MSK)
+/LINKUSDT_BinanceFuture_1h",4ca726aada70955032dafeb3d01e1912,2026-11-22T09:10:08+00:00,2026-11-22T11:43:26.713190+00:00,1543,binance_futures_macd_signals
