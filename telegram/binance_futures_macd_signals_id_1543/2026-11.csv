@@ -9038,3 +9038,21 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3554387,1274982,"┏⛔️ SHORT #TRUMPUSDT 15m
 ┣ Signal Type: 📉 macd_cro...00 (ARG), 21:00 (MSK)
 /TRUMPUSDT_BinanceFuture_15m",cb37e602302e8a45cca9025e2fe878d9,2026-11-21T18:10:02+00:00,2026-11-21T20:38:30.612685+00:00,1543,binance_futures_macd_signals
+3558250,1274993,"┏⛔️ SHORT #NEARUSDT 30m
+┣ Signal Type: 📊 ema_trend...:00 (ARG), 02:00 (MSK)
+/NEARUSDT_BinanceFuture_30m",c1f3722ee9f3d47de7ca03bcd9c28521,2026-11-21T23:25:06+00:00,2026-11-21T23:37:00.971794+00:00,1543,binance_futures_macd_signals
+3558248,1274992,"┏⛔️ SHORT #UNIUSDT 15m
+┣ Signal Type: ⚖️ macd_pric...2:00 (ARG), 02:00 (MSK)
+/UNIUSDT_BinanceFuture_15m",329fefbfabe6b45dd372510576e5100b,2026-11-21T23:10:05+00:00,2026-11-21T23:37:00.890636+00:00,1543,binance_futures_macd_signals
+3558249,1274991,"┏🟢 LONG #INITUSDT 15m
+┣ Signal Type: 📊 ema_trend_b...:00 (ARG), 01:00 (MSK)
+/INITUSDT_BinanceFuture_15m",26cdbbfb5eaf25e6eee57ad397eb539d,2026-11-21T22:25:03+00:00,2026-11-21T23:37:00.904151+00:00,1543,binance_futures_macd_signals
+3558247,1274990,"┏🟢 LONG #ENAUSDT 15m
+┣ Signal Type: ⚖️ macd_price_...1:00 (ARG), 01:00 (MSK)
+/ENAUSDT_BinanceFuture_15m",63581fb2af76dacdad38548b8bd1658f,2026-11-21T22:10:03+00:00,2026-11-21T23:37:00.873813+00:00,1543,binance_futures_macd_signals
+3558245,1274989,"┏⛔️ SHORT #ZECUSDT 15m
+┣ Signal Type: ⚖️ macd_pric...0:00 (ARG), 00:00 (MSK)
+/ZECUSDT_BinanceFuture_15m",05532303d2cd188c33888632b61039ec,2026-11-21T21:25:04+00:00,2026-11-21T23:37:00.871071+00:00,1543,binance_futures_macd_signals
+3558246,1274988,"┏⛔️ SHORT #BTCUSDT 15m
+┣ Signal Type: ⚖️ macd_pric...0:00 (ARG), 00:00 (MSK)
+/BTCUSDT_BinanceFuture_15m",55d3bfbb06c71d841c380ea18a00dca0,2026-11-21T21:10:05+00:00,2026-11-21T23:37:00.869715+00:00,1543,binance_futures_macd_signals
