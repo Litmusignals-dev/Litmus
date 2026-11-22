@@ -9086,3 +9086,27 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3561919,1274999,"┏⛔️ SHORT #SOLUSDT 30m
 ┣ Signal Type: 📉 macd_cross...5:00 (ARG), 05:00 (MSK)
 /SOLUSDT_BinanceFuture_30m",602fea57f795243600670eafeaae34f3,2026-11-22T02:25:04+00:00,2026-11-22T04:37:50.105281+00:00,1543,binance_futures_macd_signals
+3565832,1275011,"┏⛔️ SHORT #KAVAUSDT 1h
+┣ Signal Type: 📉 macd_cross...1:00 (ARG), 11:00 (MSK)
+/KAVAUSDT_BinanceFuture_1h",7e41958ac7caaf1edf27fdabde4f33df,2026-11-22T08:25:04+00:00,2026-11-22T08:52:19.643212+00:00,1543,binance_futures_macd_signals
+3565831,1275010,"┏⛔️ SHORT #ZECUSDT 15m
+┣ Signal Type: 📊 ema_trend_...1:00 (ARG), 11:00 (MSK)
+/ZECUSDT_BinanceFuture_15m",1b5543d12faea90141a96c406dc0c0a5,2026-11-22T08:10:05+00:00,2026-11-22T08:52:19.621068+00:00,1543,binance_futures_macd_signals
+3565830,1275009,"┏🟢 LONG #XRPUSDT 15m
+┣ Signal Type: 🟢 macd_rising_...0:00 (ARG), 10:00 (MSK)
+/XRPUSDT_BinanceFuture_15m",e7a4e6b4e249bf93e02c7f6e65b8c2b1,2026-11-22T07:25:03+00:00,2026-11-22T08:52:19.605952+00:00,1543,binance_futures_macd_signals
+3565828,1275008,"┏⛔️ SHORT #ERAUSDT 1h
+┣ Signal Type: ⚖️ macd_price...10:00 (ARG), 10:00 (MSK)
+/ERAUSDT_BinanceFuture_1h",e3bed8756540e62980629810024a0131,2026-11-22T07:10:03+00:00,2026-11-22T08:52:19.465503+00:00,1543,binance_futures_macd_signals
+3565829,1275007,"┏🟢 LONG #ETHUSDT 15m
+┣ Signal Type: 🟢 macd_rising_...9:00 (ARG), 09:00 (MSK)
+/ETHUSDT_BinanceFuture_15m",9ebdf10dbbbda0b27ced8b58f4bb20a9,2026-11-22T06:25:08+00:00,2026-11-22T08:52:19.479975+00:00,1543,binance_futures_macd_signals
+3565827,1275006,"┏🟢 LONG #BTCUSDT 15m
+┣ Signal Type: 🟢 macd_rising_...9:00 (ARG), 09:00 (MSK)
+/BTCUSDT_BinanceFuture_15m",fd7efebb8b80df15592f66202d7d7093,2026-11-22T06:10:06+00:00,2026-11-22T08:52:19.464604+00:00,1543,binance_futures_macd_signals
+3565826,1275005,"┏⛔️ SHORT #AGTUSDT 15m
+┣ Signal Type: 📊 ema_trend_...8:00 (ARG), 08:00 (MSK)
+/AGTUSDT_BinanceFuture_15m",8525ce678117cc40a55f27c7259bf8f3,2026-11-22T05:25:06+00:00,2026-11-22T08:52:19.445899+00:00,1543,binance_futures_macd_signals
+3565825,1275004,"┏⛔️ SHORT #SKYAIUSDT 15m
+┣ Signal Type: ⚖️ macd_pr...00 (ARG), 08:00 (MSK)
+/SKYAIUSDT_BinanceFuture_15m",c10edde659ae5985f28c5cfbb16a293a,2026-11-22T05:10:09+00:00,2026-11-22T08:52:19.434938+00:00,1543,binance_futures_macd_signals

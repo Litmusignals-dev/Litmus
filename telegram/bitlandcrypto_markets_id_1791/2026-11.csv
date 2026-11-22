@@ -802,3 +802,64 @@ Pair: #DOT/USDT
 Stop Loss: 0.605302
 
 Leverage: 10x-20x",dd71761a3479ea8725f4cd6cd236a25d,2026-11-22T02:11:06+00:00,2026-11-22T04:04:54.755770+00:00,1791,bitlandcrypto_markets
+3564041,5818,"LINK/USDT
+
+LONG
+
+Entry : 
+
+1) 8.540
+2) 8.283
+
+Targ...
+4) 9.124
+
+Stop : 8.001
+
+Leverage : 10x (isolated)",de8831b36b96abf8193d754423ca735e,2026-11-22T07:15:30+00:00,2026-11-22T08:18:24.805627+00:00,1791,bitlandcrypto_markets
+3564038,5816,"ADA/USDT
+
+LONG
+
+Entry : 
+
+1) 0.14310
+2) 0.13880
+
+T...0.15289
+
+Stop  : 0.13408
+
+Leverage: 10x (isolated)",605e5b4380ea2a2b86edcb00b8258fbe,2026-11-22T07:15:30+00:00,2026-11-22T08:18:24.734896+00:00,1791,bitlandcrypto_markets
+3564037,5815,"AAVE/USDT  
+Exchanges: BINANCE 
+
+Short
+Leverage- C....2761
+4) 90.3735
+5) 87.5196
+6) 80.52
+
+ SL:
+99.8865",7bd8f1735f9505c88d048c3f4f3ff702,2026-11-22T07:15:30+00:00,2026-11-22T08:18:24.685486+00:00,1791,bitlandcrypto_markets
+3564036,5812,"Coin #EVAA/USDT
+
+Position: LONG 
+
+Leverage:  Cross...18
+
+Targets:  3.57, 3.952, 4.373
+
+Stop Loss: 2.982",9fdc22b487a9f005da40e6c796cd1707,2026-11-22T07:13:08+00:00,2026-11-22T08:18:24.664923+00:00,1791,bitlandcrypto_markets
+3564032,5810,"$JCT/USDT
+
+SHORT
+Leverage: 10X
+
+Entry: 0.0016 - 0....:
+
+1)0.00155
+2)0.00146
+3)0.0013
+
+Stoploss: 0.00182",1c2edce81b7acc2540e685717430119b,2026-11-22T07:13:08+00:00,2026-11-22T08:18:24.530003+00:00,1791,bitlandcrypto_markets
