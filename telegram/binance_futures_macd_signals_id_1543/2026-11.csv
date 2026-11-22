@@ -9071,3 +9071,18 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3560139,1274994,"┏🟢 LONG #BABYUSDT 15m
 ┣ Signal Type: 🟢 macd_rising...:00 (ARG), 03:00 (MSK)
 /BABYUSDT_BinanceFuture_15m",4d64ad83b54d1d9789d1ae82004a993f,2026-11-22T00:10:04+00:00,2026-11-22T02:17:53.034648+00:00,1543,binance_futures_macd_signals
+3561917,1275003,"┏🟢 LONG #BULLAUSDT 15m
+┣ Signal Type: 🔻 ema21_cros...00 (ARG), 07:00 (MSK)
+/BULLAUSDT_BinanceFuture_15m",22f077e3aacbe3622312ddb9153e049d,2026-11-22T04:25:03+00:00,2026-11-22T04:37:50.078052+00:00,1543,binance_futures_macd_signals
+3561918,1275002,"┏⛔️ SHORT #MERLUSDT 30m
+┣ Signal Type: 💥 volume_su...:00 (ARG), 07:00 (MSK)
+/MERLUSDT_BinanceFuture_30m",ca14458644524a435dadedaa8e986aae,2026-11-22T04:10:04+00:00,2026-11-22T04:37:50.079142+00:00,1543,binance_futures_macd_signals
+3561921,1275001,"┏🟢 LONG #DOTUSDT 30m
+┣ Signal Type: 📈 macd_cross_u...6:00 (ARG), 06:00 (MSK)
+/DOTUSDT_BinanceFuture_30m",bf086332a10d1b7dbbb0608ccc39e861,2026-11-22T03:25:01+00:00,2026-11-22T04:37:50.121409+00:00,1543,binance_futures_macd_signals
+3561920,1275000,"┏🟢 LONG #ZECUSDT 15m
+┣ Signal Type: 🟢 macd_rising_...6:00 (ARG), 06:00 (MSK)
+/ZECUSDT_BinanceFuture_15m",e9d3fa3b27399974ad8ee57f61e9613f,2026-11-22T03:10:04+00:00,2026-11-22T04:37:50.117207+00:00,1543,binance_futures_macd_signals
+3561919,1274999,"┏⛔️ SHORT #SOLUSDT 30m
+┣ Signal Type: 📉 macd_cross...5:00 (ARG), 05:00 (MSK)
+/SOLUSDT_BinanceFuture_30m",602fea57f795243600670eafeaae34f3,2026-11-22T02:25:04+00:00,2026-11-22T04:37:50.105281+00:00,1543,binance_futures_macd_signals
