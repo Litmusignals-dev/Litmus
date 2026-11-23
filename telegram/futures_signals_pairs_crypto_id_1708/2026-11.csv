@@ -2611,3 +2611,15 @@ Entry :
  Stop  : 0.00061398
 
 Leverage: 10x",63bb673c90131adbb550a074d443bd6b,2026-11-23T07:38:14+00:00,2026-11-23T08:21:05.954184+00:00,1708,futures_signals_pairs_crypto
+3599216,17975,"#BAT/USDT LONG
+
+Entry : 
+
+1) 0.076220
+2) 0.073933
+...9842
+4) 0.081434
+
+ Stop : 0.071418
+
+Leverage : 10x",776ec6293a8f19d42314ccfdf29fef97,2026-11-23T08:46:38+00:00,2026-11-23T11:20:02.731096+00:00,1708,futures_signals_pairs_crypto
