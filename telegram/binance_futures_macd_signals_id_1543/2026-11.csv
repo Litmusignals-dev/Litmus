@@ -9314,3 +9314,21 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3618256,1275072,"┏⛔️ SHORT #LINKUSDT 15m
 ┣ Signal Type: ⚖️ macd_pri...:00 (ARG), 18:00 (MSK)
 /LINKUSDT_BinanceFuture_15m",5b0cb0f6ac9900edc4739f10cbdffc8d,2026-11-23T15:10:03+00:00,2026-11-23T18:45:44.273941+00:00,1543,binance_futures_macd_signals
+3624282,1275085,"┏🟢 LONG #DOGEUSDT 15m
+┣ Signal Type: 🟢 macd_rising...:00 (ARG), 00:00 (MSK)
+/DOGEUSDT_BinanceFuture_15m",70bdd896dbd43e36f8c021326e5f6660,2026-11-23T21:25:03+00:00,2026-11-23T21:59:09.971914+00:00,1543,binance_futures_macd_signals
+3624281,1275084,"┏🟢 LONG #LINKUSDT 15m
+┣ Signal Type: 🟢 macd_rising...:00 (ARG), 00:00 (MSK)
+/LINKUSDT_BinanceFuture_15m",0851e5bc8d151be13639ce37c63fa34c,2026-11-23T21:10:03+00:00,2026-11-23T21:59:09.872126+00:00,1543,binance_futures_macd_signals
+3624278,1275083,"┏⛔️ SHORT #BABYUSDT 30m
+┣ Signal Type: ⚖️ macd_pri...:00 (ARG), 23:00 (MSK)
+/BABYUSDT_BinanceFuture_30m",4c29b848e0973cbf687878c538374bbe,2026-11-23T20:25:06+00:00,2026-11-23T21:59:09.861803+00:00,1543,binance_futures_macd_signals
+3624280,1275082,"┏🟢 LONG #AVAAIUSDT 15m
+┣ Signal Type: 📈 macd_cross...00 (ARG), 23:00 (MSK)
+/AVAAIUSDT_BinanceFuture_15m",4beaac1481de2a17314cb5674b1d2f12,2026-11-23T20:10:04+00:00,2026-11-23T21:59:09.871100+00:00,1543,binance_futures_macd_signals
+3624279,1275081,"┏⛔️ SHORT #CAKEUSDT 1h
+┣ Signal Type: ⚖️ macd_pric...2:00 (ARG), 22:00 (MSK)
+/CAKEUSDT_BinanceFuture_1h",d63c56333c2899326331068a2e148c20,2026-11-23T19:25:03+00:00,2026-11-23T21:59:09.868127+00:00,1543,binance_futures_macd_signals
+3624277,1275080,"┏⛔️ SHORT #WAXPUSDT 1h
+┣ Signal Type: ⚖️ macd_pric...2:00 (ARG), 22:00 (MSK)
+/WAXPUSDT_BinanceFuture_1h",2d14b1f74212fb1bb01befa5cf709962,2026-11-23T19:10:03+00:00,2026-11-23T21:59:09.855002+00:00,1543,binance_futures_macd_signals
