@@ -2550,3 +2550,64 @@ Tar...9
  Stop  : 37.68
 
 Leverage: 10x",f456f13756fbfa228ef7681b0faa04b4,2026-11-22T10:56:35+00:00,2026-11-22T11:18:27.262798+00:00,1708,futures_signals_pairs_crypto
+3592667,17974,"#ONT/USDT LONG
+
+Entry : 
+
+1) 0.032960
+2) 0.031971
+...4526
+4) 0.035214
+
+ Stop : 0.030883
+
+Leverage : 10x",f2a963fdcc1a1990fd37756b7bcf0d2c,2026-11-23T07:42:33+00:00,2026-11-23T08:21:06.061863+00:00,1708,futures_signals_pairs_crypto
+3592666,17973,"#ETH/USDT LONG
+
+Entry : 
+
+1) 1704.79
+2) 1653.64
+
+T...785.80
+4) 1821.42
+
+ Stop  : 1597.38
+
+Leverage: 10x",67628fc8475d5d2111e4a0a377bdfbb4,2026-11-23T07:41:22+00:00,2026-11-23T08:21:06.055039+00:00,1708,futures_signals_pairs_crypto
+3592662,17972,"#ALGO/USDT SHORT
+
+Entry : 
+
+1) 0.077960
+2) 0.08029...4212
+4) 0.072566
+
+ Stop : 0.082871
+
+Leverage : 10x",501fdc82bfc11233ca23acaf35213541,2026-11-23T07:40:16+00:00,2026-11-23T08:21:05.949475+00:00,1708,futures_signals_pairs_crypto
+3592665,17971,"#LTC/USDT SHORT
+
+Entry : 
+
+1) 40.72
+2) 41.94
+
+Targ...2
+3) 38.76
+4) 37.90
+
+ Stop  : 43.28
+
+Leverage: 10x",62a140e0b9d103c081c3ebd82f10ed6f,2026-11-23T07:39:08+00:00,2026-11-23T08:21:05.956432+00:00,1708,futures_signals_pairs_crypto
+3592664,17970,"#IOST/USDT SHORT
+
+Entry : 
+
+1) 0.00057760
+2) 0.000...
+4) 0.00053763
+
+ Stop  : 0.00061398
+
+Leverage: 10x",63bb673c90131adbb550a074d443bd6b,2026-11-23T07:38:14+00:00,2026-11-23T08:21:05.954184+00:00,1708,futures_signals_pairs_crypto
