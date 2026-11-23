@@ -584,3 +584,42 @@ Signal Ty... 3.32
 
 Stop Targets:
 5-10%",343a397ae832e3de7e367fa98d1c646f,2026-11-23T07:01:06+00:00,2026-11-23T07:01:07.305358+00:00,298,cryptosignalfuturesspot
+3614649,22003,"#BLESS/USDT 
+
+Signal Type: Regular (Short )
+Levera...0.01860
+6) 0.01840
+7) 0.01810
+
+Stop Targets:
+5-10%",e2f8ac2160f8f5f2dd61fcfdfdca26f3,2026-11-23T16:38:50+00:00,2026-11-23T16:44:01.969552+00:00,298,cryptosignalfuturesspot
+3614647,21999,"#INJ/USDT 
+
+Signal Type: Regular (Short )
+Leverage... 6.82
+7) 6.80
+8) 6.78
+9) 6.75
+
+Stop Targets:
+5-10%",2ea10f6a71e8bb26cdef2d20aea78dd7,2026-11-23T15:37:36+00:00,2026-11-23T16:44:01.914674+00:00,298,cryptosignalfuturesspot
+3614643,21993,"#DASH/USDT 
+
+Signal Type: Regular (Long )
+Leverage...30
+7) 36.40
+8) 36.60
+9) 36.80
+
+Stop Targets:
+5-10%",afd24054d5e3ddee2d2b5916edf23f31,2026-11-23T14:07:39+00:00,2026-11-23T16:44:01.760699+00:00,298,cryptosignalfuturesspot
+3614642,21991,"#WLD/USDT
+
+Signal Type: Regular (Long )
+Leverage: ...42
+5) 0.243
+6) 0.244
+7) 0.245
+
+Stop Targets:
+5-10%",a0e6d96218c868bc7ece326e04638396,2026-11-23T14:05:28+00:00,2026-11-23T16:44:01.746526+00:00,298,cryptosignalfuturesspot
