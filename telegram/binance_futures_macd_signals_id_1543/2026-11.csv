@@ -9197,3 +9197,18 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3584688,1275036,"┏⛔️ SHORT #BTCUSDT 30m
 ┣ Signal Type: 📊 ema_trend_...0:00 (ARG), 00:00 (MSK)
 /BTCUSDT_BinanceFuture_30m",096d8dc0efad5363f5f6353adcda92dd,2026-11-22T21:10:08+00:00,2026-11-22T23:15:10.326368+00:00,1543,binance_futures_macd_signals
+3586411,1275045,"┏🟢 LONG #ETHFIUSDT 15m
+┣ Signal Type: 📈 macd_cross...00 (ARG), 04:00 (MSK)
+/ETHFIUSDT_BinanceFuture_15m",e443e60bfc8c59b5c3ec59792ed715a0,2026-11-23T01:25:04+00:00,2026-11-23T01:45:11.749609+00:00,1543,binance_futures_macd_signals
+3586410,1275044,"┏🟢 LONG #STRKUSDT 15m
+┣ Signal Type: ⚖️ macd_price...:00 (ARG), 04:00 (MSK)
+/STRKUSDT_BinanceFuture_15m",af88c8f64072d220f1b163375d5daffc,2026-11-23T01:10:04+00:00,2026-11-23T01:45:11.747772+00:00,1543,binance_futures_macd_signals
+3586409,1275043,"┏🟢 LONG #ONDOUSDT 4h
+┣ Signal Type: 🟢 macd_rising_...3:00 (ARG), 03:00 (MSK)
+/ONDOUSDT_BinanceFuture_4h",2da3fc8b69fb9381730ee96099092520,2026-11-23T00:25:05+00:00,2026-11-23T01:45:11.739226+00:00,1543,binance_futures_macd_signals
+3586408,1275042,"┏🟢 LONG #CYBERUSDT 30m
+┣ Signal Type: 🟢 macd_risin...00 (ARG), 03:00 (MSK)
+/CYBERUSDT_BinanceFuture_30m",086c6463ce06c8576ba85fd8e89ff808,2026-11-23T00:10:04+00:00,2026-11-23T01:45:11.728893+00:00,1543,binance_futures_macd_signals
+3586407,1275041,"┏⛔️ SHORT #XMRUSDT 30m
+┣ Signal Type: ⚖️ macd_pric...2:00 (ARG), 02:00 (MSK)
+/XMRUSDT_BinanceFuture_30m",70cebd31e8889e3bcbc1e247a878b8c9,2026-11-22T23:25:07+00:00,2026-11-23T01:45:11.717296+00:00,1543,binance_futures_macd_signals
