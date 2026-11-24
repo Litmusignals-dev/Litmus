@@ -9413,3 +9413,9 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3644395,1275107,"┏🟢 LONG #HYPEUSDT 30m
 ┣ Signal Type: ⚖️ macd_price...:00 (ARG), 11:00 (MSK)
 /HYPEUSDT_BinanceFuture_30m",20ffb06feea35b8fab458a97d49cade1,2026-11-24T08:25:04+00:00,2026-11-24T11:11:31.201213+00:00,1543,binance_futures_macd_signals
+3649315,1275117,"┏🟢 LONG #PIPPINUSDT 15m
+┣ Signal Type: 📈 macd_cros...0 (ARG), 16:00 (MSK)
+/PIPPINUSDT_BinanceFuture_15m",5ebd8e310c4cc01ed38e7573805f3a43,2026-11-24T13:25:04+00:00,2026-11-24T14:11:38.468264+00:00,1543,binance_futures_macd_signals
+3649314,1275113,"┏⛔️ SHORT #ZILUSDT 1h
+┣ Signal Type: ⚖️ macd_price...14:00 (ARG), 14:00 (MSK)
+/ZILUSDT_BinanceFuture_1h",1369b52759a1b7300a97b94d0c145a58,2026-11-24T11:25:11+00:00,2026-11-24T14:11:38.463322+00:00,1543,binance_futures_macd_signals
