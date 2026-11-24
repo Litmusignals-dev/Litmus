@@ -9350,3 +9350,18 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3628914,1275086,"┏🟢 LONG #TAOUSDT 15m
 ┣ Signal Type: 🟢 macd_rising_...1:00 (ARG), 01:00 (MSK)
 /TAOUSDT_BinanceFuture_15m",e4acbba04af8766a7567c855f169cd17,2026-11-23T22:10:04+00:00,2026-11-24T00:52:25.872237+00:00,1543,binance_futures_macd_signals
+3631528,1275096,"┏🟢 LONG #SOLUSDT 30m
+┣ Signal Type: 🟢 macd_rising_...6:00 (ARG), 06:00 (MSK)
+/SOLUSDT_BinanceFuture_30m",d04efbe2ba4f88256e897486d1325937,2026-11-24T03:10:02+00:00,2026-11-24T03:23:31.308167+00:00,1543,binance_futures_macd_signals
+3631526,1275095,"┏🟢 LONG #BULLAUSDT 30m
+┣ Signal Type: 📈 macd_cross...00 (ARG), 05:00 (MSK)
+/BULLAUSDT_BinanceFuture_30m",a229362bf82c5a316d0b18d7e5f8e707,2026-11-24T02:25:06+00:00,2026-11-24T03:23:31.304326+00:00,1543,binance_futures_macd_signals
+3631529,1275094,"┏⛔️ SHORT #HYPEUSDT 15m
+┣ Signal Type: 🟢 macd_risi...:00 (ARG), 05:00 (MSK)
+/HYPEUSDT_BinanceFuture_15m",2c16fdf3e9d30f320ee8150453f4823e,2026-11-24T02:10:04+00:00,2026-11-24T03:23:31.321659+00:00,1543,binance_futures_macd_signals
+3631527,1275093,"┏🟢 LONG #AEROUSDT 15m
+┣ Signal Type: ⚖️ macd_price...:00 (ARG), 04:00 (MSK)
+/AEROUSDT_BinanceFuture_15m",901d610227f70bea8b997ff7e88b1383,2026-11-24T01:25:02+00:00,2026-11-24T03:23:31.305163+00:00,1543,binance_futures_macd_signals
+3631525,1275092,"┏🟢 LONG #XMRUSDT 15m
+┣ Signal Type: 🟢 macd_rising_...4:00 (ARG), 04:00 (MSK)
+/XMRUSDT_BinanceFuture_15m",1744c729ca08688effa3fa35f10edd47,2026-11-24T01:10:01+00:00,2026-11-24T03:23:31.301976+00:00,1543,binance_futures_macd_signals
