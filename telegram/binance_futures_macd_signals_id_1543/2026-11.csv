@@ -9419,3 +9419,15 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3649314,1275113,"┏⛔️ SHORT #ZILUSDT 1h
 ┣ Signal Type: ⚖️ macd_price...14:00 (ARG), 14:00 (MSK)
 /ZILUSDT_BinanceFuture_1h",1369b52759a1b7300a97b94d0c145a58,2026-11-24T11:25:11+00:00,2026-11-24T14:11:38.463322+00:00,1543,binance_futures_macd_signals
+3649319,1275118,"┏🟢 LONG #SOLUSDT 15m
+┣ Signal Type: 🟢 macd_rising_...7:00 (ARG), 17:00 (MSK)
+/SOLUSDT_BinanceFuture_15m",66d3efe67a09e74c742d88e937a1ba63,2026-11-24T14:10:06+00:00,2026-11-24T14:11:38.626322+00:00,1543,binance_futures_macd_signals
+3649318,1275116,"┏🟢 LONG #TRUMPUSDT 15m
+┣ Signal Type: 🟢 macd_risin...00 (ARG), 16:00 (MSK)
+/TRUMPUSDT_BinanceFuture_15m",81b39bf4e64da5c87134cc962274c679,2026-11-24T13:10:05+00:00,2026-11-24T14:11:38.487468+00:00,1543,binance_futures_macd_signals
+3649317,1275115,"┏🟢 LONG #ETCUSDT 4h
+┣ Signal Type: 📈 macd_cross_up...15:00 (ARG), 15:00 (MSK)
+/ETCUSDT_BinanceFuture_4h",d104e77fc0bc23fc4924fda2f711e4c3,2026-11-24T12:25:05+00:00,2026-11-24T14:11:38.474730+00:00,1543,binance_futures_macd_signals
+3649316,1275114,"┏🟢 LONG #XPLUSDT 15m
+┣ Signal Type: 🟢 macd_rising_...5:00 (ARG), 15:00 (MSK)
+/XPLUSDT_BinanceFuture_15m",e7ebafd6488e04faa4f198ae35d61039,2026-11-24T12:10:05+00:00,2026-11-24T14:11:38.473814+00:00,1543,binance_futures_macd_signals
