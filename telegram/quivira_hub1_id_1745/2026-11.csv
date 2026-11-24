@@ -340,3 +340,13 @@ Stop: 3.062
 3628555,4769,"Re-entry: NEAR 2h short. The earlier short hit its...$5,000 position (1,690 NEAR). The stop costs $539.",da10fe68c388d20efc84104c59971ba3,2026-11-23T22:15:38+00:00,2026-11-24T00:27:37.648188+00:00,1745,quivira_hub1
 3631145,4773,"Re-entry: BTC 2h short. The earlier short hit its ...$5,000 position (0.0829 BTC). The stop costs $353.",80f7418a01c538bac9c7fc9102c530ad,2026-11-24T02:45:39+00:00,2026-11-24T02:56:56.873160+00:00,1745,quivira_hub1
 3631143,4772,"Re-entry: ZEC 30m short. The earlier short hit its...= $5,000 position (6.56 ZEC). The stop costs $922.",021f359f58b1db8309ac651b447f1c01,2026-11-24T02:30:36+00:00,2026-11-24T02:56:56.864660+00:00,1745,quivira_hub1
+3654361,4781,"New signal: WLD SHORT
+
+Entry: 0.2288
+
+Stop: 0.2372...$5,000 position (21,853 WLD). The stop costs $184.",e95250e146c8417c20245a8a877b3f16,2026-11-24T16:00:51+00:00,2026-11-24T16:55:07.222824+00:00,1745,quivira_hub1
+3654362,4780,"New signal: SEI SHORT
+
+Entry: 0.03277
+
+Stop: 0.033...5,000 position (152,579 SEI). The stop costs $136.",189d784ad2d83d122ee45dbce7ebf32e,2026-11-24T16:00:48+00:00,2026-11-24T16:55:07.229754+00:00,1745,quivira_hub1
