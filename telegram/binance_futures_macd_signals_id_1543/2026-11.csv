@@ -9536,3 +9536,21 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3674431,1275144,"┏⛔️ SHORT #KAVAUSDT 30m
 ┣ Signal Type: 📊 ema_trend...:00 (ARG), 06:00 (MSK)
 /KAVAUSDT_BinanceFuture_30m",af0b3ef53bb88be26d1f032f86facf0f,2026-11-25T03:10:03+00:00,2026-11-25T07:39:28.388610+00:00,1543,binance_futures_macd_signals
+3683437,1275159,"┏⛔️ SHORT #MOODENGUSDT 1h
+┣ Signal Type: 🔺 ema21_c...0 (ARG), 13:00 (MSK)
+/MOODENGUSDT_BinanceFuture_1h",18f50fc8978fa2bf80db4f8d4a96c7b3,2026-11-25T10:25:05+00:00,2026-11-25T11:15:27.248618+00:00,1543,binance_futures_macd_signals
+3683432,1275158,"┏⛔️ SHORT #GOATUSDT 1h
+┣ Signal Type: 📊 ema_trend_...3:00 (ARG), 13:00 (MSK)
+/GOATUSDT_BinanceFuture_1h",8737d923e8403bef1dbf2b5ae51fdb58,2026-11-25T10:10:05+00:00,2026-11-25T11:15:27.169352+00:00,1543,binance_futures_macd_signals
+3683434,1275157,"┏⛔️ SHORT #1000PEPEUSDT 1h
+┣ Signal Type: ⚖️ macd_... (ARG), 12:00 (MSK)
+/1000PEPEUSDT_BinanceFuture_1h",5cb8f2122926c6483caa2dea10671d72,2026-11-25T09:25:03+00:00,2026-11-25T11:15:27.195131+00:00,1543,binance_futures_macd_signals
+3683436,1275156,"┏⛔️ SHORT #SSVUSDT 15m
+┣ Signal Type: 📊 ema_trend_...2:00 (ARG), 12:00 (MSK)
+/SSVUSDT_BinanceFuture_15m",c6711b93235c5c379ea3f89d2e1bd107,2026-11-25T09:10:05+00:00,2026-11-25T11:15:27.204031+00:00,1543,binance_futures_macd_signals
+3683435,1275155,"┏⛔️ SHORT #WAXPUSDT 30m
+┣ Signal Type: 📊 ema_trend...:00 (ARG), 11:00 (MSK)
+/WAXPUSDT_BinanceFuture_30m",1b991d007537c3c9e93e96e851aef4f2,2026-11-25T08:25:03+00:00,2026-11-25T11:15:27.203284+00:00,1543,binance_futures_macd_signals
+3683433,1275154,"┏⛔️ SHORT #BIGTIMEUSDT 30m
+┣ Signal Type: 📊 ema_tr... (ARG), 11:00 (MSK)
+/BIGTIMEUSDT_BinanceFuture_30m",44a5b39e8d3d1598b6ae465015e37709,2026-11-25T08:10:03+00:00,2026-11-25T11:15:27.183430+00:00,1543,binance_futures_macd_signals
