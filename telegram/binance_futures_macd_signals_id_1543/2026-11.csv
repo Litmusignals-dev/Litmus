@@ -9488,3 +9488,21 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3667136,1275132,"┏🟢 LONG #1000BONKUSDT 30m
 ┣ Signal Type: 🟢 macd_ri...(ARG), 00:00 (MSK)
 /1000BONKUSDT_BinanceFuture_30m",d00853726146ea573be91e5036b9e7d2,2026-11-24T21:10:05+00:00,2026-11-24T23:41:16.125620+00:00,1543,binance_futures_macd_signals
+3670475,1275143,"┏🟢 LONG #DOTUSDT 1h
+┣ Signal Type: 📈 macd_cross_up...05:00 (ARG), 05:00 (MSK)
+/DOTUSDT_BinanceFuture_1h",d8ec5a69e7483b193f84c351e2f3d45f,2026-11-25T02:25:05+00:00,2026-11-25T03:03:57.912226+00:00,1543,binance_futures_macd_signals
+3670471,1275142,"┏🟢 LONG #ZECUSDT 1h
+┣ Signal Type: 🟢 macd_rising_b...05:00 (ARG), 05:00 (MSK)
+/ZECUSDT_BinanceFuture_1h",c6fbbc446fe0cc649fd7a3e90f38dc65,2026-11-25T02:10:05+00:00,2026-11-25T03:03:57.837332+00:00,1543,binance_futures_macd_signals
+3670473,1275141,"┏🟢 LONG #DOGEUSDT 1h
+┣ Signal Type: 🟢 macd_rising_...4:00 (ARG), 04:00 (MSK)
+/DOGEUSDT_BinanceFuture_1h",1ee8367079f1efcd4010138a9f07ee36,2026-11-25T01:25:09+00:00,2026-11-25T03:03:57.852411+00:00,1543,binance_futures_macd_signals
+3670474,1275140,"┏🟢 LONG #LINKUSDT 30m
+┣ Signal Type: 🟢 macd_rising...:00 (ARG), 04:00 (MSK)
+/LINKUSDT_BinanceFuture_30m",b10061f8748d92f98a74784acc84e0a7,2026-11-25T01:10:07+00:00,2026-11-25T03:03:57.853678+00:00,1543,binance_futures_macd_signals
+3670472,1275139,"┏🟢 LONG #ATOMUSDT 15m
+┣ Signal Type: 🟢 macd_rising...:00 (ARG), 03:00 (MSK)
+/ATOMUSDT_BinanceFuture_15m",7192f34d69d417bf424453eb52dbcdad,2026-11-25T00:25:10+00:00,2026-11-25T03:03:57.838875+00:00,1543,binance_futures_macd_signals
+3670470,1275138,"┏🟢 LONG #ETHUSDT 1d
+┣ Signal Type: 🟢 macd_rising_b...03:00 (ARG), 03:00 (MSK)
+/ETHUSDT_BinanceFuture_1d",520d74eb261086ea0a109d7d4be2a404,2026-11-25T00:10:11+00:00,2026-11-25T03:03:57.833546+00:00,1543,binance_futures_macd_signals
