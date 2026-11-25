@@ -633,3 +633,15 @@ Entry: 0.1106
 Target 1: 0.1095
 Target 2: 0.1084
 Stoploss: 0.1126",5954ba18e3b186bac64a488e3375fe9f,2026-11-24T14:00:30+00:00,2026-11-24T19:01:57.922023+00:00,477,Binance_AutoTrading_Signals
+3671895,14227,"ADAUSDT SHORT
+Leverage: Cross 20x
+Entry: 0.1425
+Target 1: 0.1411
+Target 2: 0.1397
+Stoploss: 0.1468",beda33576d9860ea7b5ad26bef0794dc,2026-11-25T02:00:09+00:00,2026-11-25T05:23:44.681553+00:00,477,Binance_AutoTrading_Signals
+3671891,14226,"ADAUSDT SHORT
+Leverage: Cross 20x
+Entry: 0.1425
+Target 1: 0.1411
+Target 2: 0.1397
+Stoploss: 0.1468",beda33576d9860ea7b5ad26bef0794dc,2026-11-25T02:00:09+00:00,2026-11-25T05:23:44.595196+00:00,477,Binance_AutoTrading_Signals
