@@ -2816,3 +2816,54 @@ Tar...) 1720.0
  Stop : 1538.5
 
 Leverage : 10x",8752aa5a84d9368e3eea26bd4797f363,2026-11-24T11:52:17+00:00,2026-11-24T13:46:43.253278+00:00,1708,futures_signals_pairs_crypto
+3672771,18147,"#IOST/USDT SHORT
+
+Entry : 
+
+1) 0.00059410
+2) 0.000...
+4) 0.00055299
+
+ Stop : 0.00063152
+
+Leverage : 10x",ad14470d520b5723e967be9c823da421,2026-11-25T07:05:29+00:00,2026-11-25T07:12:15.125108+00:00,1708,futures_signals_pairs_crypto
+3672770,18146,"#EGLD/USDT SHORT
+
+Entry : 
+
+1) 2.235
+2) 2.302
+
+Tar...4
+3) 2.127
+4) 2.080
+
+ Stop  : 2.375
+
+Leverage: 10x",92d0a1fb8c6db62cffc28b6e6523c54b,2026-11-25T06:49:00+00:00,2026-11-25T07:12:15.119220+00:00,1708,futures_signals_pairs_crypto
+3672767,18139,"#ADA/USDT LONG
+
+Entry : 
+
+1) 0.14250
+2) 0.13822
+
+T....14927
+4) 0.15224
+
+ Stop : 0.13352
+
+Leverage : 10x",76a1105a98f752b4e05b98b015ed0c34,2026-11-25T04:58:50+00:00,2026-11-25T07:12:15.012143+00:00,1708,futures_signals_pairs_crypto
+3672765,18138,"#SUSHI/USDT LONG
+
+Entry : 
+
+1) 0.1497
+2) 0.1452
+
+T...) 0.1568
+4) 0.1599
+
+ Stop  : 0.1402
+
+Leverage: 10x",db3dbc3ab3e0cdb2f75a86a52019b263,2026-11-25T04:57:31+00:00,2026-11-25T07:12:15.000232+00:00,1708,futures_signals_pairs_crypto
