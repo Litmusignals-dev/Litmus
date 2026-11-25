@@ -9575,3 +9575,18 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3691290,1275161,"┏⛔️ SHORT #PIPPINUSDT 15m
 ┣ Signal Type: 📊 ema_tre...0 (ARG), 14:00 (MSK)
 /PIPPINUSDT_BinanceFuture_15m",efb66e3e038fde8c6174fe34f8dd7b11,2026-11-25T11:25:04+00:00,2026-11-25T14:42:24.725320+00:00,1543,binance_futures_macd_signals
+3699536,1275173,"┏⛔️ SHORT #HYPEUSDT 30m
+┣ Signal Type: 📉 macd_cros...:00 (ARG), 20:00 (MSK)
+/HYPEUSDT_BinanceFuture_30m",44322f6a9cd9219b28bc7184d0b3dc10,2026-11-25T17:25:08+00:00,2026-11-25T18:03:38.859747+00:00,1543,binance_futures_macd_signals
+3699534,1275172,"┏⛔️ SHORT #VVVUSDT 1h
+┣ Signal Type: 🔺 ema21_cross...20:00 (ARG), 20:00 (MSK)
+/VVVUSDT_BinanceFuture_1h",e57307accb2a34019cd7c7129ed78893,2026-11-25T17:10:05+00:00,2026-11-25T18:03:38.791473+00:00,1543,binance_futures_macd_signals
+3699535,1275171,"┏🟢 LONG #YGGUSDT 15m
+┣ Signal Type: 🟢 macd_rising_...9:00 (ARG), 19:00 (MSK)
+/YGGUSDT_BinanceFuture_15m",af6c4a76ea684844b35fc236c86988a8,2026-11-25T16:25:07+00:00,2026-11-25T18:03:38.792339+00:00,1543,binance_futures_macd_signals
+3699533,1275169,"┏🟢 LONG #LINKUSDT 15m
+┣ Signal Type: 🟢 macd_rising...:00 (ARG), 18:00 (MSK)
+/LINKUSDT_BinanceFuture_15m",8a1302bf8de58f6afed6ebc406203367,2026-11-25T15:25:04+00:00,2026-11-25T18:03:38.778160+00:00,1543,binance_futures_macd_signals
+3699531,1275168,"┏🟢 LONG #USELESSUSDT 30m
+┣ Signal Type: 🟢 macd_ris... (ARG), 18:00 (MSK)
+/USELESSUSDT_BinanceFuture_30m",80549e256695e7726ac498ad2e79841b,2026-11-25T15:10:05+00:00,2026-11-25T18:03:38.775726+00:00,1543,binance_futures_macd_signals

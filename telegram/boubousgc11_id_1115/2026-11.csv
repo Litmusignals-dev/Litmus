@@ -463,3 +463,31 @@ Signal Type: Regular...0.05287
 
 Stop Targets:
 5-10%",4610f51ca7590eeef758cf1bb5348341,2026-11-24T12:18:59+00:00,2026-11-24T14:58:54.384131+00:00,1115,boubousgc11
+3702110,1276,"Short
+
+
+#LTCUSDT 
+
+Entry : 41.75 - 43.60
+
+Targets:....25
+39.50
+
+Stop Targets:
+5-10%
+
+Leverage Cross 20x",1d3778b901661dc1d56f02245710d268,2026-11-25T18:26:43+00:00,2026-11-25T18:53:31.027472+00:00,1115,boubousgc11
+3702108,1273,"Short
+
+#ZECUSDT
+
+Entry : 742.00 - 765.00
+
+Targets:...argets:
+5-10%
+
+Leverage Cross 50x
+
+Use #DCA
+
+Risky",49b5b7e136a7a91f6aa7ebee65104db8,2026-11-25T18:16:10+00:00,2026-11-25T18:53:31.021610+00:00,1115,boubousgc11
