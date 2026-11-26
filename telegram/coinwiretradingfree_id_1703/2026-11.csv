@@ -520,3 +520,39 @@ Entry: 0.0...:
 3)0.0024
 
 StopLoss: 0.00328",2877ea0cf6c79d1f76a6c56d4018c21d,2026-11-26T05:49:18+00:00,2026-11-26T08:02:56.236164+00:00,1703,coinwiretradingfree
+3716413,1227,"🔴 Short
+
+Pair: #LTC/USDT
+
+📊 Entry Price: 
+
+1) 43.4...1.38
+4) 40.46
+
+Stop Loss: 46.20
+
+Leverage: 10x-20x",1082f46c9f7ed209492a6a2e1f3fee9e,2026-11-26T07:45:59+00:00,2026-11-26T08:02:56.772177+00:00,1703,coinwiretradingfree
+3716415,1225,"🟢 Long
+
+#CRV/USDT
+
+Entry : 
+
+1) 0.170700
+2) 0.1655...2378
+
+🛑 Stop : 0.159945
+
+Leverage : 70x (isolated)",fab73df7ab8f7ae3cbf19f0a81b4fdc3,2026-11-26T07:25:35+00:00,2026-11-26T08:02:56.785169+00:00,1703,coinwiretradingfree
+3716412,1223,"✅ Long
+
+Pair: #UNI/USDT
+
+📊 Entry Price: 
+
+1) 4.686...86
+4) 5.0065
+
+Stop Loss: 4.3907
+
+Leverage: 10x-20x",4962005fe648d6d96b5d278df7b6920a,2026-11-26T07:24:37+00:00,2026-11-26T08:02:56.635929+00:00,1703,coinwiretradingfree
