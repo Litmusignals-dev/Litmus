@@ -450,3 +450,19 @@ Stop Loss: 0.51...Target 4: 0.47451
 Target 5: 0.46894
 
 Leverage: x34",df1acba9d0712c83842258c0561b331c,2026-11-25T11:19:04+00:00,2026-11-25T16:17:28.776713+00:00,555,binance_signal_future_trading
+3708741,16125,"#KNC/USDT - Long🟢
+
+Entry: 0.0949
+Stop Loss: 0.05699
+
+Target 1: 0.10459
+
+Leverage: x16",cad3f72424ae7916533decac3310d1f8,2026-11-25T19:25:10+00:00,2026-11-25T23:03:33.962099+00:00,555,binance_signal_future_trading
+3708734,16119,"#BTC/USDT - Short🔴
+
+Entry: 59200
+Stop Loss: 79915.64198
+
+Target 1: 57362.7464
+
+Leverage: x25",15f911ab8776e675ec1cd7643765f41f,2026-11-25T17:21:25+00:00,2026-11-25T23:03:33.778271+00:00,555,binance_signal_future_trading
