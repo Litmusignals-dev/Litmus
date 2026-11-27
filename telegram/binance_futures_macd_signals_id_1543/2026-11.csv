@@ -9860,3 +9860,27 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3765844,1275258,"┏⛔️ SHORT #ENAUSDT 1h
 ┣ Signal Type: 📊 ema_trend_b...15:00 (ARG), 15:00 (MSK)
 /ENAUSDT_BinanceFuture_1h",051c33b369d05d55643d07a04db8340a,2026-11-27T12:10:08+00:00,2026-11-27T15:01:57.523141+00:00,1543,binance_futures_macd_signals
+3773591,1275271,"┏⛔️ SHORT #ZECUSDT 15m
+┣ Signal Type: 📉 macd_cross...1:00 (ARG), 21:00 (MSK)
+/ZECUSDT_BinanceFuture_15m",5d7b3be9543c4de335eed3281d0a1265,2026-11-27T18:25:03+00:00,2026-11-27T18:28:44.396422+00:00,1543,binance_futures_macd_signals
+3773590,1275270,"┏⛔️ SHORT #XLMUSDT 15m
+┣ Signal Type: 📉 macd_cross...1:00 (ARG), 21:00 (MSK)
+/XLMUSDT_BinanceFuture_15m",c5485c225a2ad1e067c6462f689ff406,2026-11-27T18:10:04+00:00,2026-11-27T18:28:44.365448+00:00,1543,binance_futures_macd_signals
+3773589,1275269,"┏🟢 LONG #SCRUSDT 15m
+┣ Signal Type: 🟢 macd_rising_...0:00 (ARG), 20:00 (MSK)
+/SCRUSDT_BinanceFuture_15m",8bd6544ce29d01b449343ea9ed21bc59,2026-11-27T17:25:06+00:00,2026-11-27T18:28:44.328671+00:00,1543,binance_futures_macd_signals
+3773588,1275268,"┏⛔️ SHORT #LISTAUSDT 30m
+┣ Signal Type: 📊 ema_tren...00 (ARG), 20:00 (MSK)
+/LISTAUSDT_BinanceFuture_30m",5b7b0a162e82d9a600b04e24e2463789,2026-11-27T17:10:09+00:00,2026-11-27T18:28:44.246164+00:00,1543,binance_futures_macd_signals
+3773584,1275267,"┏⛔️ SHORT #PORTALUSDT 15m
+┣ Signal Type: 📊 ema_tre...0 (ARG), 19:00 (MSK)
+/PORTALUSDT_BinanceFuture_15m",c431f0ea423d835653ea4d7b51fdc406,2026-11-27T16:25:02+00:00,2026-11-27T18:28:44.225030+00:00,1543,binance_futures_macd_signals
+3773587,1275266,"┏🟢 LONG #MANTAUSDT 1h
+┣ Signal Type: 💹 green_volum...:00 (ARG), 19:00 (MSK)
+/MANTAUSDT_BinanceFuture_1h",e0eb841fdad05396374a40c80b48e9d3,2026-11-27T16:10:02+00:00,2026-11-27T18:28:44.243637+00:00,1543,binance_futures_macd_signals
+3773585,1275265,"┏⛔️ SHORT #HYPEUSDT 15m
+┣ Signal Type: 🔴 sar_flip_...:00 (ARG), 18:00 (MSK)
+/HYPEUSDT_BinanceFuture_15m",2988c5cca6704286c7c945240d64f104,2026-11-27T15:25:02+00:00,2026-11-27T18:28:44.227752+00:00,1543,binance_futures_macd_signals
+3773586,1275264,"┏⛔️ SHORT #AGTUSDT 15m
+┣ Signal Type: bbands1, bba...8:00 (ARG), 18:00 (MSK)
+/AGTUSDT_BinanceFuture_15m",2e00fe23e35493c40e99ae58f5b23250,2026-11-27T15:10:02+00:00,2026-11-27T18:28:44.228433+00:00,1543,binance_futures_macd_signals
