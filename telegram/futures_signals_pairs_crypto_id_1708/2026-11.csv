@@ -3113,3 +3113,14 @@ Entry :
  Stop : 0.026447
 
 Leverage : 10x",a5527c3e8ecbf3b711c9429b440bbf93,2026-11-26T20:57:03+00:00,2026-11-26T21:57:47.908901+00:00,1708,futures_signals_pairs_crypto
+3751039,18279,"#BTC/USDT SHORT
+
+Entry : 
+
+1) 61510.20
+2) 63355.50...3.06
+4) 57254.62
+
+ Stop  : 65385.34
+
+Leverage: 10x",4f184b59b81d5b20b6991a777e58ed03,2026-11-27T04:05:53+00:00,2026-11-27T05:25:00.780941+00:00,1708,futures_signals_pairs_crypto
