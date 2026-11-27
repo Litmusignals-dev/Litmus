@@ -753,3 +753,15 @@ Entry: 0.1489
 Target 1: 0.1504
 Target 2: 0.1519
 Stoploss: 0.1458",85a398bf9ce60b848df7bfbcc0f14047,2026-11-26T05:00:26+00:00,2026-11-26T10:08:52.022599+00:00,477,Binance_AutoTrading_Signals
+3750167,14337,"INJUSDT LONG
+Leverage: Cross 20x
+Entry: 6.355
+Target 1: 6.419
+Target 2: 6.482
+Stoploss: 6.215",cbe12fe7559219ab0d1a3f6a71710997,2026-11-27T03:00:18+00:00,2026-11-27T04:27:54.441548+00:00,477,Binance_AutoTrading_Signals
+3750168,14336,"INJUSDT LONG
+Leverage: Cross 20x
+Entry: 6.355
+Target 1: 6.419
+Target 2: 6.482
+Stoploss: 6.215",cbe12fe7559219ab0d1a3f6a71710997,2026-11-27T03:00:17+00:00,2026-11-27T04:27:54.442851+00:00,477,Binance_AutoTrading_Signals
