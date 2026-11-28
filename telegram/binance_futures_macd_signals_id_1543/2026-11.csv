@@ -9938,3 +9938,18 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3785005,1275285,"┏🟢 LONG #BATUSDT 30m
 ┣ Signal Type: 🟢 macd_rising_...4:00 (ARG), 04:00 (MSK)
 /BATUSDT_BinanceFuture_30m",ee6cf789b6540a53a9b7c99420bd8dc4,2026-11-28T01:25:08+00:00,2026-11-28T03:59:22.387918+00:00,1543,binance_futures_macd_signals
+3786967,1275294,"┏🟢 LONG #SOLUSDT 1h
+┣ Signal Type: 📈 macd_cross_up...09:00 (ARG), 09:00 (MSK)
+/SOLUSDT_BinanceFuture_1h",bee512ddc1a561cfcad155a12605c786,2026-11-28T06:10:03+00:00,2026-11-28T06:16:00.905613+00:00,1543,binance_futures_macd_signals
+3786963,1275293,"┏🟢 LONG #ETHUSDT 30m
+┣ Signal Type: 📈 macd_cross_u...8:00 (ARG), 08:00 (MSK)
+/ETHUSDT_BinanceFuture_30m",95b6fdce2a2c0001e3425a97964d3122,2026-11-28T05:25:05+00:00,2026-11-28T06:16:00.887536+00:00,1543,binance_futures_macd_signals
+3786964,1275292,"┏⛔️ SHORT #BTCUSDT 15m
+┣ Signal Type: 📉 macd_cross...8:00 (ARG), 08:00 (MSK)
+/BTCUSDT_BinanceFuture_15m",2a81c406da1022519ee9d1c90e7f7577,2026-11-28T05:10:03+00:00,2026-11-28T06:16:00.893390+00:00,1543,binance_futures_macd_signals
+3786966,1275291,"┏🟢 LONG #TRBUSDT 1h
+┣ Signal Type: 🟢 macd_rising_b...07:00 (ARG), 07:00 (MSK)
+/TRBUSDT_BinanceFuture_1h",98a71dde9eb811af2371369084c84e5a,2026-11-28T04:25:04+00:00,2026-11-28T06:16:00.897825+00:00,1543,binance_futures_macd_signals
+3786965,1275290,"┏🟢 LONG #DOTUSDT 1h
+┣ Signal Type: 📈 macd_cross_up...07:00 (ARG), 07:00 (MSK)
+/DOTUSDT_BinanceFuture_1h",0bc9acfb7f39bcdac9a3aa07cc446940,2026-11-28T04:10:05+00:00,2026-11-28T06:16:00.894015+00:00,1543,binance_futures_macd_signals
