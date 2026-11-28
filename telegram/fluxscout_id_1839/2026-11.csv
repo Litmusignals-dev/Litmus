@@ -2685,3 +2685,31 @@ MC: $33.6...(sev 70) · CEX
 Ideal Entry: $0.1645
 
 fluxscout.xyz",a37a6ec5bcdbf8ce9b8d243f394000ba,2026-11-27T18:00:54+00:00,2026-11-27T21:17:22.002676+00:00,1839,fluxscout
+3784722,7118,"🟢 BUY | Volume Anomaly
+
+$INIT — Initia
+MC: $18.9M ...856
+Target: $0.0899 | Stop: $0.0770
+
+fluxscout.xyz",18f4850add87663b29335a54c091d552,2026-11-28T03:15:52+00:00,2026-11-28T03:22:24.019034+00:00,1839,fluxscout
+3784723,7116,"🔴 SELL | Volume Anomaly
+
+$CFG — Centrifuge
+MC: $24...(sev 70) · CEX
+Ideal Entry: $0.0643
+
+fluxscout.xyz",4c521b08eb15af6c3a0bd82a25437953,2026-11-28T02:05:52+00:00,2026-11-28T03:22:24.019975+00:00,1839,fluxscout
+3784720,7115,"🔴 SELL | Volume Anomaly
+
+$MMT — Momentum
+MC: $34.5...(sev 70) · CEX
+Ideal Entry: $0.1692
+
+fluxscout.xyz",66669704a86ff07f40a9153f67fbc240,2026-11-28T02:05:50+00:00,2026-11-28T03:22:23.997000+00:00,1839,fluxscout
+3784719,7114,"🟢 BUY | Volume Anomaly
+
+$EVAA — EVAA Protocol
+MC: ...: $1.33
+Target: $1.40 | Stop: $1.20
+
+fluxscout.xyz",6b7b9fbcbd7e8c6574098543f6efffea,2026-11-28T01:05:52+00:00,2026-11-28T03:22:23.985823+00:00,1839,fluxscout

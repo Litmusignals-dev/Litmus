@@ -9923,3 +9923,18 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3783287,1275278,"┏🟢 LONG #BIGTIMEUSDT 30m
 ┣ Signal Type: 🟢 macd_ris... (ARG), 01:00 (MSK)
 /BIGTIMEUSDT_BinanceFuture_30m",e17efc84d1395d19b91cf5d6951646e5,2026-11-27T22:10:03+00:00,2026-11-28T01:14:01.433153+00:00,1543,binance_futures_macd_signals
+3785004,1275289,"┏⛔️ SHORT #ZECUSDT 15m
+┣ Signal Type: ⚖️ macd_pric...6:00 (ARG), 06:00 (MSK)
+/ZECUSDT_BinanceFuture_15m",d2d5a85bfcbf9cf4bd3ea94647f297bc,2026-11-28T03:25:02+00:00,2026-11-28T03:59:22.387520+00:00,1543,binance_futures_macd_signals
+3785006,1275288,"┏⛔️ SHORT #BCHUSDT 15m
+┣ Signal Type: ⚖️ macd_pric...6:00 (ARG), 06:00 (MSK)
+/BCHUSDT_BinanceFuture_15m",c632a444bdcd9366ee05a1d2d76a1f5d,2026-11-28T03:10:03+00:00,2026-11-28T03:59:22.394783+00:00,1543,binance_futures_macd_signals
+3785007,1275287,"┏⛔️ SHORT #XRPUSDT 1h
+┣ Signal Type: 📉 macd_cross_...05:00 (ARG), 05:00 (MSK)
+/XRPUSDT_BinanceFuture_1h",c865ed14a39c29ea12771a77f83746a8,2026-11-28T02:25:07+00:00,2026-11-28T03:59:22.396929+00:00,1543,binance_futures_macd_signals
+3785008,1275286,"┏⛔️ SHORT #GALAUSDT 30m
+┣ Signal Type: ⚖️ macd_pri...:00 (ARG), 05:00 (MSK)
+/GALAUSDT_BinanceFuture_30m",8f83a0328c15f573037ddde8d956f7d5,2026-11-28T02:10:06+00:00,2026-11-28T03:59:22.400058+00:00,1543,binance_futures_macd_signals
+3785005,1275285,"┏🟢 LONG #BATUSDT 30m
+┣ Signal Type: 🟢 macd_rising_...4:00 (ARG), 04:00 (MSK)
+/BATUSDT_BinanceFuture_30m",ee6cf789b6540a53a9b7c99420bd8dc4,2026-11-28T01:25:08+00:00,2026-11-28T03:59:22.387918+00:00,1543,binance_futures_macd_signals
