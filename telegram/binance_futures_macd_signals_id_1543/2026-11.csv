@@ -9953,3 +9953,18 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 3786965,1275290,"┏🟢 LONG #DOTUSDT 1h
 ┣ Signal Type: 📈 macd_cross_up...07:00 (ARG), 07:00 (MSK)
 /DOTUSDT_BinanceFuture_1h",0bc9acfb7f39bcdac9a3aa07cc446940,2026-11-28T04:10:05+00:00,2026-11-28T06:16:00.894015+00:00,1543,binance_futures_macd_signals
+3790765,1275299,"┏🟢 LONG #BNBUSDT 15m
+┣ Signal Type: 🟢 macd_rising_...1:00 (ARG), 11:00 (MSK)
+/BNBUSDT_BinanceFuture_15m",0dd6c5b41f911269f31832ad910ca324,2026-11-28T08:25:10+00:00,2026-11-28T08:45:36.442751+00:00,1543,binance_futures_macd_signals
+3790767,1275298,"┏🟢 LONG #XRPUSDT 1h
+┣ Signal Type: 📈 macd_cross_up...11:00 (ARG), 11:00 (MSK)
+/XRPUSDT_BinanceFuture_1h",7cd0429090635d7f24557bc15783db8a,2026-11-28T08:10:13+00:00,2026-11-28T08:45:36.445307+00:00,1543,binance_futures_macd_signals
+3790766,1275297,"┏🟢 LONG #DOLOUSDT 1h
+┣ Signal Type: 💹 green_volume...0:00 (ARG), 10:00 (MSK)
+/DOLOUSDT_BinanceFuture_1h",d72484b377efda7fa4c4ebaf9ed4fb1b,2026-11-28T07:25:06+00:00,2026-11-28T08:45:36.444576+00:00,1543,binance_futures_macd_signals
+3790764,1275296,"┏🟢 LONG #INITUSDT 1h
+┣ Signal Type: 🟢 macd_rising_...0:00 (ARG), 10:00 (MSK)
+/INITUSDT_BinanceFuture_1h",9641a937a64f5778894ad27c5ddd3bfc,2026-11-28T07:10:05+00:00,2026-11-28T08:45:36.437035+00:00,1543,binance_futures_macd_signals
+3790763,1275295,"┏🟢 LONG #BIGTIMEUSDT 1h
+┣ Signal Type: 🟢 macd_risi...0 (ARG), 09:00 (MSK)
+/BIGTIMEUSDT_BinanceFuture_1h",c341d64631a6d042f01053cd7299d1da,2026-11-28T06:25:03+00:00,2026-11-28T08:45:36.432408+00:00,1543,binance_futures_macd_signals
